@@ -1,0 +1,38 @@
+[
+  {
+    "id": "c9afa6dc-2085-4000-b27e-84f3d7965a74",
+    "data": [
+      {
+        "text": "I forgot my student ID.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518252060
+  },
+  {
+    "id": "b773ad3e-5335-47e4-99c0-27aa42f14e28",
+    "data": [
+      {
+        "text": "I don\u0027t know my student ID.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518252060
+  },
+  {
+    "id": "142d6b18-221d-44cf-8db8-859d17dfc255",
+    "data": [
+      {
+        "text": "I can\u0027t remember my ID. How can I look it up?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518252060
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "a2ff3d87-f574-4ff0-94e7-5f50942a3dad",
+    "data": [
+      {
+        "text": "Can you help me get in touch with my instructor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518501954
+  },
+  {
+    "id": "339a60e2-5776-4024-b0dd-2c1e397de71b",
+    "data": [
+      {
+        "text": "I need to email my instructor.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518501954
+  },
+  {
+    "id": "d1a659bc-79bd-4022-b3f5-7860b6ce60ae",
+    "data": [
+      {
+        "text": "How do I contact my teacher?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518501954
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "id": "c7b80789-9edf-4c2f-8954-4ee5ddb1abd7",
+  "name": "cc.test-make-up",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The Testing Center is located on the West Campus in Room W2470. All testing is administered on a walk-in basis between the current business hours listed on the Testing Center webpage. Students should refer to the applicable webpage for available hours.\nhttp://www.century.edu/admissions\n\nNote to Students:\n\n• You will be required to show valid photo identification before receiving the test, so make sure you bring one on the day you plan on taking the test. There will be no exceptions.\n\n• You are expected to bring any necessary materials such as pencils or calculators as well.\n\n• We can only administer paper \u0026 pencil testing at this time. We do not have the capability of giving tests on computers.\n\n• There is no make-up testing on Fridays.\n\n• End of Semester Make Up Testing Dates: Due to space limitations and the need to provide ACCUPLACER Course Placement Testing to new students, makeup testing will not be available during finals week and continuing until the start of the next semester.\n\n• At various times the center is full to capacity due to ACCUPLACER Course Placement Testing and therefore testing services may be unavailable.\n\n• Testing Privileges: Students will be given a copy of the testing guidelines prior to receiving a test. If a student becomes argumentative or disruptive, their testing privileges in the center will be revoked for the remainder of the semester.\n\nStudents please be advised that once the test has been distributed, you will not be allowed to leave the testing area, answer telephones, or listen to headphones. Violations of any of these rules will be noted on the testing cover sheet and the test will not be considered valid by the testing administrator."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518251840,
+  "fallbackIntent": false,
+  "events": []
+}

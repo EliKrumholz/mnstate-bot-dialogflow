@@ -1,0 +1,29 @@
+{
+  "id": "cf77e2ee-4747-468b-882d-845ae82b82cd",
+  "name": "file.application.edit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "file.application.edit",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510096205454,
+  "fallbackIntent": false,
+  "events": []
+}

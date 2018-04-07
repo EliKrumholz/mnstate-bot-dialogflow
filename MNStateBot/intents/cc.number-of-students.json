@@ -1,0 +1,49 @@
+{
+  "id": "7f0f777b-e2ad-47cf-976e-8c50f1dc34b6",
+  "name": "cc.number-of-students",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1ffbe854-cc50-4260-b158-4bb25ba3da7f",
+          "required": false,
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        },
+        {
+          "id": "8d8b0c82-478a-4c91-a862-a1b1a061f9a6",
+          "required": false,
+          "dataType": "@degrees",
+          "name": "degrees",
+          "value": "$degrees",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Century has more than 21,000 credit and non-credit students.",
+            "Century has 10,073 total: 3,985 full-time and 6,088 part-time. There are 1000s more taking non-credit classes.",
+            "Century has 10,073 total total students."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1511826144,
+  "fallbackIntent": false,
+  "events": []
+}

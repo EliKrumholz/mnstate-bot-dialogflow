@@ -1,0 +1,36 @@
+{
+  "id": "5e423b1f-f800-4173-b372-23788de8b6e9",
+  "name": "cc.engineering.difficulty",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3e348094-8672-45fd-89fa-014050220842",
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Yes! The program is rigorous. You will need to put in a lot of time studying. Its hard work but the payoff is great. With the small class sizes you will get to know your instructor quite well and be able to get help when you need it. We are here to help you succeed."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518507814,
+  "fallbackIntent": false,
+  "events": []
+}

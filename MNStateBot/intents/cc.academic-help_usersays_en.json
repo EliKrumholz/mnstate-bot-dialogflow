@@ -1,0 +1,50 @@
+[
+  {
+    "id": "43e67278-bbe4-4241-8fee-f8518868feb1",
+    "data": [
+      {
+        "text": "I\u0027m struggling with my course work, what resources are available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518499603
+  },
+  {
+    "id": "af5a95c6-71b7-481f-aeea-303d0dcff43e",
+    "data": [
+      {
+        "text": "Could you help me with my classes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518499603
+  },
+  {
+    "id": "28db47e3-1510-45d1-8475-7a2ff2b59f10",
+    "data": [
+      {
+        "text": "I need help with the classes I\u0027m taking.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518499603
+  },
+  {
+    "id": "79b08839-a6f5-4fa8-b42e-d2f650671147",
+    "data": [
+      {
+        "text": "Where can I go if I need help with a class I am taking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518499603
+  }
+]

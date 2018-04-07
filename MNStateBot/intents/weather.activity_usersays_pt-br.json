@@ -1,0 +1,324 @@
+[
+  {
+    "id": "0c90c6bd-bb96-4154-aaa2-5b4ff9cdf417",
+    "data": [
+      {
+        "text": "em ",
+        "userDefined": false
+      },
+      {
+        "text": "Salvador",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": " o tempo está bom para ",
+        "userDefined": false
+      },
+      {
+        "text": "ir a praia",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0482fc49-0960-4002-9fad-81e04b1d3bba",
+    "data": [
+      {
+        "text": "quero fazer uma ",
+        "userDefined": false
+      },
+      {
+        "text": "caminhada",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "amanhã de manhã",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " pode me dizer se o tempo estará bom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2a45dbbe-017e-46ee-aa32-785950d0c112",
+    "data": [
+      {
+        "text": "me diga se o tempo está bom para ",
+        "userDefined": false
+      },
+      {
+        "text": "surfar",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hoje",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " no ",
+        "userDefined": false
+      },
+      {
+        "text": "Rio de Janeiro",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dfc89e1d-2128-455e-9ec9-c5e27bb2231e",
+    "data": [
+      {
+        "text": "caminhada",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " é uma boa ideia agora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f1fc5a85-8c29-40c0-b500-d5cca5405ad8",
+    "data": [
+      {
+        "text": "o tempo está bom o bastante para ",
+        "userDefined": false
+      },
+      {
+        "text": "jogar frisbee",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " lá fora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7d34c828-d01d-4176-a918-924f929d040f",
+    "data": [
+      {
+        "text": "planejo ",
+        "userDefined": false
+      },
+      {
+        "text": "esquiar",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hoje",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " é possível",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aeaaee9e-a178-4a6a-bc8e-b0fc1856e45e",
+    "data": [
+      {
+        "text": "posso ",
+        "userDefined": false
+      },
+      {
+        "text": "surfar",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74f8c16b-74a7-4b72-a6a2-0a28a1d3a43e",
+    "data": [
+      {
+        "text": "o clima está bom para ",
+        "userDefined": false
+      },
+      {
+        "text": "caminhar",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "23ffce38-d6c3-4d17-acb9-377e458e592e",
+    "data": [
+      {
+        "text": "o clima está bom o suficiente para ",
+        "userDefined": false
+      },
+      {
+        "text": "jogar frisbee",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " ao ar livre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f96d32dc-e9df-469c-a71f-1c81a3791b20",
+    "data": [
+      {
+        "text": "é uma boa ideia fazer uma ",
+        "userDefined": false
+      },
+      {
+        "text": "caminhada",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " agora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b1019efc-3f0b-4a4d-8af3-11eb059d4711",
+    "data": [
+      {
+        "text": "você acha que o clima está ruim para ",
+        "userDefined": false
+      },
+      {
+        "text": "jogar frisbee",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "79b2fad7-c14c-4425-bec0-8eb1f695cf5d",
+    "data": [
+      {
+        "text": "o clima está bom para ",
+        "userDefined": false
+      },
+      {
+        "text": "guerras de bola de neve",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d17070b-b8cd-4544-bf6f-1c327bfe7c5e",
+    "data": [
+      {
+        "text": "você acha que o clima está bom para ",
+        "userDefined": false
+      },
+      {
+        "text": "pedalar",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e1ff5036-da7a-4191-8015-35e75a8b24c3",
+    "data": [
+      {
+        "text": "devo sair para ",
+        "userDefined": false
+      },
+      {
+        "text": "correr",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

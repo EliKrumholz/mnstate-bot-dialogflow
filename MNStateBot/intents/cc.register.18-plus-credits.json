@@ -1,0 +1,37 @@
+{
+  "id": "7d0c95fa-a0c2-43e9-9d10-f12fe882d02a",
+  "name": "cc.register.18-plus-credits",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "707c0386-45de-47db-b495-ba83a7961566",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "If you want to register for more than 18 credits, you will need to complete an Exceed Maximum 18 Credit Limit Appeal form for approval by the Registrar, Room 2220 West Campus."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518370316,
+  "fallbackIntent": false,
+  "events": []
+}

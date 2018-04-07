@@ -1,0 +1,28 @@
+{
+  "id": "c486135b-a07a-4571-bd82-ef4cb14fd123",
+  "name": "cc.deanslist-whenreported",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The deans list is reported 6 weeks after the end of each term, this is when the transcript notation is applied."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516569734,
+  "fallbackIntent": false,
+  "events": []
+}

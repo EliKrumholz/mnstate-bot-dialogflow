@@ -1,0 +1,52 @@
+[
+  {
+    "id": "dca3c66a-a57d-4269-8cbe-56c944b9d0be",
+    "data": [
+      {
+        "text": "When will I find out if I got in to the Power of YOU program?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518535984
+  },
+  {
+    "id": "0e036d23-05e0-4fb8-bad9-55dfb779076c",
+    "data": [
+      {
+        "text": "Did",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I get accepted into the Power of YOU?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518535984
+  },
+  {
+    "id": "a74d3002-8e45-40f1-8d3a-0b3dc9510983",
+    "data": [
+      {
+        "text": "How will I know if I\u0027ve ",
+        "userDefined": false
+      },
+      {
+        "text": "been",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " accepted into the Power of YOU program?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518535984
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "id": "46f8fefe-80c2-4682-b5f9-963c5624d5a1",
+  "name": "cc.courses.recommend",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Class selection should be based on ACCUPLACER Course Placement Testing scores, program/degree and/or transfer goals. Returning students can meet with a Century College counselor or advisor to assist in this process. For an appointment or for Quick Stop hours, visit the Advising, Counseling and Career Center (W2410) on West Campus or call 651-779-3285. Also, if you are in an occupational/technical program, check in with your program instructor/adviser for course selection.\nhttp://www.century.edu/directory.aspx\n\nIf you are a new student to Century College, contact the Admission Office.\nhttp://www.century.edu/futurestudents/admissions/default.aspx"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518337010,
+  "fallbackIntent": false,
+  "events": []
+}

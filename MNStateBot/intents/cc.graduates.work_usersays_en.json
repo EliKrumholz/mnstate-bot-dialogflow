@@ -1,0 +1,65 @@
+[
+  {
+    "id": "26aa4c67-2bbb-4c2b-b6aa-0c2d5fff1b47",
+    "data": [
+      {
+        "text": "Are ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": true
+      },
+      {
+        "text": " graduates working in ",
+        "userDefined": false
+      },
+      {
+        "text": "industry",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518535865
+  },
+  {
+    "id": "b0618e4f-3bde-4913-a908-16da896383f3",
+    "data": [
+      {
+        "text": "Where ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": " graduates work?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518535865
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "44319fe4-ad3d-40eb-991c-f1ab93ed21f8",
+    "data": [
+      {
+        "text": "Why is my myCentury login not work?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518498548
+  },
+  {
+    "id": "e18fddf2-02a3-42b7-8308-127acd91444d",
+    "data": [
+      {
+        "text": "Why can\u0027t I log in to my myCentury account?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518498548
+  },
+  {
+    "id": "a347c659-4975-4afe-90ea-732f715763e8",
+    "data": [
+      {
+        "text": "Why does it say \"User Account Not Found\" when I try to activate my myCentury account?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518498386
+  }
+]

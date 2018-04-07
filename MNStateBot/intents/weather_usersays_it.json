@@ -1,0 +1,212 @@
+[
+  {
+    "id": "4d167619-8322-436a-abcb-8425cd005bb4",
+    "data": [
+      {
+        "text": "tempo di ",
+        "userDefined": false
+      },
+      {
+        "text": "oggi",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "Madrid",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee60366a-7b81-45b1-b747-eeef9c1f6de2",
+    "data": [
+      {
+        "text": "che tempo fa a ",
+        "userDefined": false
+      },
+      {
+        "text": "Napoli",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "questa mattina",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a33d010e-1af4-4c5a-80c5-20a2872fbc65",
+    "data": [
+      {
+        "text": "che tempo fa ",
+        "userDefined": false
+      },
+      {
+        "text": "oggi",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "589d1132-029b-431a-95d4-d1c99edab506",
+    "data": [
+      {
+        "text": "che tempo fa a ",
+        "userDefined": false
+      },
+      {
+        "text": "Roma",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3620ec29-8588-4875-a386-886d971e9915",
+    "data": [
+      {
+        "text": "previsioni del tempo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5be1cadb-6946-4e9a-9c98-26de6829d085",
+    "data": [
+      {
+        "text": "previsioni meteo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e90aaf3b-aeb8-4fc9-8e8e-987efd03df51",
+    "data": [
+      {
+        "text": "tempo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53b6c7c1-1e7e-40ea-910c-f1ff5dd1540e",
+    "data": [
+      {
+        "text": "che tempo farà a ",
+        "userDefined": false
+      },
+      {
+        "text": "Londra",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "domani",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "caddb72a-d8e8-4123-9f9c-65a6a064858c",
+    "data": [
+      {
+        "text": "previsioni del tempo per ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa01e76a-1a16-4fd3-b53f-0f9d889d6fef",
+    "data": [
+      {
+        "text": "che tempo fa a ",
+        "userDefined": false
+      },
+      {
+        "text": "Londra",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54dfbcf5-bdd6-4dda-a414-cee03778d41e",
+    "data": [
+      {
+        "text": "tempo di ",
+        "userDefined": false
+      },
+      {
+        "text": "oggi",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

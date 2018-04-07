@@ -1,0 +1,36 @@
+{
+  "id": "35ac83ed-c789-4715-a60a-1051b287d1db",
+  "name": "cc.crisis-hotline",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ddabde6d-c325-47ab-ae68-d433150b9c14",
+          "dataType": "@degrees",
+          "name": "degrees",
+          "value": "$degrees",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Here is some information I hope you find useful.\n\nCrisis Connection 24 Hour Help Line - Twin Cities:\n612-379-6363 or 1-866-379-6363\n\nAdult Mental Health Crisis Services for Residents of Washington County:\nHuman Services, Inc. 24 Hour Mental Health Crisis Line: 651-777-5222\nRape/Sexual Abuse: 651-777-1117\nPyschiatric Emergencies: 612-347-2222\n\nRamsey County Adult Mental Health 24 hour Crisis Phone:\n651-266-7900\n\nNational Hotlines:\nNational Suicide Prevention Lifeline: 1-800-273-TALK (8255)\nNational Domestic Abuse Hotline: 1-800-799-SAFE (7233)\n\nTubman Family Alliance:\nEmergency shelter services for women and children\n24 Hour Help Line 651-770-0777 (East Metro) OR 612-825-0000"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518507580,
+  "fallbackIntent": false,
+  "events": []
+}

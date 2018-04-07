@@ -1,0 +1,40 @@
+{
+  "id": "81aaf98c-9358-48d5-870a-9d8d5611bc08",
+  "name": "cc.parking",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "68fd0b47-38e5-4d95-8b69-c59d7ebc2f4f",
+          "required": false,
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "There are large lots available for parking next to school on the east and west campuses. Parking is free, except there is a $4.45/credit parking fee per semester.",
+            "Century has large parking lots next to the classroom buildings. Parking is free, except there is a $4.45/credit parking fee per semester."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1512152847,
+  "fallbackIntent": false,
+  "events": []
+}

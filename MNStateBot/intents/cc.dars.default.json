@@ -1,0 +1,28 @@
+{
+  "id": "b3e5d695-8d91-4f06-8519-ee14ab3e01b9",
+  "name": "cc.dars.default",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There are several reasons you may get this message. An audit is not available when the DARS Encoder is making changes or updates so please try again in 24 hours. It could also be that there may be a problem with your enrollment information. Check your enrollment status at the Records Office or DARS Office to make sure your student information is correct."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518499475,
+  "fallbackIntent": false,
+  "events": []
+}

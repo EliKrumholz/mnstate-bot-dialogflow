@@ -1,0 +1,28 @@
+{
+  "id": "a4d31b02-c527-469d-917c-71dc326b08dc",
+  "name": "cc.tuition-bill",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "We no longer mail tuition bills. If you would like to view or print your bill, you can do so through your on-line registration account.  You will need your Century College student ID number and PIN to access your account. Once you are in, click on \"Bills and Payment\" and then click on \"Full Account Detail\". Make sure you are in the appropriate semester for the bill that you want. Click here to begin: https://eservices.minnstate.edu/eservices/login.html?campusid\u003d304\nhttps://eservices.minnstate.edu/eservices/login.html?campusid\u003d304"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518332425,
+  "fallbackIntent": false,
+  "events": []
+}

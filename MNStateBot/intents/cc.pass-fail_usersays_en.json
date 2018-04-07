@@ -1,0 +1,36 @@
+[
+  {
+    "id": "59a60784-ebc2-466d-a2e6-faa5e1db3cab",
+    "data": [
+      {
+        "text": "Does ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": " offer pass/fail classes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518335805
+  },
+  {
+    "id": "091ee664-cd86-44b9-aaac-321af62383b0",
+    "data": [
+      {
+        "text": "Can I take a pass/fail grade in a class?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518335805
+  }
+]

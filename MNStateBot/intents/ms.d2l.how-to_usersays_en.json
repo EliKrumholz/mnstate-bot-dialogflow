@@ -1,0 +1,141 @@
+[
+  {
+    "id": "734ea496-29b4-4464-98c4-1894a3c4e37c",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I use D2L?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516669536
+  },
+  {
+    "id": "a9e4f393-9026-44a7-add0-6b16199488e6",
+    "data": [
+      {
+        "text": "Are there any guides on how to use D2L?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518532045
+  },
+  {
+    "id": "6f6df3ad-e2db-4fd9-acab-16a0c7b2b52a",
+    "data": [
+      {
+        "text": "Is there a video on how to use D2L?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518532045
+  },
+  {
+    "id": "e8b64198-28f9-4412-9d64-be52877ce3c3",
+    "data": [
+      {
+        "text": "Is there a tutorial on how to use D2L?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518532045
+  },
+  {
+    "id": "b2d9a1e0-87bd-4cb5-a6b9-3b94fba24e6e",
+    "data": [
+      {
+        "text": "Can I get help learning D2L?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518532045
+  },
+  {
+    "id": "92404bd7-f9c4-453c-9813-f319102c9f41",
+    "data": [
+      {
+        "text": " Are There Student Videos, Guides and Tutorials for Learning to Use D2L ",
+        "userDefined": false
+      },
+      {
+        "text": "Brightspace",
+        "alias": "D2L",
+        "meta": "@D2L",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518532045
+  },
+  {
+    "id": "ff6895b4-17c0-4f61-9dc4-7f751a010617",
+    "data": [
+      {
+        "text": "I need help using D2L.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518532045
+  },
+  {
+    "id": "e80e6b44-493d-498b-848a-24f62bcf6f0f",
+    "data": [
+      {
+        "text": "How will D2L help me learn?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516669536
+  },
+  {
+    "id": "62593f6f-d0ac-40b0-8a1c-f1bf4607f880",
+    "data": [
+      {
+        "text": "What are some cool functions of D2L?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516669536
+  },
+  {
+    "id": "5d072e27-a241-4a35-978b-95bbd681293b",
+    "data": [
+      {
+        "text": "How does D2L work?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1516669536
+  }
+]

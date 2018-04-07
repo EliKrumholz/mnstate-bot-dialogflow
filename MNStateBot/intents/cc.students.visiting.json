@@ -1,0 +1,28 @@
+{
+  "id": "2eee0dbb-54c5-4eaf-b67e-00d4fb1269b6",
+  "name": "cc.students.visiting",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Students who are currently admitted at another college or university and who are not interested in completing a degree, diploma or certificate at Century College may choose to attend Century as a visiting student by following the instructions under Admissions for Non-Degree Seeking or Visiting Students.\nhttp://www.century.edu/admissions/non-degree-seekingvisiting-student"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518508431,
+  "fallbackIntent": false,
+  "events": []
+}

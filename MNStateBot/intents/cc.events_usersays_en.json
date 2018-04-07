@@ -1,0 +1,86 @@
+[
+  {
+    "id": "b7357fbd-02eb-4c42-99f3-b4110bf773f7",
+    "data": [
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": true
+      },
+      {
+        "text": " events",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518504482
+  },
+  {
+    "id": "1fa88b5b-cac2-4a06-9788-86e13e26b5b0",
+    "data": [
+      {
+        "text": "Can you show me ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027s events?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518504482
+  },
+  {
+    "id": "4439aa46-83d8-4764-b976-86c0d969747b",
+    "data": [
+      {
+        "text": "What events is ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": " hosting?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518504482
+  },
+  {
+    "id": "2ffa1b71-ea3b-4973-9147-855ce23f351a",
+    "data": [
+      {
+        "text": "Where can I search for ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": true
+      },
+      {
+        "text": " events?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518504482
+  }
+]

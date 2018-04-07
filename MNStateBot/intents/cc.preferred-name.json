@@ -1,0 +1,36 @@
+{
+  "id": "f1576e70-8f40-496f-bf13-d01b0f14dc5d",
+  "name": "cc.preferred-name",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7f2f303c-af6d-4cad-a01a-7001082d8b96",
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There is a lot to read for this one! I\u0027m going to leave this link here for you: http://century.custhelp.com/app/answers/detail/a_id/657"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518536480,
+  "fallbackIntent": false,
+  "events": []
+}

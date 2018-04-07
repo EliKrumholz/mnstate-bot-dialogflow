@@ -1,0 +1,28 @@
+{
+  "id": "f0c116b9-b770-4194-81e7-3110ba1afdb6",
+  "name": "cc.change-of-information",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "To officially change this information, you will need to fill out the Student Change of Information Form (here:   https://www.century.edu/sites/default/files/Records_studentchangeofinformation.pdf ) and bring it to the Records Office.\n\nYou can update your address through eServices Account Management: https://eservices.minnstate.edu/eservices/login.html?campusid\u003d304"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518331540,
+  "fallbackIntent": false,
+  "events": []
+}

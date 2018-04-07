@@ -1,0 +1,28 @@
+{
+  "id": "1faf3e71-254b-4ec3-84d2-20d4d0899663",
+  "name": "cc.courses.register.blocked",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You could be blocked from registering for classes because:\n\n    The class you want is full. Check online for other available sections, or add yourself to the wait list if available.\n    You owe money. Look up your account balance online or contact the Business Office at 651-779-3278.\n    You are on academic suspension.  See a counselor or call 651-779-3285 to make an appointment.\n    You have a hold on your records.  Check online by clicking on “Check Registration Holds” in your e-services account.\n    The registration system does not verify if you have the prerequisites needed for the course.  Check the course prerequisites to determine your status or contact the Records Office at 651-779-3299.\n\nAbout prerequisites:\nPrerequisites are courses or test placements that are required to register for a course. (See the online course description or college catalog).\nIf you think the registration system is in error, provide any documentation that proves you have met the course prerequisites listed in the college catalog. (Unofficial transcripts are acceptable for prerequisites).\n\nIf you didn\u0027t find your answer above, you may want to check out this link: http://century.custhelp.com/app/answers/detail/a_id/479"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518538201,
+  "fallbackIntent": false,
+  "events": []
+}

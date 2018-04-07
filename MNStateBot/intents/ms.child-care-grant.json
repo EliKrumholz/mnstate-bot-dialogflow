@@ -1,0 +1,28 @@
+{
+  "id": "523072ee-5cf6-4441-8a66-16af51a3c57c",
+  "name": "ms.child-care-grant",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Child care grant applications are available after July 1 for each award year.   The basic qualifications are:\n\n    Complete the FAFSA application\n    Must be a Minnesota resident\n    Must be registered for 6 or more credits\n    Your child or children must in the care of a paid child care provider \n\nThe application is here:\nhttps://www.century.edu/sites/default/files/FinancialAid_ChildcareGrantApp_17-18.pdf"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516681128,
+  "fallbackIntent": false,
+  "events": []
+}

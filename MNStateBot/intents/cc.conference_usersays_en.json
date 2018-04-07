@@ -1,0 +1,56 @@
+[
+  {
+    "id": "9a54ee91-5b79-4394-9e61-68cbff7090eb",
+    "data": [
+      {
+        "text": "What conference does ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": " belong to?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1511847103
+  },
+  {
+    "id": "1c1f215a-8ded-4796-a5ec-94fbf459aede",
+    "data": [
+      {
+        "text": "What conference ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "alias": "degrees",
+        "meta": "@degrees",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": " teams play in?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1511847103
+  }
+]

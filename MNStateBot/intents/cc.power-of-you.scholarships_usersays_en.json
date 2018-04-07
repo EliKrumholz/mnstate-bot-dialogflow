@@ -1,0 +1,78 @@
+[
+  {
+    "id": "8f96d4bf-5b1e-48ea-85dd-26eea1dce4c5",
+    "data": [
+      {
+        "text": "What scholarships are available for students transferring to ",
+        "userDefined": false
+      },
+      {
+        "text": "a four year",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " college?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518538343
+  },
+  {
+    "id": "0059d1ad-f8a4-416b-bd03-56869b77ebd6",
+    "data": [
+      {
+        "text": "What scholarships are available with the Power of YOU?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518538306
+  },
+  {
+    "id": "71574bec-5b5f-4eae-be5d-d058eec4b8ce",
+    "data": [
+      {
+        "text": "Are there any scholarships available to complete a ",
+        "userDefined": false
+      },
+      {
+        "text": "four year",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " degree after completing my ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "alias": "ordinal",
+        "meta": "@sys.ordinal",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "two years in the",
+        "alias": "date-period1",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " Power of YOU?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518538306
+  }
+]

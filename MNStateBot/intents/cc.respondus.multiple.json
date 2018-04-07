@@ -1,0 +1,50 @@
+{
+  "id": "ec8e0fd8-c3ad-4d33-a9cc-f1b0314cfa8e",
+  "name": "cc.respondus.multiple",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "143538db-e82f-4a09-8f96-36f70d0f6c7e",
+          "dataType": "@respondus",
+          "name": "respondus",
+          "value": "$respondus",
+          "isList": false
+        },
+        {
+          "id": "154962db-c4a4-4702-b807-1266488640b7",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "abe47cb8-be3b-420b-a948-617fe5130f04",
+          "dataType": "@unit-time",
+          "name": "unit-time",
+          "value": "$unit-time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "If a student already has installed the Respondus Lockdown Browser on a personal computer, attempting to download/install the LDB again, will prompt a pop-up window telling them that the browser is already installed. If the student is installing the Lockdown Browser for a second institution or campus click the \"Yes\" button.\n\nAfter clicking the \"Yes\" button a second pop-up giving the option to \"Install Lockdown Browser for a Second Institution\" will be presented. Select this option and click the \"Next\" button. The rest of the installation will happen automatically and a new \"Lockdown Browser (2)\" icon will show up on the desktop as well as in the Start Menu under Start\u003ePrograms\u003eRespondus. Either or both of these should be renamed, (as should the first instance titled \"LockDown Browser\".)\n\nHow to rename Start Menu items \u0026 Desktop icons:\nRight-clicking on the menu choice or desktop icon allows the user to choose the \"Rename\" option. Each menu choice or desktop icon should be renamed accordingly with the name of the institution in the link\u0027s title. (i.e. Century College Lockdown Browser, Metro-State Lockdown Browser, Inver Hills Lockdown Browser.) Once these are renamed, the student can continue to install and easily identify additional instances of the LDB for more schools."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518534278,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,59 @@
+[
+  {
+    "id": "6a4dc42b-22e4-4fbb-8cfb-f7c17f4abbca",
+    "data": [
+      {
+        "text": "What is considered a disability?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518539112
+  },
+  {
+    "id": "93f32270-ecdb-4801-bb75-a853df176801",
+    "data": [
+      {
+        "text": "What disabilities qualify?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518539112
+  },
+  {
+    "id": "c651cc7a-0b30-4544-b63a-8c8e10061c54",
+    "data": [
+      {
+        "text": "What does it mean to ",
+        "userDefined": false
+      },
+      {
+        "text": "be",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " disabled?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518539112
+  },
+  {
+    "id": "8998cf64-70bd-49e7-b728-8ecf64955642",
+    "data": [
+      {
+        "text": "What is a disability?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518539112
+  }
+]

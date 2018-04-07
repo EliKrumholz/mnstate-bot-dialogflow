@@ -1,0 +1,37 @@
+{
+  "id": "6c84f958-fd66-409b-ac7c-905c4a45ef3b",
+  "name": "cc.concerns.accommodations-access",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "23aa47c3-a978-4828-98e6-a125329b69a2",
+          "required": false,
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You are responsible for notifying the Access Center/Disability Services if the accommodations that have been provided do not meet your needs.\nhttp://www.century.edu/support-services/assistive-services-century-college/disability-services\nIf you have attempted to resolve issues related to your accommodations, but you feel that Century College has failed to meet your needs you may file a complaint. Complaints generally are about issues such as:\n\n - accommodations provided\n - timely implementation of accommodations\n - access to buildings\n - access to information"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518337526,
+  "fallbackIntent": false,
+  "events": []
+}

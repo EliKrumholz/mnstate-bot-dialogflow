@@ -1,0 +1,36 @@
+{
+  "id": "d1a607a9-fc2f-4d86-a802-f63d5524c72a",
+  "name": "cc.events",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "eb17a7be-3cd0-4ec3-bdf1-98bbc0005b85",
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There\u0027s a ton of information for you here: http://century.custhelp.com/app/answers/detail/a_id/535"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518504482,
+  "fallbackIntent": false,
+  "events": []
+}

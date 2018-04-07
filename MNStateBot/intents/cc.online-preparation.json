@@ -1,0 +1,28 @@
+{
+  "id": "f8fd3b02-5736-4ad8-a9fb-5078ef68c583",
+  "name": "cc.online-preparation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There\u0027s a lot to this one! You might find this link helpful: http://century.custhelp.com/app/answers/detail/a_id/116"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518368700,
+  "fallbackIntent": false,
+  "events": []
+}

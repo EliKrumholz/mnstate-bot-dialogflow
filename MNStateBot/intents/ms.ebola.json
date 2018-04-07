@@ -1,0 +1,36 @@
+{
+  "id": "14d9526e-417e-4985-a202-7b1a071735bf",
+  "name": "ms.ebola",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "30a23a6d-e9e9-4253-bf61-8e61db929e55",
+          "dataType": "@degrees",
+          "name": "degrees",
+          "value": "$degrees",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "For updated answers about Ebola visit here (http://www.cdc.gov/vhf/ebola/outbreaks/2014-west-africa/qa.html) to go to the Center for Disease Control\u0027s updated information. The phone line for Minnesota Infectious Disease information is 651-201-3920."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518538418,
+  "fallbackIntent": false,
+  "events": []
+}

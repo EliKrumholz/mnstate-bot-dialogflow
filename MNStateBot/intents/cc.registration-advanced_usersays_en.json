@@ -1,0 +1,62 @@
+[
+  {
+    "id": "baf7f8e6-fa81-4cbb-b0a6-5a13593a972a",
+    "data": [
+      {
+        "text": "Is there a way to search for courses by instructor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518533393
+  },
+  {
+    "id": "87ef83b4-729b-45b3-b230-963d1e3f3ff8",
+    "data": [
+      {
+        "text": "Is there a way to search for courses based on my transfer goals?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518533393
+  },
+  {
+    "id": "f8cc7a7c-ec91-48fd-952a-52126b315f83",
+    "data": [
+      {
+        "text": "Is there a way to search for courses by delivery method?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518533393
+  },
+  {
+    "id": "f164ab8a-fbdf-437e-9da0-1a9f04277a20",
+    "data": [
+      {
+        "text": "Is there a way to search for courses by dates offered?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518533393
+  },
+  {
+    "id": "eed3fb8e-d3f2-4505-ba92-af00da3acd31",
+    "data": [
+      {
+        "text": "Is there a way to search for courses by dates offered, delivery, MN Transfer goal, and instructor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518533393
+  }
+]

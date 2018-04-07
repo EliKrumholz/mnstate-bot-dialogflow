@@ -1,0 +1,36 @@
+[
+  {
+    "id": "825df7b3-d213-4976-a64b-3d015b4110fb",
+    "data": [
+      {
+        "text": "What is Century\u0027s school code for Financial Aid?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518506400
+  },
+  {
+    "id": "f20d1b65-997c-497a-ab87-b585f50397e8",
+    "data": [
+      {
+        "text": "What\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s school code?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518506400
+  }
+]

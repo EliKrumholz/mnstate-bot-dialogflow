@@ -1,0 +1,28 @@
+{
+  "id": "51d75dcd-6b83-4649-94af-832b014f751c",
+  "name": "cc.transcript-confuse",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Both the official and the unofficial transcript contain the same information about a student’s academic record. An Official Transcript is a legal document. There is usually a fee for each official transcript ordered. An unofficial transcript is the student\u0027s academic record without signature, seal, date, or sealed envelope.  Which one would you like?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514910926,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "9d082329-433e-49cc-a3eb-76c5ee1b3f45",
+    "data": [
+      {
+        "text": "I\u0027d like to ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " to a university for engineering, can you help me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518503962
+  },
+  {
+    "id": "58c88ee3-aed1-4dff-bd2d-e8ffac45a12d",
+    "data": [
+      {
+        "text": "What school should I go to for engineering?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518503962
+  },
+  {
+    "id": "281c0d07-0e64-4ca8-9aff-4607f0d39fcb",
+    "data": [
+      {
+        "text": "What is the best school to transfer to for engineering?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518503962
+  }
+]

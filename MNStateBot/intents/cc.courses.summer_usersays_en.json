@@ -1,0 +1,88 @@
+[
+  {
+    "id": "1d8e6ae3-c54b-435e-983b-edbe28bfeb4f",
+    "data": [
+      {
+        "text": "Are ",
+        "userDefined": false
+      },
+      {
+        "text": "the summer",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " courses at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": " hard?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518251457
+  },
+  {
+    "id": "61f6924d-3d85-48de-a618-56861b5fecd2",
+    "data": [
+      {
+        "text": "Can you tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "summer",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " courses at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518251457
+  },
+  {
+    "id": "2dc0dc94-65d9-4067-8d75-b05f783e205e",
+    "data": [
+      {
+        "text": "How many credits can I take during the summer at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518251457
+  }
+]

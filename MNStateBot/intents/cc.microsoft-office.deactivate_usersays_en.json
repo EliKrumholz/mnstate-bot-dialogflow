@@ -1,0 +1,67 @@
+[
+  {
+    "id": "ec32654d-cdeb-4828-b4ac-9e1e9aba7ca6",
+    "data": [
+      {
+        "text": "I installed windows on computers I no longer use, can I deactivate those?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518369740
+  },
+  {
+    "id": "600b51da-c63a-4a53-aea9-99791c162a8f",
+    "data": [
+      {
+        "text": "I downloaded too many copies of office, how can I deactivate some of them?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518369740
+  },
+  {
+    "id": "6aee0c3f-243c-4c17-9648-0e87aa0d3dbf",
+    "data": [
+      {
+        "text": "I already downloaded Office 365 on to ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " computers, but want to take it off ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " of them. How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I deactivate it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518369740
+  }
+]

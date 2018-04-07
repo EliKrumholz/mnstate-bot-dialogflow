@@ -1,0 +1,37 @@
+{
+  "id": "dcb2e9ee-1e40-490f-bc4e-65788c84cfe1",
+  "name": "cc.computer-lab",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c3920a0c-5b35-4316-98d3-4c8ceb745f6e",
+          "required": false,
+          "dataType": "@unit-time",
+          "name": "unit-time",
+          "value": "$unit-time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Century College has two open Computer Centers for use by credit taking students:\n\n    E1710 is located on the first floor on the west end of East Campus.\n    W3165 is located on third floor on the east end of the West Campus.\n\nWe offer in-person support in the main computer centers on both campuses. If you have questions about your mobile device, bring it to one of the above locations during regular hours.\n\nPrinting and scanning services are available in both labs.\n\nComputer Center Hours and location information are available here:\nhttps://www.century.edu/support-services/technology-services/computer-center\n\nPlease note that computer centers are closed on Sundays, non-class days, school holidays and during semester breaks."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518504323,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "d52af280-2323-49f4-a935-b3153bb5ccae",
+  "name": "cc.conference",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0d53a146-3e3c-4d58-a0ba-863a06a47b77",
+          "required": false,
+          "dataType": "@degrees",
+          "name": "degrees",
+          "value": "$degrees",
+          "isList": false
+        },
+        {
+          "id": "0fdb98e2-083c-442d-b4ae-4fce6bc5a189",
+          "required": false,
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Century belongs to the NJCAA conference."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1511847103,
+  "fallbackIntent": false,
+  "events": []
+}

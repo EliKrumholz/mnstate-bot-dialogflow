@@ -1,0 +1,28 @@
+{
+  "id": "f5a8f514-2a7d-4d03-a8d8-464ecf6dfe82",
+  "name": "cc.efolio.add-content",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Getting started in eFolio is not complicated. This online tutorial will walk you through the most common “getting started” procedures:\n\n      1.  Designing your site\n\n      2.  Adding content\n\n      3.  Inserting content into to your efolio webpages\n\nTo learn more about adding content to your eFolio, click on the link below:\n\n       - Online Tutorial for Adding Content to Your eFolio (5 1/2 Minute Presentation)\n         https://umconnect.umn.edu/efoliobeginningsteps/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518502446,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "9ea5bba3-ad41-4a3f-a2f3-78381082d72d",
+    "data": [
+      {
+        "text": "Show me honors courses.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518503643
+  },
+  {
+    "id": "818e5f41-4599-4675-8cbe-6ce3574d4fca",
+    "data": [
+      {
+        "text": "Can you show me honors course?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518503643
+  },
+  {
+    "id": "5413704a-feb8-4b7c-8ec5-401525f6e593",
+    "data": [
+      {
+        "text": "What honors courses are available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518503643
+  },
+  {
+    "id": "038fbec2-b3b6-4fde-8928-ac13b04a2e03",
+    "data": [
+      {
+        "text": "What is an honors course and how do I qualify?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518503643
+  }
+]

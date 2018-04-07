@@ -1,0 +1,38 @@
+[
+  {
+    "id": "c06513e7-53ae-4aed-a6e6-cddc8a38e74b",
+    "data": [
+      {
+        "text": "I need help appealing for an academic suspension.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518250958
+  },
+  {
+    "id": "0cfaa4ea-3703-49a3-b557-6ffe6c2d422e",
+    "data": [
+      {
+        "text": "How can I appeal my academic suspension?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518250958
+  },
+  {
+    "id": "d0725735-068f-4396-8db5-a10ef7f8547a",
+    "data": [
+      {
+        "text": "How can I appeal my financial aid suspension?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518250958
+  }
+]

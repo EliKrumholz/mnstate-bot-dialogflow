@@ -1,0 +1,36 @@
+{
+  "id": "b3721ca1-8e70-4f7d-9a0c-6223d62c7fdc",
+  "name": "cc.text-messages",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a5218842-9b96-4ece-a37d-efec6fb14cba",
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There\u0027s a lot to this one! Please visit this link for instructions: http://century.custhelp.com/app/answers/detail/a_id/666"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518120828,
+  "fallbackIntent": false,
+  "events": []
+}

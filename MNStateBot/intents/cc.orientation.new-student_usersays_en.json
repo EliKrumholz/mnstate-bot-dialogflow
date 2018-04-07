@@ -1,0 +1,55 @@
+[
+  {
+    "id": "257aac11-3149-4737-8ec2-81429f47d2a6",
+    "data": [
+      {
+        "text": "Do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I really have to go to orientation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518250131
+  },
+  {
+    "id": "b60e805c-3c51-49df-9c62-aa8a46657b7d",
+    "data": [
+      {
+        "text": "Must I go to new student orientation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518250131
+  },
+  {
+    "id": "ab33a27e-5690-40fb-9145-263ef2b093c3",
+    "data": [
+      {
+        "text": "Is new student orientation mandatory?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518250131
+  },
+  {
+    "id": "9b8d21fb-6439-4f59-b003-8967ff0262c5",
+    "data": [
+      {
+        "text": "Do I have to attend New Student Orientation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518250131
+  }
+]

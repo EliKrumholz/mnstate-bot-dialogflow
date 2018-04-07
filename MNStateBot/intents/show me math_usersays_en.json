@@ -1,0 +1,20 @@
+[
+  {
+    "id": "b2a108c7-463c-4b99-836d-2bb84f3eaeca",
+    "data": [
+      {
+        "text": "show me ",
+        "userDefined": false
+      },
+      {
+        "text": "math",
+        "alias": "courses",
+        "meta": "@courses",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520358791
+  }
+]

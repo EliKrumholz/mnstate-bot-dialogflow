@@ -1,0 +1,77 @@
+[
+  {
+    "id": "d26a0e28-fc2c-45cc-8fa3-0c606787c295",
+    "data": [
+      {
+        "text": "Why is my ",
+        "userDefined": false
+      },
+      {
+        "text": "StarID",
+        "alias": "StarID",
+        "meta": "@StarID",
+        "userDefined": false
+      },
+      {
+        "text": " important?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518337687
+  },
+  {
+    "id": "e4dd8672-5967-46b8-bde5-180b94b434b7",
+    "data": [
+      {
+        "text": "What\u0027s my ",
+        "userDefined": false
+      },
+      {
+        "text": "StarID",
+        "alias": "StarID",
+        "meta": "@StarID",
+        "userDefined": false
+      },
+      {
+        "text": " for?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518337687
+  },
+  {
+    "id": "e2677383-0f28-43d0-8a52-221db3225a57",
+    "data": [
+      {
+        "text": "What can I ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " with my ",
+        "userDefined": false
+      },
+      {
+        "text": "StarID",
+        "alias": "StarID",
+        "meta": "@StarID",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1518337687
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "id": "75535afb-a75e-4f04-a065-5270a95a6230",
+  "name": "cc.major.change",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "To change your major or add additional majors, submit a “Change of Student Information” form.\nhttps://www.century.edu/sites/default/files/Records_studentchangeofinformation.pdf\nYour DARS will update with this information after it is processed.\n\nYour DARS audit is automatically prepared based on the major or program listed for you in our college student enrollment system.  Some majors have pre-admission requirements and so we recommend that you review this decision with your counselor or advisor before changing your major."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516681301,
+  "fallbackIntent": false,
+  "events": []
+}

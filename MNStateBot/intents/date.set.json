@@ -1,0 +1,46 @@
+{
+  "id": "159bcac8-ef44-4967-99b9-ecfe3cc9d290",
+  "name": "date.set",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "date.set",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fe5f3bcf-46ec-4cf2-a29f-75a3a62b7aa6",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        },
+        {
+          "id": "ba28893d-d829-423a-b911-68e3dd1bcc25",
+          "required": false,
+          "dataType": "@dayofweek",
+          "name": "dayofweek",
+          "value": "$dayofweek",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1496995075206,
+  "fallbackIntent": false,
+  "events": []
+}

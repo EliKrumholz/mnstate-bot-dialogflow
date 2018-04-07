@@ -1,0 +1,35 @@
+{
+  "id": "965a8e2e-1bbc-42b5-9dfa-0a2b836f60e5",
+  "name": "cc.respondus",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "718aa094-98a7-4046-af42-ca3e8664d3cd",
+          "required": false,
+          "dataType": "@respondus",
+          "name": "respondus"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The Respondus LockDown Browser™ is a secured browser used solely for taking online exams and quizzes in Brightspace.  The answer is too complicated for a computer. Go to this link to get a LOT more information! http://century.custhelp.com/app/answers/detail/a_id/263"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514919714,
+  "fallbackIntent": false,
+  "events": []
+}

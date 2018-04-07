@@ -1,0 +1,35 @@
+[
+  {
+    "id": "e0aa5a72-b0de-41cc-a42b-2b7aba5e38f0",
+    "data": [
+      {
+        "text": "Can I speak with an advisor during orientation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1518333192
+  },
+  {
+    "id": "77458df6-bf63-4fa8-b9b7-d8567445e735",
+    "data": [
+      {
+        "text": "Will I ",
+        "userDefined": false
+      },
+      {
+        "text": "be",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " able to speak with an advisor at Registration Session?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518333192
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "151c7030-3b3d-4d4c-a69e-0f9803c3e084",
+    "data": [
+      {
+        "text": "I\u0027d like to schedule an appointment with my advisor.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518121096
+  },
+  {
+    "id": "9f9c330d-2da8-4594-bee5-ad6451fb4def",
+    "data": [
+      {
+        "text": "Can I schedule an appointment with my advisor online?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518121096
+  },
+  {
+    "id": "e7c2f937-0d85-4a42-a41d-1be0c56c93f6",
+    "data": [
+      {
+        "text": "I would like help selecting classes for registration, how can I get help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7e4ad87b-e477-4a3f-8fdd-117caf8a371e",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I get registration counseling?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4dcccd11-0e16-473d-b79d-4ee30a8cff11",
+    "data": [
+      {
+        "text": "I would like consoling for registration, how can I get this?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d5a48377-4f51-4cb7-ab51-9354c00505d0",
+    "data": [
+      {
+        "text": "How do I set up a meeting with my counselor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516565511
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "id": "6e08dd1d-158e-41bc-9e9f-f07c80dc44a6",
+  "name": "cc.wifi.apple",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ef47e413-9825-4069-87fa-5a3467883a38",
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "These instructions are intended for student and staff use. For guest or CECT accounts, click here:\nhttp://century.custhelp.com/app/answers/detail/a_id/21\n\n    Turn on your Wi-Fi connection. From the list of available networks, select \u0027students-psk\u0027.\n    Enter your StarID and StarID password in the pop-up window.\n\n\nCongratulations, you have now setup the students-psk SSID on your Mac! Your computer will now automatically connect with your credentials when you are in range here at Century College.\n\nThis network also uses WPA security levels to provide an additional level of network security."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518507480,
+  "fallbackIntent": false,
+  "events": []
+}

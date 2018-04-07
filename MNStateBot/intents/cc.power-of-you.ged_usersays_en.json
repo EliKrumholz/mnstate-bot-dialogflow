@@ -1,0 +1,36 @@
+[
+  {
+    "id": "41023e8a-a7fb-4ab3-9d75-7af5f9e7b51e",
+    "data": [
+      {
+        "text": "If I have a GED can I qualify for Power of YOU?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518507646
+  },
+  {
+    "id": "a42ab51c-829a-46c8-9360-e348213cca6c",
+    "data": [
+      {
+        "text": "If I obtain a GED (General Education Diploma/",
+        "userDefined": false
+      },
+      {
+        "text": "high",
+        "alias": "temperature",
+        "meta": "@temperature",
+        "userDefined": false
+      },
+      {
+        "text": " school diploma equivalency) am I eligible for the Power of YOU?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518507646
+  }
+]

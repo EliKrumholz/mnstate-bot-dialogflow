@@ -1,0 +1,41 @@
+{
+  "id": "cdd761da-e4cd-44b2-ab22-abd2c866f745",
+  "name": "cc.cost",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d7185bed-b316-44da-a8c4-b07ffa61c8b6",
+          "required": false,
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "It should cost around $5750/year.",
+            "It should cost close to $5750 to go to Century for  a year.",
+            "It costs around $5750/year to attend Century full-time."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1511826437,
+  "fallbackIntent": false,
+  "events": []
+}

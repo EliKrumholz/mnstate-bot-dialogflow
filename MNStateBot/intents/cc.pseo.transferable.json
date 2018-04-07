@@ -1,0 +1,28 @@
+{
+  "id": "f28dd667-71b1-4927-867b-e08cbdc499bc",
+  "name": "cc.pseo.transferable",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "PSEO transfer is a complicated subject. Please follow this link for a better explaination: http://century.custhelp.com/app/answers/detail/a_id/658"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518120691,
+  "fallbackIntent": false,
+  "events": []
+}

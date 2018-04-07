@@ -1,0 +1,28 @@
+{
+  "id": "02110f61-7e43-4370-9048-be1013034ae3",
+  "name": "ms.law-enforcement.certificate",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The Certificate Program Option: Students who already have an associate or bachelors degree from a POST-approved program at an accredited college in criminal justice or law enforcement can apply directly to the PLC.  If the degree is in any other discipline they must complete the nine prerequisite courses to be eligible to apply to the PLC.  Equivalent courses taken within their degree may be used. Mylan Masson at the PLC, 651-999-7600, will review transcripts for the certificate option."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518371359,
+  "fallbackIntent": false,
+  "events": []
+}

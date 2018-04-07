@@ -1,0 +1,100 @@
+[
+  {
+    "id": "78479793-4a5a-45f2-a507-78c61d22a116",
+    "data": [
+      {
+        "text": "Does ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": " offer classes on ",
+        "userDefined": false
+      },
+      {
+        "text": "the weekends",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518251099
+  },
+  {
+    "id": "32dee3f6-b0bd-4ec9-9641-24487ea043f6",
+    "data": [
+      {
+        "text": "Does ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": " offer night classes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518251099
+  },
+  {
+    "id": "01438599-0b2d-4085-bf99-554fea159f4e",
+    "data": [
+      {
+        "text": "What time can I take classes at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518251099
+  },
+  {
+    "id": "2bae2ab7-29d8-4dcf-a5c3-3083623a314b",
+    "data": [
+      {
+        "text": "When are classes available at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518251099
+  }
+]

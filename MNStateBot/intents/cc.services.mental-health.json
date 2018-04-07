@@ -1,0 +1,28 @@
+{
+  "id": "a727dc11-4e8d-402a-b22e-e94ae520f0c5",
+  "name": "cc.services.mental-health",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There is a lot of great information listed here: http://century.custhelp.com/app/answers/detail/a_id/555"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518505563,
+  "fallbackIntent": false,
+  "events": []
+}

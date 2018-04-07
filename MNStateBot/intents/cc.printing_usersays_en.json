@@ -1,0 +1,58 @@
+[
+  {
+    "id": "bb700617-d003-4198-b6e0-494008205620",
+    "data": [
+      {
+        "text": "Are there printers for students to use at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518499765
+  },
+  {
+    "id": "34f8eff3-4d66-4e93-bf69-3d7209526166",
+    "data": [
+      {
+        "text": "Can I print at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518499765
+  },
+  {
+    "id": "3cae09d3-7316-44de-89fb-7d1a6a7320cb",
+    "data": [
+      {
+        "text": "Are there any printers on campus for students to use?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518499765
+  }
+]

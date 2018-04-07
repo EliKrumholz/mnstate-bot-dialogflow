@@ -1,0 +1,36 @@
+{
+  "id": "e0ea05f5-48b5-47e9-8789-8c2817fd3a4b",
+  "name": "general.mnscu-guidebook",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2ee9f609-8948-4e35-a370-28e96b5e0bf6",
+          "dataType": "@MNState",
+          "name": "MNState",
+          "value": "$MNState",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can get a copy of the MNState guidebook here: http://minnstate.edu/guide/docs/mn-state-viewbook-2017-18-web.pdf"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510622838468,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "208247b4-2056-4676-be41-600ead8fcddb",
+    "data": [
+      {
+        "text": "If I\u0027m transferring from another college, do I need to take the accuplacer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518333697
+  },
+  {
+    "id": "9e3bd9a5-8160-4175-b1db-d8f9572de3cb",
+    "data": [
+      {
+        "text": "Do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I need to take the ",
+        "userDefined": false
+      },
+      {
+        "text": "ACCUPLACER",
+        "alias": "exam",
+        "meta": "@exam",
+        "userDefined": false
+      },
+      {
+        "text": " Course Placement Test if I am a transfer student?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518333697
+  }
+]

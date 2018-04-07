@@ -1,0 +1,28 @@
+{
+  "id": "1899f100-e056-4f24-804e-42f5e581c3a0",
+  "name": "cc.services.general",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There are a wide variety of services available to support Century College students including:\n\n    Academic Resource Centers: https://www.century.edu/support-services/academic-resource-centers\n    Advising and Counseling Center: https://www.century.edu/support-services/advising-counseling\n    Career Services: https://www.century.edu/support-services/career-planning/career-services\n    Fitness Center: https://www.century.edu/campus-life/campus-recreation/fitness-center\n    Health Services: https://www.century.edu/support-services/student-wellness/health-services\n    Resource and Support Center: https://www.century.edu/support-services/student-wellness/resource-and-support-center\n    Student Parent Center: https://www.century.edu/support-services/student-wellness/student-parent-center\n\nMost services are free to Century College students. Check the links above for the hours of each center. Hours may change in the summer and/or over school breaks."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518506001,
+  "fallbackIntent": false,
+  "events": []
+}

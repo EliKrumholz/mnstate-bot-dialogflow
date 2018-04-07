@@ -1,0 +1,28 @@
+{
+  "id": "20c4f18a-8066-444c-8bcc-91cdd9ad08ef",
+  "name": "ms.grades.check",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Here\u0027s how to view grades:\n\n    Login to eServices\n    Click on Grades and Transcripts\n    Select the semester for which you want to view grades\n    Click Continue\n\nThe screen should display your grades for the semester. Contact your instructor directly for concerns or about missing grades after the term due date for grades."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518120645,
+  "fallbackIntent": false,
+  "events": []
+}

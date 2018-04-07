@@ -1,0 +1,80 @@
+[
+  {
+    "id": "76a79f8e-795d-4638-b53d-598b53e53c81",
+    "data": [
+      {
+        "text": "What kind of animal is ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s mascot?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1511823586
+  },
+  {
+    "id": "5ffe56dd-11ce-44e9-816b-f773f6c28a55",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s mascot?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1511823586
+  },
+  {
+    "id": "16fd68f5-b55c-4567-889b-dfc0a5b9f42d",
+    "data": [
+      {
+        "text": "What is Century\u0027s mascot?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1511823586
+  },
+  {
+    "id": "2c70dcba-5390-4805-81df-a14c71d52f7c",
+    "data": [
+      {
+        "text": "Does ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": " have a mascot?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1511823586
+  }
+]

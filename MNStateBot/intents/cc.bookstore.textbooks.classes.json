@@ -1,0 +1,28 @@
+{
+  "id": "e6bc11d9-a85e-4a8a-8af2-7644f40a6262",
+  "name": "cc.bookstore.textbooks.classes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can look up the books that you need for your classes by visiting the bookstore and looking at the booklists on the bookshelf for the course and the section of the class you are taking."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518537943,
+  "fallbackIntent": false,
+  "events": []
+}

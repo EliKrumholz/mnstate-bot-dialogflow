@@ -1,0 +1,37 @@
+{
+  "id": "1c626dab-1f67-47dd-8024-0b77680528e7",
+  "name": "cc.eServices",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "80bd6594-480b-4cb7-9798-a133fab92cd8",
+          "required": false,
+          "dataType": "@degrees",
+          "name": "degrees",
+          "value": "$degrees",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "eServices is used to register for or drop classes, view/modify your class schedule, access DARS report, obtain unofficial transcripts, check Financial Aid status and pay for classes.\n\nStart by logging in to eServices:\n\n    The Username for this login: Star ID\n    The password for this login: Star ID password\n    The institution is “Century College”\n\n\nPlease note: It is very important you keep this information private.  Disclosing this information to another student could compromise other Century College Services. If you feel that someone has compromised your Student Tech ID or PIN information, please contact the Records Office immediately."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518119494,
+  "fallbackIntent": false,
+  "events": []
+}

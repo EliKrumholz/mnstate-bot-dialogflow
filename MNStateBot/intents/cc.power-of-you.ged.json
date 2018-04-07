@@ -1,0 +1,36 @@
+{
+  "id": "4760324e-8ee9-41e2-9459-81ffc916f289",
+  "name": "cc.power-of-you.ged",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d6eb266e-136c-49d9-8da8-89f6f76231e1",
+          "dataType": "@temperature",
+          "name": "temperature",
+          "value": "$temperature",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "No. At the time of application, you must be in your senior year of high school and expecting to receive your diploma."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518507646,
+  "fallbackIntent": false,
+  "events": []
+}

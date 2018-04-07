@@ -1,0 +1,36 @@
+{
+  "id": "03797f29-206f-436f-943b-177d84c145d8",
+  "name": "cc.dars.catalog-year",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5c7a50f3-6b80-4145-9824-cf0c1855c760",
+          "dataType": "@unit-time",
+          "name": "unit-time",
+          "value": "$unit-time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Your DARS audit is automatically prepared for a catalog year that corresponds with your first term of enrollment or the term that your enrollment status was changed.  Please discuss which catalog year is appropriate with a counselor and submit a “Change of Student Information” form to the Records Office. \nhttp://www.century.edu/students/find-form"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518368376,
+  "fallbackIntent": false,
+  "events": []
+}

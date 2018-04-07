@@ -1,0 +1,28 @@
+{
+  "id": "75d93fbf-6eaa-4a6d-b5ac-f07bfc0b7f85",
+  "name": "cc.advising.registration-session",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Yes! Century is committed to ensuring your success as a student. During orientation, you will have the opportunity to meet with an advisor to receive help choosing your first semester courses. Prior to attending your Registration Session, we do encourage you to start thinking about courses you\u0027re interested in."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518333192,
+  "fallbackIntent": false,
+  "events": []
+}

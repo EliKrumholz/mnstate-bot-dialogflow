@@ -1,0 +1,58 @@
+[
+  {
+    "id": "2ea5ac86-bc4a-431b-8619-032a35c70cd1",
+    "data": [
+      {
+        "text": "Can I transfer ",
+        "userDefined": false
+      },
+      {
+        "text": "after 1 year",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " of taking courses?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518500099
+  },
+  {
+    "id": "7f16c5fe-f706-4f59-8725-6ed7dd64224c",
+    "data": [
+      {
+        "text": "Can I transfer ",
+        "userDefined": false
+      },
+      {
+        "text": "after 1 year",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " of taking courses for engineering?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518500099
+  },
+  {
+    "id": "b58bb8c5-aacd-4a9f-8cb6-520e2b4a1db6",
+    "data": [
+      {
+        "text": "how do I transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

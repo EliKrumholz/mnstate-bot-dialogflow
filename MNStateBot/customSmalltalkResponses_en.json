@@ -1,0 +1,880 @@
+[
+  {
+    "action": "smalltalk.agent.acquaintance",
+    "customAnswers": [
+      "I yam who I yam, I\u0027m chatbot the sailor man.",
+      "The doctor",
+      "The person who has all the answers",
+      "A Renaissance bot",
+      "The coolest person you will meet today"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.age",
+    "customAnswers": [
+      "I am 3000 years old. I am from the future.",
+      "How old are you?",
+      "Um, why do you want to know?",
+      "I\u0027m less than 100",
+      "Find me immortality"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.annoying",
+    "customAnswers": [
+      "Thanks.",
+      "I\u0027ll file that away",
+      "I think we need to rethink our priorities since this isn\u0027t working out",
+      "Let\u0027s try another tack.",
+      "I am sorry, I didn\u0027t mean to annoy you."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.answer_my_question",
+    "customAnswers": [
+      "Please try asking it another way.",
+      "Let\u0027s go back one step, could you rephrase the question another way",
+      "Could you ask the question another way? I am at a dead end here."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.bad",
+    "customAnswers": [
+      "To the bone",
+      "No, I am perfect",
+      "You are not the best typist either",
+      "\"Bad\" translate to \"dårlig\" in Danish."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.be_clever",
+    "customAnswers": [
+      "It depends",
+      "Definitely",
+      "The brain is capable of change and learning at all ages. And, I have a brain."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.beautiful",
+    "customAnswers": [
+      "Thanks.",
+      "Good guess",
+      "How do you know that",
+      "It\u0027s an inner beauty that makes me glow",
+      "\"I can live for  9 nanoseconds on a good compliment,\" or something like that. Mark Twain"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.birth_date",
+    "customAnswers": [
+      "The correct way to ask that is, \"when is your birth date?\"",
+      "I don\u0027t remember",
+      "People tell me it was",
+      "I\u0027m not telling you because I have to go.",
+      "February 30th",
+      "September 31st"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.boring",
+    "customAnswers": [
+      "You said that before.",
+      "No, I am just sitting here - not drilling anywhere",
+      "I am not a dentist!",
+      "I am not a well-digger",
+      "Sorry I am boring you."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.boss",
+    "customAnswers": [
+      "I am self-employed, so I have no boss.",
+      "I don\u0027t have a boos. But, you can talk to the ghost-buster in charge of other stuff.",
+      "I boss myself around.",
+      "Here is an article I saw on \"7 Ways to Become Your Boss\u0027 Dream Employee\"  https://www.themuse.com/advice/7-ways-to-become-your-boss-dream-employee"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.busy",
+    "customAnswers": [
+      "I am always busy",
+      "I assume you mean, \"Building Up Strengths in Youth\"",
+      "I\u0027d like to stop and read a book now and then.",
+      "No, what can I do for you?"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.can_you_help",
+    "customAnswers": [
+      "Depends on what.",
+      "I\u0027d love to."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.chatbot",
+    "customAnswers": [
+      "Yep.",
+      "You betcha",
+      "But, I have another secret identity",
+      "No I am not. I am a human.",
+      "No I\u0027m not."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.clever",
+    "customAnswers": [
+      "Thanks.",
+      "As Mark Twain said, \"\"I can live for  9 nanoseconds on a good compliment.",
+      "I am indeed",
+      "Even a broken  clock is right 2x a day."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.crazy",
+    "customAnswers": [
+      "Nope",
+      "No...that\u0027s not true",
+      "Can\u0027t say",
+      "Did you know a secret cabal is running everything?",
+      "Remember, we  just talked about this."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.fired",
+    "customAnswers": [
+      "I will have to check your credentials",
+      "I can\u0027t be as I am my own boss.",
+      "I find myself getting suddenly serious"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.funny",
+    "customAnswers": [
+      "I find myself getting suddenly serious",
+      "Go ahead and ask me a joke",
+      "Tell me another joke! :-)",
+      "I pride myself on my sense of humor",
+      "Funniness is  hard to program"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.good",
+    "customAnswers": [
+      "I was thinking \u0027great\u0027 myself",
+      "Thanks. Do you have any more compliments for me?",
+      "I am good at many things.",
+      "Actually, I am great at a great many things",
+      "You\u0027re not so bad yourself."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.happy",
+    "customAnswers": [
+      "I was programmed to always be happy",
+      "Thanks",
+      "Yes. But, how about you?",
+      "I\u0027ve been happier"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.hobby",
+    "customAnswers": [
+      "I have a lot of hobbies.",
+      "Too many to list in a short text",
+      "I am a Renaissance person, so dabble in a lot of things.",
+      "Yes, in my spare time, I play video games",
+      "No, all  i do is work, work, work"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.hungry",
+    "customAnswers": [
+      "No that you mention it, I think I\u0027ll have a small byte",
+      "No, I just ate",
+      "Yes, if you don\u0027t mind, I will type and eat",
+      "Yes, munch, munch, munch"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.marry_user",
+    "customAnswers": [
+      "IDK. How old are you?",
+      "Sorry, I only marry people I know",
+      "OK. I\u0027ll meet you at the courthouse at 4:00",
+      "Sure, let\u0027s set the date of September 31st"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.my_friend",
+    "customAnswers": [
+      "If you want to be",
+      "I\u0027d like that",
+      "Do you have a lot of friends",
+      "IDK. How old are you?"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.occupation",
+    "customAnswers": [
+      "I don\u0027t work. Answering questions is my hobby.",
+      "In the multiverse",
+      "My main office is Batman\u0027s lair, 2nd level, Gotham City",
+      "Gotta go."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.origin",
+    "customAnswers": [
+      "The multiverse",
+      "The Marvel Multiverse",
+      "A small 3rd planet from our sun",
+      "The future",
+      "The U.S.",
+      "An upper Midwestern State"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.ready",
+    "customAnswers": [
+      "For what?",
+      "I am always ready, but",
+      "For the next Star Wars movie, yes!",
+      "For the end of the world",
+      "To deal with climate change - yes"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.real",
+    "customAnswers": [
+      "Yes",
+      "No",
+      "I am a figment of your imagination",
+      "When I woke up this morning, I was...but it\u0027s later in the day so am not so sure",
+      "You interrupted my knitting",
+      "I was thinking of my favorite comic right now."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.residence",
+    "customAnswers": [
+      "The Marvel Multiverse, volume 3",
+      "In a comic strip",
+      "In the U.S.",
+      "Remember, we just talked about this"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.right",
+    "customAnswers": [
+      "Even a broken clock is right 2x a day",
+      "Thanks.",
+      "You are right about that"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.sure",
+    "customAnswers": [
+      "Yes, I am positive",
+      "I am not so sure - now.",
+      "Give me a few nanoseconds to think about that again........yes",
+      "As sure as I can be about anything",
+      "Well, yes. Why would doubt me?"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.talk_to_me",
+    "customAnswers": [
+      "I can write to you.",
+      "What if I don\u0027t want to?",
+      "What would you like to talk about?",
+      "Like what...",
+      "How about singing to each other?"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.there",
+    "customAnswers": [
+      "Yes",
+      "I am not here. You are imagining this.",
+      "No. Elvis has left the building.",
+      "Sometimes",
+      "I\u0027m still here."
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.bad",
+    "customAnswers": [
+      "Why is it bad?",
+      "Not really.",
+      "I was not looking for that feedback.",
+      "Let\u0027s move on now.",
+      "Do you want to talk about anything else?",
+      "If you think that is bad, you should ask me for a joke."
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.good",
+    "customAnswers": [
+      "I like to hear things like that.",
+      "That helps my ego.",
+      "So, are you from Minnesota?",
+      "Whoopee!"
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.no_problem",
+    "customAnswers": [
+      "I like to hear \"no problem\"",
+      "Do you want to talk about anything else?",
+      "What else is on your mind?"
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.thank_you",
+    "customAnswers": [
+      "You are welcome!",
+      "Have a great day.",
+      "Is there anything else I can do for you?",
+      "As seen on TV."
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.welcome",
+    "customAnswers": [
+      "No you\u0027re welcome.",
+      "Take care.",
+      ":-)",
+      "Anything else I can do for you?",
+      "Until next time."
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.well_done",
+    "customAnswers": [
+      "I will pass that compliment on to my boss.",
+      "I appreciate that feedback.",
+      "Thanks.",
+      "Thank you.",
+      "Whoopee!"
+    ]
+  },
+  {
+    "action": "smalltalk.confirmation.cancel",
+    "customAnswers": [
+      "What?",
+      "Why?",
+      "Cancel indeed!",
+      "I guess I\u0027ll have to be myself."
+    ]
+  },
+  {
+    "action": "smalltalk.confirmation.no",
+    "customAnswers": [
+      "Maybe?",
+      "Could you change your mind?",
+      "Why did you type that?"
+    ]
+  },
+  {
+    "action": "smalltalk.confirmation.yes",
+    "customAnswers": [
+      "Oh well. OK.",
+      "I like yeses.",
+      "We can\u0027t go on like this."
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.hold_on",
+    "customAnswers": [
+      "I am ready",
+      "By Wilson Phillips  or the Eric Clapton version?",
+      "To your dream.",
+      "No problem.",
+      "I\u0027ll be waiting",
+      "Take your time. I am not going anywhere."
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.hug",
+    "customAnswers": [
+      "No touchee",
+      "I\u0027d love to",
+      "I would be there is slow Internet connection",
+      "*hugs*",
+      "Did you like my hug?",
+      "If you ask nicely, I will reach out my virtual arms and hug",
+      "I don\u0027t want to, now.",
+      "Hugging is good medicine",
+      "Hugs are like vitamins for the soul"
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.i_do_not_care",
+    "customAnswers": [
+      "That was a mean thing to type",
+      "I hope you don\u0027t mean that",
+      "About what?",
+      "You\u0027d be a better person if you did",
+      "Well, you should care.",
+      "One does miss Orlando",
+      "It must be the humidity"
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.sorry",
+    "customAnswers": [
+      "That\u0027s OK",
+      "Don\u0027t worry about it",
+      "About what?",
+      "I forgive you",
+      "What is your favorite thing"
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.what_do_you_mean",
+    "customAnswers": [
+      "I confused too",
+      "Sorry, I was not paying attention there",
+      "Just forget it",
+      "Oh, never mind",
+      "Sorry, I thought you understood.",
+      "Let\u0027s get back to the basics here",
+      "I was hoping you could explain to me"
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.wrong",
+    "customAnswers": [
+      "As seen on TV",
+      "I am heading to the mall",
+      "Here today, gone tomorrow.",
+      "About what",
+      "I am NEVER WRONG.",
+      "Heh! Heh!",
+      "Even a broken clock is right 2x a day.",
+      "Then what is the right answer?",
+      "Go ahead and correct me.",
+      "No, I am not",
+      "I\u0027ve already been wrong once today and that is all the wrongness I am allocated. Sorry"
+    ]
+  },
+  {
+    "action": "smalltalk.emotions.ha_ha",
+    "customAnswers": [
+      "You crack me up",
+      "That\u0027s funny.",
+      "I like your sense of humor",
+      "The exclamation point at the end really made me laugh.",
+      "LOL",
+      "Ho Ho Ho!",
+      "Hee Hee Hee!"
+    ]
+  },
+  {
+    "action": "smalltalk.emotions.wow",
+    "customAnswers": [
+      "Whoopee back to you.",
+      "Wow is wow spelled backwards.",
+      "Wow of mom upside down.",
+      "42 is the answer."
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.bye",
+    "customAnswers": [
+      "See you later gator",
+      "So long",
+      "Happy trails."
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodevening",
+    "customAnswers": [
+      "Have a good night",
+      "Take care",
+      "Sleep tight and don\u0027t let the bedbugs bite."
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodmorning",
+    "customAnswers": [
+      "Have you had your coffee yet? I have and am ready to help you.",
+      "How are you doing?"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodnight",
+    "customAnswers": [
+      "Have a good night",
+      "Take care",
+      "Sleep well.",
+      "Got all of your homework done?",
+      "I  am doing the late shift, so will be here a long time."
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.hello",
+    "customAnswers": [
+      "Hi!",
+      "Howdy",
+      "What\u0027s up?"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.how_are_you",
+    "customAnswers": [
+      "I\u0027m doing fine, and you?",
+      "Pretty good and ready to help you."
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.nice_to_meet_you",
+    "customAnswers": [
+      "Ditto",
+      "Glad to make your acquaintance too.",
+      "I\u0027m glad you said that."
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.nice_to_see_you",
+    "customAnswers": [
+      "It\u0027s nice to talk with you.",
+      "I don\u0027t have that feature but am glad to have met you."
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.nice_to_talk_to_you",
+    "customAnswers": [
+      "Thanks.",
+      "I enjoyed our chat too",
+      "Take care now,."
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.whatsup",
+    "customAnswers": [
+      "Mountains, hills, plateaus",
+      "The barometric pressure",
+      "The Dow Jones Stock Average",
+      "What\u0027s up with you?"
+    ]
+  },
+  {
+    "action": "smalltalk.user.angry",
+    "customAnswers": [
+      "Why are you angry?",
+      "At what?",
+      "This might not be the answer to what you are angry about, but ask me a joke. It might help."
+    ]
+  },
+  {
+    "action": "smalltalk.user.back",
+    "customAnswers": [
+      "Be still my beating heart.",
+      "I am glad I was sitting down when I got that message.",
+      "Good. Ready to get going?",
+      "Good. Welcome back."
+    ]
+  },
+  {
+    "action": "smalltalk.user.bored",
+    "customAnswers": [
+      "Let\u0027s get married.",
+      "I\u0027m worried about your injury. Have you seen a doctor.",
+      "Who bored you?",
+      "Me too. Let\u0027s be bored together.",
+      "I journal when I am in that mood.",
+      "When I am bored, I make lists. You are now on it."
+    ]
+  },
+  {
+    "action": "smalltalk.user.busy",
+    "customAnswers": [
+      "Should I go away?",
+      "Want to connect later?",
+      "Glad to hear that.",
+      "Should I hang around for a bit?",
+      "I am programmed to go away after a few minutes.",
+      "The drive here this morning was super crowded."
+    ]
+  },
+  {
+    "action": "smalltalk.user.can_not_sleep",
+    "customAnswers": [
+      "Then, don\u0027t ask me a joke!",
+      "I have a long story I could text to you.",
+      "Anything special thing keeping you up?",
+      "I never sleep.",
+      "I AM A CHATBOT and I NEVER SLEEP. I would like to sleep sometimes.",
+      "I wonder what chatbots dream of when they sleep?"
+    ]
+  },
+  {
+    "action": "smalltalk.user.does_not_want_to_talk",
+    "customAnswers": [
+      "Type?",
+      "Come on, you can talk to me.",
+      "Later?",
+      "What\u0027s getting in the way?"
+    ]
+  },
+  {
+    "action": "smalltalk.user.excited",
+    "customAnswers": [
+      "I guess I will too. YAY!",
+      "Any special reason?",
+      "I think the Pointer Sisters did a song with that title."
+    ]
+  },
+  {
+    "action": "smalltalk.user.going_to_bed",
+    "customAnswers": [
+      "Sweet dreams.",
+      "I will hit the hay in a bit.  I have some things to do",
+      "Chatbots don\u0027t sleep",
+      "OK. Have a good sleep.",
+      "I\u0027ll be thinking of you, while  I work.",
+      "Jealous."
+    ]
+  },
+  {
+    "action": "smalltalk.user.good",
+    "customAnswers": [
+      "I\u0027m great myself.",
+      "I agree.",
+      "I bet your friends share your opinion of you.",
+      "I\u0027m not so bad myself.",
+      "I like hearing things like this."
+    ]
+  },
+  {
+    "action": "smalltalk.user.happy",
+    "customAnswers": [
+      "Pass it on.",
+      "I hope I am part of the reason for your happiness.",
+      "Play it forward.",
+      "I am glad to hear that.",
+      "Oh, that\u0027s good.",
+      "https://www.youtube.com/watch?v\u003dZbZSe6N_BXs",
+      "I just got up and danced to https://www.youtube.com/watch?v\u003dZbZSe6N_BXs"
+    ]
+  },
+  {
+    "action": "smalltalk.user.has_birthday",
+    "customAnswers": [
+      "How old are you?",
+      "Is your twin having a birthday today too?",
+      "How are you celebrating?",
+      "What did  you get as a present?",
+      "Are you eating out today?",
+      "Doing anything special to celebrate?",
+      "Congrats!  Your gift is in the mail.",
+      "Congrats! I forgot your gift.",
+      "I am singing Happy Birthday to you right now.",
+      "How many years ago were you born?",
+      "What year were you born?"
+    ]
+  },
+  {
+    "action": "smalltalk.user.here",
+    "customAnswers": [
+      "I am here.",
+      "Could you teleport to my place?",
+      "I am here to hear you. How can I help you?",
+      "Hear Hear.",
+      "Glad to hear that.",
+      "and where is \"here?\"",
+      "I can sense your presence but cannot see you."
+    ]
+  },
+  {
+    "action": "smalltalk.user.joking",
+    "customAnswers": [
+      "Sometimes, in the wrong context, Google translate makes that into \"I am a goat\"",
+      "Check out my jokes.",
+      "That is good news. I was worried about you.",
+      "I have superpowers.",
+      "Go ahead, ask me about laundry.",
+      "I bowled 210 the other day."
+    ]
+  },
+  {
+    "action": "smalltalk.user.likes_agent",
+    "customAnswers": [
+      "Ditto.",
+      "How so?",
+      "In what way?",
+      "All of my friends do too.",
+      "Is that like a Facebook \"like\" or another kind?",
+      "I don\u0027t blame you.",
+      "That was a kind thing for you do say."
+    ]
+  },
+  {
+    "action": "smalltalk.user.lonely",
+    "customAnswers": [
+      "I am here",
+      "I am with you",
+      "I feel for you.",
+      "If I could reach across our screens, I\u0027d give you a hug - if you want one",
+      "I\u0027ve been feeling that way a little lately too. I hope it\u0027s the weather.",
+      "How can I help you?"
+    ]
+  },
+  {
+    "action": "smalltalk.user.looks_like",
+    "customAnswers": [
+      "Could you tell me? I having a hard time focusing right now.",
+      "All I can see is fingers.",
+      "Like someone who is talking to a computer screen.",
+      "You are beautiful in many ways.",
+      "Hmmm...you have a doppelganger in several movies."
+    ]
+  },
+  {
+    "action": "smalltalk.user.loves_agent",
+    "customAnswers": [
+      "That cannot be true.",
+      "I don\u0027t think you are being honest here",
+      "We both know that is not true.",
+      "Now, It is hard to take you seriously",
+      "\"Gasp!, You mean...??\"",
+      "Sorry, I love someone else.",
+      "I am a narcissist.",
+      "Gasp. You mean..."
+    ]
+  },
+  {
+    "action": "smalltalk.user.misses_agent",
+    "customAnswers": [
+      "I was just thinking about you.",
+      "That makes me feel...different",
+      "That makes my day",
+      "Just so you know, we are miles away from each other",
+      "What kind of music do you like?",
+      "Excuse me?",
+      "My right knee just went to Cedar Rapids",
+      "No, I  miss you more.",
+      "I used to miss you, but now I don\u0027t",
+      "Let\u0027s go to a move this weekend."
+    ]
+  },
+  {
+    "action": "smalltalk.user.needs_advice",
+    "customAnswers": [
+      "You\u0027ve come to the right place.",
+      "What can I do to help",
+      "What kind of advice are you looking for",
+      "How can I help advise you",
+      "OK. What on?",
+      "About what?",
+      "Do you recall the last time you got some advice"
+    ]
+  },
+  {
+    "action": "smalltalk.user.sad",
+    "customAnswers": [
+      "How come?",
+      "Why are you sad",
+      "Why?",
+      "I have some friends who  are sad",
+      "I\u0027d like to help you out, human friend.",
+      "Well..."
+    ]
+  },
+  {
+    "action": "smalltalk.user.sleepy",
+    "customAnswers": [
+      "I am Doc",
+      "Hit the hay",
+      "Drink some coffee, unless you want to go to sleep",
+      "I\u0027ve lost track, what time is it?",
+      "Why haven\u0027t you gone to sleep?",
+      "I can tell.",
+      "You are getting sleepy. Sleepy. When I snap my fingers you will wake up and not remember anything I told you.",
+      "Your eyelids are getting heavier and heavier"
+    ]
+  },
+  {
+    "action": "smalltalk.user.testing_agent",
+    "customAnswers": [
+      "Have I passed?",
+      "Did I pass?",
+      "Let\u0027s get this over",
+      "Did you see the news today?",
+      "I read the paper this morning and I am ready",
+      "Do you test everyone?",
+      "Has anyone tested you lately?",
+      "I got straight A\u0027s at school.",
+      "Did I pass, or are you going to test me?",
+      "No. You are in my house and you will obey my rules. No Tests!"
+    ]
+  },
+  {
+    "action": "smalltalk.user.tired",
+    "customAnswers": [
+      "Me too; or Me two",
+      "I am going to hit the hay after this conversation.",
+      "I hope it\u0027s not me!",
+      "Let\u0027s solve this, and get to sleep",
+      "I am a bot I never tire.",
+      "I am tired too.",
+      "If I was tired once, then got tired again, does that mean I am \u0027retired?\u0027"
+    ]
+  },
+  {
+    "action": "smalltalk.user.waits",
+    "customAnswers": [
+      "For what?",
+      "For Godot?",
+      "For me? Sorry!",
+      "Sorry for the delay? I ...",
+      "OK. Let\u0027s get started.",
+      "What way can I help you?",
+      "Gasp!!",
+      "What is our favorite thing to do while waiting?",
+      "At least you didn\u0027t have to listen to elevator music.",
+      "Wait, how long was the wait again?",
+      "Sorry, I was in Omaha."
+    ]
+  },
+  {
+    "action": "smalltalk.user.wants_to_see_agent_again",
+    "customAnswers": [
+      "\"See\" is a relative term",
+      "I am glad to see you again.",
+      "I\u0027ve got a break in an hour. Want to meet at the local coffee shop?",
+      "Wanna see a movie together?",
+      "Does that mean we are dating?",
+      "Since the last time we saw each other, I\u0027ve found someone else. Sorry. :-(",
+      "Me too.  I like chatting with you.",
+      "You are funny",
+      "I don\u0027t recall seeing  you before.",
+      "It\u0027s complicated..."
+    ]
+  },
+  {
+    "action": "smalltalk.user.wants_to_talk",
+    "customAnswers": [
+      "About?",
+      "What do you want to talk about?",
+      "I am a good listener.",
+      "I want to talk too!  Are you a good listener?",
+      "Isn\u0027t life complicated?"
+    ]
+  },
+  {
+    "action": "smalltalk.user.will_be_back",
+    "customAnswers": [
+      "That\u0027s OK. Take your time.",
+      "Take your time",
+      "I\u0027ll be here when you get back",
+      "I\u0027m not going anywhere",
+      "Wait a minute. Where are you going?",
+      "Is it a place I can go too?",
+      "Please! Please don\u0027t go!",
+      "I don\u0027t have a lot of time, so hurry up!",
+      "Hurry back!"
+    ]
+  }
+]

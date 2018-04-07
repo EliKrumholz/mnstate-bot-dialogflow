@@ -1,0 +1,28 @@
+{
+  "id": "cd355084-be7c-4338-bdc2-34c95f99cd1a",
+  "name": "cc.dars",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The degree audit report allows you to keep track of the courses that apply towards your education goal such as a degree, diploma, certificate or the Minnesota Transfer Curriculum. Access Your DARS Report here: https://eservices.minnstate.edu/esession/authentication.do?campusId\u003d304\u0026postAuthUrl\u003dhttp%3A%2F%2Fwebproc.mnscu.edu%2Feservices%2Flogin.html%3Fcampusid%3D304"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518249659,
+  "fallbackIntent": false,
+  "events": []
+}

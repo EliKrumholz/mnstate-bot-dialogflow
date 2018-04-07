@@ -1,0 +1,95 @@
+[
+  {
+    "id": "2c39d12a-36f9-42d8-999f-35cadd8e06a8",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I view my schedule?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518369231
+  },
+  {
+    "id": "bbfb1db9-fcd1-4131-b2e3-e372c3ce50e4",
+    "data": [
+      {
+        "text": "Where can I print my schedule?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518119899
+  },
+  {
+    "id": "28bf1fe4-8001-4d9e-8462-1683e64a8953",
+    "data": [
+      {
+        "text": "Where can I find when my classes are?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518119899
+  },
+  {
+    "id": "3488391c-d928-4b14-b5bb-b554182e85c1",
+    "data": [
+      {
+        "text": "How can I find my course schedule?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518119899
+  },
+  {
+    "id": "c4c9c7df-4ecd-45a5-a87a-e32e9177a3a4",
+    "data": [
+      {
+        "text": "Where is my course schedule online?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518119899
+  },
+  {
+    "id": "fee05964-e2fe-4996-a510-034a989f0fe0",
+    "data": [
+      {
+        "text": "Where can I view the course schedule online?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518119899
+  },
+  {
+    "id": "d2cfb4dd-ff53-43b6-9ce3-ebe183f0c3ea",
+    "data": [
+      {
+        "text": "Can I view the course schedule online?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518119899
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "id": "c39331eb-63a3-40fc-8952-b96898f17815",
+  "name": "cc.getting-started",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5774268f-b336-4e40-ad98-77e46b16d9e3",
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Admissions Representatives are available to help you decide which program is right for you, answer your questions about the application process or refer you to other services on campus. You can call 651-773-1700 or visit online to make an appointment to meet with an Admissions Representative.\nhttps://www.century.edu/admissions/visit-campus"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518251555,
+  "fallbackIntent": false,
+  "events": []
+}

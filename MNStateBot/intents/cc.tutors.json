@@ -1,0 +1,37 @@
+{
+  "id": "fe9fc026-5cb3-486b-bb31-fb45a3beac3c",
+  "name": "cc.tutors",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "97aada3f-1314-460d-84d0-9aae2e64f7db",
+          "required": false,
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Tutoring is a free service available to all students registered for classes at Century College. From more details, view Academic Resource Centers.\nhttps://www.century.edu/support-services/academic-resource-centers\n\nFree online tutoring is also available and you can learn more about that here:\nhttp://century.custhelp.com/ci/fattach/get/3767/0/filename/Free+Online+Tutoring.pdf"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518535680,
+  "fallbackIntent": false,
+  "events": []
+}

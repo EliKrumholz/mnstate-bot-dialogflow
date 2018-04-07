@@ -1,0 +1,119 @@
+[
+  {
+    "id": "a046500e-72d7-4938-8202-e513e948d6b5",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I file a complaint?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518337308
+  },
+  {
+    "id": "17ab1787-0177-46ff-91bd-ddea74b9223c",
+    "data": [
+      {
+        "text": "I\u0027d like to make a complaint.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518337308
+  },
+  {
+    "id": "01604bef-f4b1-4094-8493-13b74278ccb8",
+    "data": [
+      {
+        "text": "I\u0027m frustrated with ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518337308
+  },
+  {
+    "id": "6da61693-f788-447b-8d83-3447436c92a1",
+    "data": [
+      {
+        "text": "I have a complaint about ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1518337308
+  },
+  {
+    "id": "427ddf0d-140a-4bf5-968c-93676f4e7348",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " if I have a complaint regarding ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518337308
+  }
+]

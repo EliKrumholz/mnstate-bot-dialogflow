@@ -1,0 +1,112 @@
+[
+  {
+    "id": "f9d5c8bd-e85b-40d2-a7be-79baeba7e4f1",
+    "data": [
+      {
+        "text": "Do I need to apply again if I\u0027ve attended Century College in the past?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518498784
+  },
+  {
+    "id": "99586ce8-598d-49dc-9619-b55298937d1b",
+    "data": [
+      {
+        "text": "Do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I need to apply again if I\u0027ve already attended ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518498784
+  },
+  {
+    "id": "1ebf5a73-4a3c-42ec-b238-a26bd798da5b",
+    "data": [
+      {
+        "text": "If I\u0027ve ",
+        "userDefined": false
+      },
+      {
+        "text": "been",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " a student before at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I need to re-apply?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518498731
+  },
+  {
+    "id": "9599a2f8-e634-4de1-bf74-e4eb7159b2ec",
+    "data": [
+      {
+        "text": "I have attended ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": " before. ",
+        "userDefined": false
+      },
+      {
+        "text": "Do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I need to re-apply?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518498731
+  }
+]

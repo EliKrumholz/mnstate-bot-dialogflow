@@ -1,0 +1,28 @@
+{
+  "id": "c6fe236f-ba20-4af9-bcb7-5e30c7622796",
+  "name": "cc.bookstore.books",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "In the Bookstore, the textbooks are organized according to Department, Course and Section Number, and your Instructor\u0027s Last Name. Each specific course has shelf tags that correspond to which textbooks are required, recommended, or optional for the class. Each textbook listed will be located on the shelf above its shelf tag.  Textbook prices (New, as well as Used, e-Book, and Rental if available) for each title are printed on the shelf tags.  Bookstore staff members are always available for assistance.  You will need a copy of your class schedule while you are getting your books so that you can see each course and section number to make sure you are getting the correct books."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516682276,
+  "fallbackIntent": false,
+  "events": []
+}

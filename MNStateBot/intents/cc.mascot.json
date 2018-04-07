@@ -1,0 +1,40 @@
+{
+  "id": "fe75eb66-19f0-41e8-a44a-abae7eba1cbc",
+  "name": "cc.mascot",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "07e81d93-3b98-47c1-a731-3db16c4e9a85",
+          "required": false,
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Century College\u0027s mascot is Woody Woodduck.",
+            "Century\u0027s mascot is Woody Woodduck."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1511823586,
+  "fallbackIntent": false,
+  "events": []
+}

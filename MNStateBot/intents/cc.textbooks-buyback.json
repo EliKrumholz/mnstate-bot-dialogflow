@@ -1,0 +1,28 @@
+{
+  "id": "c55831fb-c5a0-4559-8244-5088268f2435",
+  "name": "cc.textbooks-buyback",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The bookstore will advertise Book Buy Back and it is typically the last week or so of classes.  Watch for posters toward the end of the semester and details are also posted on the Bookstore web page during that time.  Not all books can be sold back, it depends on demand and other factors.  There is usually a box for donations next to the bookstore for textbooks that are not eligible for buy back."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516681931,
+  "fallbackIntent": false,
+  "events": []
+}

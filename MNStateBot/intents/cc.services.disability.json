@@ -1,0 +1,28 @@
+{
+  "id": "ed84b3bc-ecf6-47d1-b7e8-60d743cf9e25",
+  "name": "cc.services.disability",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The Access Center/Disabilty Services provides services to students with disabilities. Services provided range from note takers, sign language interpreters, quite testing rooms to extended test times.  Services are provided free of charge to students, but documentation of the disability is required. http://www.century.edu/support-services/assistive-services-century-college/disability-services"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518505647,
+  "fallbackIntent": false,
+  "events": []
+}

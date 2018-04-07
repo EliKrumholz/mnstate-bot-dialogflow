@@ -1,0 +1,41 @@
+{
+  "id": "cc447058-980b-412c-bdce-65a15bd670ec",
+  "name": "cc.phone",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6be6000d-be48-45a9-b3ff-fe7147f6ce3b",
+          "required": false,
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Phone: (651) 779-3300 or 800-228-1978",
+            "Century\u0027s phone number is (651) 779-3300 or 800-228-1978",
+            "You can call Century College at (651) 779-3300 or 800-228-1978"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1511825460,
+  "fallbackIntent": false,
+  "events": []
+}

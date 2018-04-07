@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1c578810-efd5-4749-b69c-bc154d5594ab",
+    "data": [
+      {
+        "text": "How can I reach ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1511825460
+  },
+  {
+    "id": "8f6cf8dd-dff3-48cc-be1b-875bf7687d51",
+    "data": [
+      {
+        "text": "What is your phone number?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1511825460
+  },
+  {
+    "id": "dda897eb-2c78-4164-a050-046b0457a7b4",
+    "data": [
+      {
+        "text": "What is the phone number for ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1511825460
+  },
+  {
+    "id": "7c18ae9f-5333-457d-9ae2-a9965bb30d2a",
+    "data": [
+      {
+        "text": "If I wanted to call ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": ", what number should I use?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1511825460
+  },
+  {
+    "id": "ec0043f8-b48d-4261-95e4-44caa7ab9412",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s phone number?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1511825460
+  }
+]

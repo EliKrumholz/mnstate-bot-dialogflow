@@ -1,0 +1,48 @@
+[
+  {
+    "id": "0f129b37-288b-4d43-ab99-a9ba0ae08a44",
+    "data": [
+      {
+        "text": "Should I ",
+        "userDefined": false
+      },
+      {
+        "text": "be",
+        "alias": "degrees",
+        "meta": "@degrees",
+        "userDefined": false
+      },
+      {
+        "text": " concerned about Ebola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518538418
+  },
+  {
+    "id": "9c04bfbf-149d-4b2b-8119-75b037815b79",
+    "data": [
+      {
+        "text": "Can you tell me about Ebola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518538418
+  },
+  {
+    "id": "98067a9b-2aeb-459f-a430-a1be6b861e91",
+    "data": [
+      {
+        "text": "Where can I find updated information about Ebola?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518538418
+  }
+]

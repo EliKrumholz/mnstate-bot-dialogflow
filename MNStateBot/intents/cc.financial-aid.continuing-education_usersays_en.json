@@ -1,0 +1,26 @@
+[
+  {
+    "id": "52b50506-a97b-48e7-ac53-b4c27a133f40",
+    "data": [
+      {
+        "text": "Can I receive financial aid for non-credit classes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518508176
+  },
+  {
+    "id": "cab39e65-8d8a-470b-845b-f9871ede48a4",
+    "data": [
+      {
+        "text": "Is financial aid available for continuing education classes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518508176
+  }
+]

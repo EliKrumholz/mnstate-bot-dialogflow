@@ -1,0 +1,37 @@
+{
+  "id": "07b3b3a1-92de-46ec-b4c5-e50d3d43c8e0",
+  "name": "cc.d2l.what-is",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f2ea2090-4c79-46ad-a693-7d0c8470c29e",
+          "required": false,
+          "dataType": "@D2L",
+          "name": "D2L",
+          "value": "$D2L",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "D2L Brightspace, formerly known as Desire2Learn is an online learning software used by Minnesota State Colleges and Universities institutions. For more information on how D2L is used at Century, visit our Online Learning page.\nhttps://www.century.edu/support-services/technology-services/online-learning\n\nUse your StarID and StarID pasord to login to Century\u0027s D2L Brightspace site.\nhttps://century.learn.minnstate.edu"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518335014,
+  "fallbackIntent": false,
+  "events": []
+}

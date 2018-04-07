@@ -1,0 +1,28 @@
+{
+  "id": "8ca8faca-e415-48c6-8e9b-1f3eabcf0829",
+  "name": "cc.power-of-you.financial-assistance",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The Power of YOU program will offer an array of services to enable students to achieve their academic and career goals. Some of the services include individualized academic advising, career development services, peer support programs and social and cultural activities.\nhttp://www.century.edu/poy"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518539022,
+  "fallbackIntent": false,
+  "events": []
+}

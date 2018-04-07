@@ -1,0 +1,48 @@
+[
+  {
+    "id": "5186cb25-9318-4054-a5cb-5604552a13af",
+    "data": [
+      {
+        "text": "Where\u0027s the form to audit a course?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518333881
+  },
+  {
+    "id": "fc3b2de5-36c0-4bbf-881a-1abf47473a35",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "alias": "degrees",
+        "meta": "@degrees",
+        "userDefined": false
+      },
+      {
+        "text": " I audit a course?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518333881
+  },
+  {
+    "id": "b0641d02-2ee0-44ac-b0d1-4122a8ab284c",
+    "data": [
+      {
+        "text": "Can I audit a course?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518333881
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "a859c830-117f-475a-a07e-182ec1f4fd6e",
+    "data": [
+      {
+        "text": "Can I get to my student email on my Android?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518118416
+  },
+  {
+    "id": "7e06b205-77c1-423f-b096-2de8d7966e66",
+    "data": [
+      {
+        "text": "Can I get to my student email on my smartphone?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518118416
+  },
+  {
+    "id": "b36dc656-3f60-483c-8eec-ea5b0d20f171",
+    "data": [
+      {
+        "text": "Can I get to my student email on my tablet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518118416
+  },
+  {
+    "id": "fbaba697-4e9b-4f9f-ad00-d0631817e956",
+    "data": [
+      {
+        "text": "Can I get to my student email on my iPad?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518118416
+  },
+  {
+    "id": "2af90f39-489b-4bc4-be83-1096e0fdfa6a",
+    "data": [
+      {
+        "text": "Can I get to my student email on my iPhone?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518118416
+  },
+  {
+    "id": "83db9bef-01ff-41f1-b336-8b54afbc626b",
+    "data": [
+      {
+        "text": "Can I get to my student email on my mobile device?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518118416
+  }
+]

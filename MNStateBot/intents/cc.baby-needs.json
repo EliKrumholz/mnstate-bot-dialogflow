@@ -1,0 +1,28 @@
+{
+  "id": "a8b51a92-74d6-49fe-b2df-5304e692455e",
+  "name": "cc.baby-needs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Lactation Rooms are available in the East Campus Health Service Center (E2232) and in the West Campus 1st Floor Bathroom located by Stairwell E (W1203) near the coffee shop and bookstore.  This space includes a comfortable chair, table and electrical outlet as well as a diaper changing station.\n\nThe room on West Campus requires a key.  Contact information for the key safe access code is:\n\n    Human Resources 651-779-5804\n    The Connection  651-779-3358\n    Campus Safety 651-747-4000 (For After Hours)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518506644,
+  "fallbackIntent": false,
+  "events": []
+}

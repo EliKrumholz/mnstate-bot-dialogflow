@@ -1,0 +1,36 @@
+{
+  "id": "288aefb5-3d64-49ec-be76-29349d80f3b0",
+  "name": "cc.students.athletics",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cefb8124-5fab-48e1-86a2-34bfaf4ff972",
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Yes, we do have an intercollegiate athletics program.\n\nFor more detailed information, visit here: http://www.century.edu/campus-life/athletics"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518503016,
+  "fallbackIntent": false,
+  "events": []
+}

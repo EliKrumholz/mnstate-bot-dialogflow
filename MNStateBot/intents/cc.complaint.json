@@ -1,0 +1,37 @@
+{
+  "id": "3390e336-8efd-4d4d-89dc-46b671173eab",
+  "name": "cc.complaint",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bff3013d-6821-4392-ab5b-0fefab5c6cca",
+          "required": false,
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Century College values your feedback regarding its positive learning environment and we recognize that from time to time, you may have a concern that needs to be addressed. We take all student concerns seriously and are committed to helping you address the concern. If you have a concern, it must be substantial, compelling, and verifiable. To address this concern and access more details about this topic, please go to  \"My Century\" (https://my.century.edu/Pages/default.aspx) and click on \"My Tools\" and choose \"Student Concerns\". This will help you navigate through Century\u0027s process for handling student concerns/complaints."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518337308,
+  "fallbackIntent": false,
+  "events": []
+}

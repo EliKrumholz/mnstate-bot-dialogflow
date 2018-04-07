@@ -1,0 +1,70 @@
+[
+  {
+    "id": "f1971d0e-64ae-4e8f-aec7-00b9b3a4fa8f",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "Brightspace",
+        "alias": "D2L",
+        "meta": "@D2L",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518335014
+  },
+  {
+    "id": "db3354c4-aaa0-4b76-b25b-ffdb23987f10",
+    "data": [
+      {
+        "text": "What is Desire to Learn?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1518334781
+  },
+  {
+    "id": "76def412-88e0-4386-a24a-88c588788b34",
+    "data": [
+      {
+        "text": "What is D2L?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518334781
+  },
+  {
+    "id": "783a14c8-d719-4aa9-9ec8-2beed5f087b6",
+    "data": [
+      {
+        "text": "What is D2L ",
+        "userDefined": false
+      },
+      {
+        "text": "Brightspace",
+        "alias": "D2L",
+        "meta": "@D2L",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518334781
+  }
+]

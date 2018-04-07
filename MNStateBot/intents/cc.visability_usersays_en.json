@@ -1,0 +1,120 @@
+[
+  {
+    "id": "6d4d3f1a-258d-4dc6-838f-47b789d62bdb",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I know if I can see ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": " from the street?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512153486
+  },
+  {
+    "id": "db166df1-1160-4d5e-ae59-4c81fd444c46",
+    "data": [
+      {
+        "text": "Can I see the campus buildings, at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": ", from the road?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512153486
+  },
+  {
+    "id": "c85dd51d-d30f-4555-a71f-e1f3334b57d2",
+    "data": [
+      {
+        "text": "How hard is it to see ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": " from the street?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512153486
+  },
+  {
+    "id": "c3174407-3e8f-4cd5-96fe-61f9348d71f1",
+    "data": [
+      {
+        "text": "Can you see ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": " from the road?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512153486
+  },
+  {
+    "id": "8647dae3-e07b-4e58-b94d-a93894f99851",
+    "data": [
+      {
+        "text": "Is this place easy to notice from a vehicle in ",
+        "userDefined": false
+      },
+      {
+        "text": "normal",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " traffic?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512153486
+  }
+]

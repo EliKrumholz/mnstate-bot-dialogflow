@@ -1,0 +1,36 @@
+{
+  "id": "9210ff6e-3380-41e5-bfb1-770419bfa578",
+  "name": "cc.accuplacer.valid",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8a6ea1ec-a1df-4d1f-82b5-d8c3b7b8c132",
+          "dataType": "@exam",
+          "name": "exam",
+          "value": "$exam",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "ACCUPLACER Course Placment Test scores in Reading are valid for six (6) semesters and ACCUPLACER Course Placement Test scores in Mathematics are valid for four (4) semesters following the test date (excluding summer session)."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518368811,
+  "fallbackIntent": false,
+  "events": []
+}

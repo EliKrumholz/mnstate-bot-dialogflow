@@ -1,0 +1,50 @@
+[
+  {
+    "id": "009ebf66-2997-401f-905c-0f264423faf2",
+    "data": [
+      {
+        "text": "It\u0027s not letting me register for classes.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518538201
+  },
+  {
+    "id": "1b5213df-a4eb-49de-ab32-67879cbc5afd",
+    "data": [
+      {
+        "text": "Why can\u0027t I register?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518538201
+  },
+  {
+    "id": "4f5f3de2-e6e7-46a6-89c3-afb5c6fb6cde",
+    "data": [
+      {
+        "text": "It\u0027s not letting me register for a course.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1518538201
+  },
+  {
+    "id": "33a004b9-c1ab-48d3-90d4-703a34c3bdee",
+    "data": [
+      {
+        "text": "Why can\u0027t I register for a course when I have met the prerequisite requirement at a different institution?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518538201
+  }
+]

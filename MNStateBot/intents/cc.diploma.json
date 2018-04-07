@@ -1,0 +1,28 @@
+{
+  "id": "8fb21db0-2c6d-474c-9bab-b9670ce97506",
+  "name": "cc.diploma",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Your graduation document (diploma) will be mailed to you within 14-16 weeks after grades are posted for the semester that you had applied for graduation. \n\nA notation of your award is usually posted on your transcript within 6-8 weeks after the grades are entered. \n\nFor more information regarding the graduation application process and timelines, view:\nGraduation Information\nhttps://www.century.edu/academics/graduation"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518249611,
+  "fallbackIntent": false,
+  "events": []
+}

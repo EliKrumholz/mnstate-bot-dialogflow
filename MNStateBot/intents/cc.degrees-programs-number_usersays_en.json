@@ -1,0 +1,68 @@
+[
+  {
+    "id": "b221a12c-0018-4f1d-9290-615ae40a3744",
+    "data": [
+      {
+        "text": "How many programs or degrees does ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": " offer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512157213
+  },
+  {
+    "id": "e018e3d0-6c29-45e9-a86a-36dba46015bb",
+    "data": [
+      {
+        "text": "How many degrees does ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": " offer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512157213
+  },
+  {
+    "id": "04b12e93-db92-49e0-9afb-c96d44a52df4",
+    "data": [
+      {
+        "text": "How many programs does ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": " have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512157213
+  }
+]

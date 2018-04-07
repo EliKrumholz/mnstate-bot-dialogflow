@@ -1,0 +1,264 @@
+[
+  {
+    "value": "coat",
+    "synonyms": [
+      "manteau"
+    ]
+  },
+  {
+    "value": "gloves",
+    "synonyms": [
+      "gants"
+    ]
+  },
+  {
+    "value": "jacket",
+    "synonyms": [
+      "veste"
+    ]
+  },
+  {
+    "value": "jumper",
+    "synonyms": [
+      "pull"
+    ]
+  },
+  {
+    "value": "scarf",
+    "synonyms": [
+      "echarpe"
+    ]
+  },
+  {
+    "value": "sunglasses",
+    "synonyms": [
+      "lunettes de soleil"
+    ]
+  },
+  {
+    "value": "umbrella",
+    "synonyms": [
+      "parapluie"
+    ]
+  },
+  {
+    "value": "sweater",
+    "synonyms": [
+      "sweater"
+    ]
+  },
+  {
+    "value": "jeans",
+    "synonyms": [
+      "jeans",
+      "jean"
+    ]
+  },
+  {
+    "value": "khakis",
+    "synonyms": [
+      "khakis"
+    ]
+  },
+  {
+    "value": "dress pants",
+    "synonyms": [
+      "pantalon"
+    ]
+  },
+  {
+    "value": "shorts",
+    "synonyms": [
+      "shorts",
+      "short"
+    ]
+  },
+  {
+    "value": "dress",
+    "synonyms": [
+      "robe",
+      "robes"
+    ]
+  },
+  {
+    "value": "skirt",
+    "synonyms": [
+      "skirt",
+      "skirts"
+    ]
+  },
+  {
+    "value": "suit",
+    "synonyms": [
+      "costume"
+    ]
+  },
+  {
+    "value": "tie",
+    "synonyms": [
+      "cravate"
+    ]
+  },
+  {
+    "value": "pajama",
+    "synonyms": [
+      "pajama",
+      "pyjama"
+    ]
+  },
+  {
+    "value": "bra",
+    "synonyms": [
+      "soutien-gorge",
+      "soutif"
+    ]
+  },
+  {
+    "value": "underwear",
+    "synonyms": [
+      "lingerie"
+    ]
+  },
+  {
+    "value": "socks",
+    "synonyms": [
+      "chaussettes"
+    ]
+  },
+  {
+    "value": "hat",
+    "synonyms": [
+      "chapeau",
+      "bonnet"
+    ]
+  },
+  {
+    "value": "swimwear",
+    "synonyms": [
+      "maillot",
+      "maillot de bain"
+    ]
+  },
+  {
+    "value": "boots",
+    "synonyms": [
+      "bottes"
+    ]
+  },
+  {
+    "value": "sleeve shirt",
+    "synonyms": [
+      "chemise à manches"
+    ]
+  },
+  {
+    "value": "pants",
+    "synonyms": [
+      "pantalon",
+      "pantalons"
+    ]
+  },
+  {
+    "value": "sneakers",
+    "synonyms": [
+      "sneakers",
+      "chaussures de sports"
+    ]
+  },
+  {
+    "value": "cardigan",
+    "synonyms": [
+      "cardigan",
+      "gilet"
+    ]
+  },
+  {
+    "value": "sandals",
+    "synonyms": [
+      "sandales"
+    ]
+  },
+  {
+    "value": "turtleneck",
+    "synonyms": [
+      "turtleneck",
+      "pull à col roulé",
+      "col roulé"
+    ]
+  },
+  {
+    "value": "snowboard pants",
+    "synonyms": [
+      "pantalons de surf des neiges",
+      "pantalon de surf des neiges",
+      "pantalons de snowboard"
+    ]
+  },
+  {
+    "value": "ski pants",
+    "synonyms": [
+      "ski pants",
+      "pantalon de ski",
+      "pantalons de ski"
+    ]
+  },
+  {
+    "value": "neck gaiter",
+    "synonyms": [
+      "cache-cou"
+    ]
+  },
+  {
+    "value": "balaclava",
+    "synonyms": [
+      "balaclava",
+      "passe-montagnes",
+      "cagoule"
+    ]
+  },
+  {
+    "value": "sleepwear",
+    "synonyms": [
+      "sleepwear",
+      "vêtements de nuit"
+    ]
+  },
+  {
+    "value": "tennis shoes",
+    "synonyms": [
+      "chaussures de tennis"
+    ]
+  },
+  {
+    "value": "flips flops",
+    "synonyms": [
+      "flips flops"
+    ]
+  },
+  {
+    "value": "slippers",
+    "synonyms": [
+      "pantoufles"
+    ]
+  },
+  {
+    "value": "hoodie",
+    "synonyms": [
+      "hoodie",
+      "veste à capuchon",
+      "veste à capuche"
+    ]
+  },
+  {
+    "value": "swim goggles",
+    "synonyms": [
+      "lunettes de natation"
+    ]
+  },
+  {
+    "value": "shawls",
+    "synonyms": [
+      "châles"
+    ]
+  }
+]

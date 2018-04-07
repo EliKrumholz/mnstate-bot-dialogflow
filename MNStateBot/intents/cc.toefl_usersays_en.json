@@ -1,0 +1,89 @@
+[
+  {
+    "id": "2992fdff-c661-431f-9b29-9612919a421e",
+    "data": [
+      {
+        "text": "TOEFL",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518371686
+  },
+  {
+    "id": "5b75cfbc-2b55-4ce5-a959-5c1fcd501a60",
+    "data": [
+      {
+        "text": "What is TOEFL?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518371686
+  },
+  {
+    "id": "48d8483b-fae0-4269-86f5-a3b21d7ebfcf",
+    "data": [
+      {
+        "text": "What is the TOEFL test?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518371686
+  },
+  {
+    "id": "14b43ae8-ecf4-4013-8b80-78e415a4616c",
+    "data": [
+      {
+        "text": "Do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I have to take the ",
+        "userDefined": false
+      },
+      {
+        "text": "ACCUPLACER",
+        "alias": "exam",
+        "meta": "@exam",
+        "userDefined": false
+      },
+      {
+        "text": " Course Placement Testing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518371686
+  },
+  {
+    "id": "38dd186e-6d4e-4ba6-ac41-a1860e6afff7",
+    "data": [
+      {
+        "text": "What is the minimum TOEFL score?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518371686
+  },
+  {
+    "id": "ce47b1d2-1e7c-4535-8fde-a55d4b4d2153",
+    "data": [
+      {
+        "text": "Where can I get information on the TOEFL Test?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518371686
+  }
+]

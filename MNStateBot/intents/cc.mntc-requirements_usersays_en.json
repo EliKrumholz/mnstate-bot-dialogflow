@@ -1,0 +1,38 @@
+[
+  {
+    "id": "8b7f2f86-ab1b-4260-be3e-16453a1df832",
+    "data": [
+      {
+        "text": "What courses fulfill the general transfer curriculum?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518338426
+  },
+  {
+    "id": "4bb5be14-1fbd-48e4-877f-46943aeff829",
+    "data": [
+      {
+        "text": "Where can I find out what courses fulfill the General Education/Minnesota Transfer Curriculum (MnTC)?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518338426
+  },
+  {
+    "id": "ea1eab4b-2434-4856-bf9d-5b951f3f0f50",
+    "data": [
+      {
+        "text": "What courses fulfill MnTC requirements?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518338426
+  }
+]

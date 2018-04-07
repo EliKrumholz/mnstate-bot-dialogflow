@@ -1,0 +1,36 @@
+{
+  "id": "ada2ab36-8288-491d-8b66-9f6a53f3c8fb",
+  "name": "cc.engineering.why",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "07ead9af-64ad-418a-a948-3c7a060adb5b",
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Small class sizes. Personal attention. Dedicated faculty. Excellent lab facilities. Emphasis on design, teamwork, and \"hands on\" engineering.\n\nI\u0027m interested, what would be a good class to take to find out if engineering is for me?\n\nEngr 1020 Introduction to Engineering. This class will introduce you to the engineering profession by having you work in teams on engineering design projects including the design and construction of a \"robot\"."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518534897,
+  "fallbackIntent": false,
+  "events": []
+}

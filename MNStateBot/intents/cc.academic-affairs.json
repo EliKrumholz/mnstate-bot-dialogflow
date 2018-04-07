@@ -1,0 +1,28 @@
+{
+  "id": "0083bb1c-6828-4f22-94f7-3b6af0398bc6",
+  "name": "cc.academic-affairs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There is an Academic Affairs Office on each campus.  The West Campus suite (Rooms W3232-3241) is on the third floor above the Theatre entrance and the East Campus suite (Rooms E2421-2425) is located on the second floor right inside the Main Entrance."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518534762,
+  "fallbackIntent": false,
+  "events": []
+}

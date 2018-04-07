@@ -1,0 +1,58 @@
+[
+  {
+    "id": "dce07fe1-49a6-4f89-a7f5-4d08b4d6b8fa",
+    "data": [
+      {
+        "text": "Can I use a locker at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518536401
+  },
+  {
+    "id": "03ac1b66-537f-45e3-9a3d-d5b04dc97e50",
+    "data": [
+      {
+        "text": "Are there lockers at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518536401
+  },
+  {
+    "id": "b5b0b4d3-f147-4f4c-b5e6-d473203c07e4",
+    "data": [
+      {
+        "text": "Are there lockers available for rent on campus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518536401
+  }
+]

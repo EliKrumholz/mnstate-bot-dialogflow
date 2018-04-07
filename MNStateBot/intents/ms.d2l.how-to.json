@@ -1,0 +1,36 @@
+{
+  "id": "52c680e3-2ccd-49bd-99dd-0647204982b2",
+  "name": "ms.d2l.how-to",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4648d2c6-ee9d-4ab7-8962-ebdfd37416f8",
+          "dataType": "@D2L",
+          "name": "D2L",
+          "value": "$D2L",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The short videos at the link explain how to use D2L Brightspace, Century College\u0027s method for offering course material online. All of the videos have audio as well as video so headphones or speakers are required. The videos provide basic information about the main tools in D2L Brightspace from a student’s perspective and tips and tricks for getting the most from its many features.\nhttps://www.youtube.com/watch?v\u003dweDIXdbjX_4\u0026list\u003dPLxHabmZzFY6mtggGZAitZ61kmpS-pMIaM\nhttp://www.minnstate.edu/system/ims/D2LV.10.7OverviewVideosforStudents.html#Overview%20Videos"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518532045,
+  "fallbackIntent": false,
+  "events": []
+}

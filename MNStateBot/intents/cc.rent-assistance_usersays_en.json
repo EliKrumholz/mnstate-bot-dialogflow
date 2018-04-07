@@ -1,0 +1,74 @@
+[
+  {
+    "id": "965f025e-40ba-476c-8b7b-ac07b4cc4c96",
+    "data": [
+      {
+        "text": "I am having trouble paying my rent.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514914500
+  },
+  {
+    "id": "6a054d03-a9c0-4b81-ada6-d09002f05a6b",
+    "data": [
+      {
+        "text": "I need help paying my rent. What is there for me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514914500
+  },
+  {
+    "id": "28bd5a34-5793-4368-b982-f255eec47a11",
+    "data": [
+      {
+        "text": "I can\u0027t pay my rent. Where is some help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514914500
+  },
+  {
+    "id": "9a92c420-9274-416d-8c27-07a48b59b995",
+    "data": [
+      {
+        "text": "Where can I get help paying my rent?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514914500
+  },
+  {
+    "id": "13e01e67-8779-486f-9685-201e5a97abb3",
+    "data": [
+      {
+        "text": "I am having trouble making my rent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514914500
+  },
+  {
+    "id": "47c79ecd-4a08-45b5-bea4-983e0f74d2dc",
+    "data": [
+      {
+        "text": "Where can I can get help for rental assistance?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514914500
+  }
+]

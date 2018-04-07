@@ -1,0 +1,28 @@
+{
+  "id": "e44aa015-3913-4865-8938-19eeaa33f70e",
+  "name": "cc.nursing-assistant.about",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "If you have specific questions about the non‐credit course offerings or course dates, times, or locations, please contact CE/CT at 651‐779‐3341. If you have specific questions about the credit course offerings (HSCI 1001), contact Jennifer Eccles at: (651) 779-3987 or jennifer.eccles@century.edu"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518368497,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "da2920ec-81f2-403c-9474-67f6c6fdff4e",
+  "name": "cc.power-of-you.selection-process",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The Power of You program is a need-based program that uses the financial aid process to identify student need. We identify and fund students who have a high need first and then continue funding the rest of the students.\nhttp://www.century.edu/poy\n\nWe are committed to funding all applicants based on the money available."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518538934,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "518ad281-39d7-4eb6-b875-6d279b575dd5",
+    "data": [
+      {
+        "text": "Can you help me pick classes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518337010
+  },
+  {
+    "id": "fbd71dc2-2ec8-4452-986d-ddb923b181c8",
+    "data": [
+      {
+        "text": "I need help picking classes.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518337010
+  },
+  {
+    "id": "284db6fa-7397-423a-a010-5249e815d3a5",
+    "data": [
+      {
+        "text": "What courses should I take?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518337010
+  }
+]

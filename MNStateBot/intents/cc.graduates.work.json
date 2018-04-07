@@ -1,0 +1,43 @@
+{
+  "id": "e1dee0a9-0f9e-4d25-806a-ee2670e8335f",
+  "name": "cc.graduates.work",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "214b4e7f-226e-475e-a8a2-9f47e79a6b59",
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        },
+        {
+          "id": "d70ac5bd-fb07-43fe-93f2-8008b9016375",
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Century College graduates are in high demand! We have many graduates who work in places like 3M, Medtronic, or Best Buy. Our medical program graduates often find jobs in places like Fairview Hospital System or Regents Hospital.\n\nFor more information contact the Career Services (W2410) on the West Campus.\nhttps://www.century.edu/support-services/career-planning/career-services"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518535865,
+  "fallbackIntent": false,
+  "events": []
+}

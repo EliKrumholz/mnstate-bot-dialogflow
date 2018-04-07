@@ -1,0 +1,38 @@
+[
+  {
+    "id": "e513cd65-abfa-4e80-a500-0d1008698175",
+    "data": [
+      {
+        "text": "How can I tell what my school email address is?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515207282
+  },
+  {
+    "id": "cbec43ce-b1fd-4d1f-b43e-4e0eb01e2188",
+    "data": [
+      {
+        "text": "What is my school email address?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515207282
+  },
+  {
+    "id": "8f13adc9-2b75-4672-9e07-6be3b769108a",
+    "data": [
+      {
+        "text": "What is my email address for school?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515207282
+  }
+]

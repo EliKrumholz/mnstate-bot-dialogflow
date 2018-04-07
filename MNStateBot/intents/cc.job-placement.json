@@ -1,0 +1,36 @@
+{
+  "id": "a17cd1d2-9285-4d59-bfde-5ee2b805bad3",
+  "name": "cc.job-placement",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c20b5fa0-67d1-4f2f-8fbc-e8c7e27d8acd",
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Century College does not have a formal job placement program, but employment assistance is offered through Career Services.  Career Services offers information on resume and cover letter writing, formal job search tips and effective interviewing techniques.  Century College also has an online job posting site allowing students and alumni to search jobs posted by local employers, and post their resume to the site.\nhttps://www.century.edu/support-services/career-planning/career-services.\nhttp://www.collegecentral.com/century/Student.cfm"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518330887,
+  "fallbackIntent": false,
+  "events": []
+}

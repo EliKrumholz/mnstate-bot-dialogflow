@@ -1,0 +1,50 @@
+[
+  {
+    "id": "205641ad-dcae-42a8-8b1b-aa3f73ea2324",
+    "data": [
+      {
+        "text": "I need a job.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518536755
+  },
+  {
+    "id": "b9d974bc-007e-4016-aad4-e381599cf079",
+    "data": [
+      {
+        "text": "Can you help me find a job?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518536761
+  },
+  {
+    "id": "c65e3475-4022-4bed-8751-0abb4e2d8191",
+    "data": [
+      {
+        "text": "I need help getting a job.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518536755
+  },
+  {
+    "id": "cac40009-a1f8-41ac-9d29-9f5c00f78506",
+    "data": [
+      {
+        "text": "Where can I find employment opportunities for students?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518536755
+  }
+]

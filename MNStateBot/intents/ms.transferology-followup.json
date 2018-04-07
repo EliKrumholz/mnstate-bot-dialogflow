@@ -1,0 +1,33 @@
+{
+  "id": "03ad3c5f-e342-4102-aff8-99f1d3fee107",
+  "parentId": "4a9c7b72-7f82-436e-813e-7d4fe3da3729",
+  "rootParentId": "4a9c7b72-7f82-436e-813e-7d4fe3da3729",
+  "name": "ms.transferology-followup",
+  "auto": true,
+  "contexts": [
+    "mstransferology-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "mstransferology.mstransferology-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "If you would like to explore other transfer opportunities or initiate a referral to a Career Counselor, Transfer Specialist or other resource, please contact the Minnesota State system Online Support Center at 1-800-456-8519 or minnesotastate@custhelp.com to connect with an Success Coach."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

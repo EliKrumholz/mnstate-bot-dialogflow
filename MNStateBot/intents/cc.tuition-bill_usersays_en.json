@@ -1,0 +1,35 @@
+[
+  {
+    "id": "a08e7e0a-9a73-437b-9a28-7b0d40a79e95",
+    "data": [
+      {
+        "text": "Will I receive a bill for tuition in the mail?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1518332425
+  },
+  {
+    "id": "8754cd81-038b-42d6-8ad6-8ecd3e935c23",
+    "data": [
+      {
+        "text": "Will my tuition bill ",
+        "userDefined": false
+      },
+      {
+        "text": "be",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mailed to me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518332425
+  }
+]

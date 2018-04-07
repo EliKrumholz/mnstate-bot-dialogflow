@@ -1,0 +1,25 @@
+[
+  {
+    "id": "ab6c378b-7e6e-492f-aad4-042541906622",
+    "data": [
+      {
+        "text": "what kinds of financial aid are available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "036c5527-d4c2-4531-9231-2ced406963cb",
+    "data": [
+      {
+        "text": "Is financial aid available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516564511
+  }
+]

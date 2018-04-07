@@ -1,0 +1,28 @@
+{
+  "id": "1d395826-be66-4eef-b130-5ba1cf6cbef2",
+  "name": "cc.foodshelf",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There is food shelf availability in the Century College area, this question can be better answered by the following link: http://century.custhelp.com/app/answers/detail/a_id/553"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516570955,
+  "fallbackIntent": false,
+  "events": []
+}

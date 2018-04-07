@@ -1,0 +1,37 @@
+{
+  "id": "4016d687-95a3-41af-af1a-69f65b62e74f",
+  "name": "cc.students.returning",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "28eeca77-4bc9-4c54-91f0-6cbfca5dfedc",
+          "required": false,
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You would be considered a returning student; however if it has been longer that two years then you will need to submit a new application for admission just to make sure we have your most recent information. You will not need to pay the $20 application fee though. If you need help with career or education planning, we recommend that you schedule an appointment with one of our counselors to further discuss your plans. You can contact the Advising, Counseling and Career Center at 651-779-3285.\nhttps://eservices.minnstate.edu/adm/public/studentWelcome?campusId\u003d304\u0026appType\u003dunderGrad\u0026_ga\u003d1.67775187.390127160.1428931530\nhttps://www.century.edu/support-services/advising-counseling"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518498784,
+  "fallbackIntent": false,
+  "events": []
+}

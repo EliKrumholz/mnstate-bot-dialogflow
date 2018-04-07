@@ -1,0 +1,28 @@
+{
+  "id": "f8ebfc48-b9ba-46d7-9b25-6fcaca7bed4b",
+  "name": "cc.clothing-for-free",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Century College Clothing Closet: Clothes Pins\nWest Campus Room - W1010\n\nStudents can come to the Clothes Pins to shop for gently used clothing for themselves and children for free. All they need is either a student ID card or student ID number. All current students are eligible to use Clothes Pins.\n\nHours:\nMonday and Wednesday - 12 pm - 4 pm\nTuesday - 1 - 3 pm\nThursday - 9 am - 3 pm\nFriday - 10 am - 4 pm\nAlso available by appointment - phone number to W1010 is 651-779-5765.\n\nYou can also stop by the Resource and Support Center during Mondays - Thursdays at 9 AM - 4 PM or Fridays at 9 AM - 2:00 PM and we can help you to access Clothes Pins. View flier at: Clothes Pins Flier.\n\nContact: 651-779-3221 - Michele Jersak, Counselor"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516682009,
+  "fallbackIntent": false,
+  "events": []
+}

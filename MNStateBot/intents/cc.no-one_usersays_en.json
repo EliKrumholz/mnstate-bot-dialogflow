@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1239f623-5246-4f2f-8794-0136ba018ea8",
+    "data": [
+      {
+        "text": "No one from Admissions is turning my calls",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514406263
+  },
+  {
+    "id": "aea29a39-0810-43a4-a0d7-18b8a1d91a04",
+    "data": [
+      {
+        "text": "No one from Admissions is turning my emails",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514406263
+  },
+  {
+    "id": "435b450d-dd68-4d61-bea9-69b0d1341871",
+    "data": [
+      {
+        "text": "Admissions isn\u0027t answering my calls",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514406263
+  },
+  {
+    "id": "2ec4ddcf-4375-4ae7-a023-e1504589f92f",
+    "data": [
+      {
+        "text": "No one from Admissions is emailing me back",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514406263
+  },
+  {
+    "id": "253fcd3a-b69d-44e7-ae39-e056a3e92b73",
+    "data": [
+      {
+        "text": "No one from Admissions is calling me back",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514406263
+  },
+  {
+    "id": "107d1b62-374a-4f98-82f3-8d0bfdfb23ac",
+    "data": [
+      {
+        "text": "Admissions won\u0027t return my emails",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514406263
+  },
+  {
+    "id": "d69851a9-e52a-4258-bce6-603ad68b9cb4",
+    "data": [
+      {
+        "text": "Admissions won\u0027t return my calls",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514406263
+  }
+]

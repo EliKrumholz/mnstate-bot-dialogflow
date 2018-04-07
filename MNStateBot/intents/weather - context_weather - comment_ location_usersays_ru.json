@@ -1,0 +1,142 @@
+[
+  {
+    "id": "5dd4e4d5-2a4f-41a9-8e93-99f39b437ede",
+    "data": [
+      {
+        "text": "что насчёт ",
+        "userDefined": false
+      },
+      {
+        "text": "Москвы",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1dea67d-d0f9-4c6b-8918-28bad894c9b6",
+    "data": [
+      {
+        "text": "можешь проверить для ",
+        "userDefined": false
+      },
+      {
+        "text": "Лондона",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "388d6f40-1e02-4242-9640-0e11625db8bc",
+    "data": [
+      {
+        "text": "а какая в ",
+        "userDefined": false
+      },
+      {
+        "text": "Екатеринбурге",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "40f2c9d8-d420-4e10-99c7-1813e1a9cb17",
+    "data": [
+      {
+        "text": "теперь в ",
+        "userDefined": false
+      },
+      {
+        "text": "Новосибирске",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bca69b05-6c93-47a3-b0fd-f201709522ff",
+    "data": [
+      {
+        "text": "и что в ",
+        "userDefined": false
+      },
+      {
+        "text": "Риме",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9d8d4e43-679a-4d09-9505-e6d93430e201",
+    "data": [
+      {
+        "text": "Париж",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a64ccbb-df1d-4628-989b-6422bb629371",
+    "data": [
+      {
+        "text": "и в ",
+        "userDefined": false
+      },
+      {
+        "text": "Милане",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "efa22b39-5076-44b3-893a-32c4fe20706b",
+    "data": [
+      {
+        "text": "а как в ",
+        "userDefined": false
+      },
+      {
+        "text": "Амстердаме",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

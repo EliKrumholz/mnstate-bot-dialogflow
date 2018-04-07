@@ -1,0 +1,28 @@
+{
+  "id": "c1b6cce7-7e0e-445e-b5ad-152f1e13c874",
+  "name": "cc.courses.off-campus",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Please print out a copy of your schedule and review the location of your class: http://www.century.edu/continuing-education-customized-training/continuing-education-locations"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518535524,
+  "fallbackIntent": false,
+  "events": []
+}

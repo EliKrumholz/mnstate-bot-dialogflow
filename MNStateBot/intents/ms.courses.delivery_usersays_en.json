@@ -1,0 +1,58 @@
+[
+  {
+    "id": "8ce12b89-d15f-4ac1-95e0-1af639009ba4",
+    "data": [
+      {
+        "text": "What options are there for taking classes at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518503520
+  },
+  {
+    "id": "a61fc257-a31d-4daf-b02b-e022c013d876",
+    "data": [
+      {
+        "text": "What different delivery options are available to take courses at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518503520
+  },
+  {
+    "id": "60f4a7ff-3c43-4acc-a8b4-19489d2db303",
+    "data": [
+      {
+        "text": "When I search for courses in registration the drop down list gives me an option for delivery.  What does this mean?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518503520
+  }
+]

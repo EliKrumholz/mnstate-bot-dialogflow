@@ -1,0 +1,40 @@
+{
+  "id": "2bd02976-ed89-4f35-b1cc-e143f6c56ed1",
+  "name": "cc.sports",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "14540c8b-8d1e-4065-895e-b95f56d7dddf",
+          "required": false,
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Century College has a men\u0027s baseball team, women\u0027s fastpitch softball and men\u0027s and women\u0027s soccer intercollegiate teams.  There as also several type of intermural teams.",
+            "Century has baseball, softball and soccer teams. Find out more by clicking here: https://www.century.edu/campus-life/athletics"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1511824785,
+  "fallbackIntent": false,
+  "events": []
+}

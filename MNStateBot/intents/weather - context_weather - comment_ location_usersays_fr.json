@@ -1,0 +1,106 @@
+[
+  {
+    "id": "b6acc818-d9ec-4560-bbea-7cbdfbce1768",
+    "data": [
+      {
+        "text": "et à ",
+        "userDefined": false
+      },
+      {
+        "text": "Montpellier",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c2934609-9241-4258-8f4f-4c09b27e1ab1",
+    "data": [
+      {
+        "text": "et à ",
+        "userDefined": false
+      },
+      {
+        "text": "Marseille",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": " aussi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ebaf7170-767e-4333-92cc-7e26a18ddbf5",
+    "data": [
+      {
+        "text": "sur",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Nantes",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c253d953-fc3c-4c03-9cf4-0f2203ebf8e8",
+    "data": [
+      {
+        "text": "à ",
+        "userDefined": false
+      },
+      {
+        "text": "Orléans",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c1ed324c-453e-4bcc-bfb4-81f017d1e82c",
+    "data": [
+      {
+        "text": "et",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " à ",
+        "userDefined": false
+      },
+      {
+        "text": "Londres",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "id": "05e7a157-44f8-4465-8036-11a1f11a0641",
+  "name": "cc.deanslist-howtoqualify",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "During fall and spring semesters, if you earn 9 or more credits with an average grade point of 3.5 or higher, you will be recognized on the Dean\u0027s List."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516569454,
+  "fallbackIntent": false,
+  "events": []
+}

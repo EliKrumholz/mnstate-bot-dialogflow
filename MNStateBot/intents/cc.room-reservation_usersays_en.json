@@ -1,0 +1,48 @@
+[
+  {
+    "id": "162c6b6a-5189-44fc-b299-0fed91a08fe9",
+    "data": [
+      {
+        "text": "I\u0027m planning an event, are there rooms available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518336797
+  },
+  {
+    "id": "f51eaa2a-fde6-447a-960f-26e50492dad1",
+    "data": [
+      {
+        "text": "I need to reserve a room.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518336797
+  },
+  {
+    "id": "b184987b-6c4a-49c9-87dc-d8cb9687ff7b",
+    "data": [
+      {
+        "text": "How can I reserve a room at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518336797
+  }
+]

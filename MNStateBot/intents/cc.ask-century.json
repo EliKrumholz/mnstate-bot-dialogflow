@@ -1,0 +1,37 @@
+{
+  "id": "52e49221-59c6-4921-9887-b2d09ce0d85c",
+  "name": "cc.ask-century",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "da18e300-d0f1-4ec9-b185-d1e8cd7023fd",
+          "required": false,
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Ask Century is your online information center and knowledgebase. On the Answers page, you can search for an answer to your question by keyword, or just browse the available answers. http://century.custhelp.com/app/home\n\nIf you cannot find the answer to your question, just click on the Ask a Question tab and submit your question to the Ask Century support staff, and they will reply to the email address you provide. Have a question? Ask Century!\n\nYou can also review or update your questions and answers under the My Stuff tab. Just click the My Questions tab, then click Questions."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518371535,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "99e7737b-13bb-4590-83a3-882ea3e09208",
+  "name": "cc.students.scanners",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "84cce82d-8cb0-4ae5-8466-c6a1a42f708e",
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Yes, there are scanners available to students in both the East and West Computer Centers. For assistance using the scanners contact a Computer Center Assistant located in each lab.\n\nFor Computer Center locations and hours: http://century.custhelp.com/app/answers/detail/a_id/420"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518536888,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "e0a88546-3599-4097-a878-90a7e11d3ece",
+  "name": "cc.accuplacer.retest",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0dd32ce3-7948-4060-8d58-39435d78aeac",
+          "required": false,
+          "dataType": "@exam",
+          "name": "exam",
+          "value": "$exam",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You may re-test only once (per test section) within twelve months of the first testing date regardless of where the test was administered.\n\nThere is a $10.00 fee to retest. Please check with the Testing Center staff to see if you are required to pay the retest fee.\nhttps://www.century.edu/admissions/testing-center"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518533139,
+  "fallbackIntent": false,
+  "events": []
+}

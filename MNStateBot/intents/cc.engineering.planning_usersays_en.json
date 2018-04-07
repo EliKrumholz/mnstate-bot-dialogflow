@@ -1,0 +1,47 @@
+[
+  {
+    "id": "77f09a76-38ae-4a00-b330-92d9b2e004d0",
+    "data": [
+      {
+        "text": "I\u0027d like some help planning out my engineering courses.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518534408
+  },
+  {
+    "id": "8768b749-583b-4519-b3cd-d16034da89ba",
+    "data": [
+      {
+        "text": "Could I get some help planning for engineering?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518534408
+  },
+  {
+    "id": "2cb36742-ea37-4b71-8950-3ff528a7e965",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I need to consider when developing an education plan for engineering?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518534408
+  }
+]

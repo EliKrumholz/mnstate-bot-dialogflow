@@ -1,0 +1,28 @@
+{
+  "id": "c84d7228-6faa-4532-851c-615d717db29e",
+  "name": "cc.tutors.apply",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "For information about becoming a Peer Tutor,  stop by the East Academic Support Center or the West Academic Support Center\nhttp://www.century.edu/support-services/academic-resource-centers"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518507938,
+  "fallbackIntent": false,
+  "events": []
+}

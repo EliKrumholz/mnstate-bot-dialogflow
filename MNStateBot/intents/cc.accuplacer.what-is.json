@@ -1,0 +1,46 @@
+{
+  "id": "860a5e2a-05e4-4a5c-bbb5-264bf5413ba0",
+  "name": "cc.accuplacer.what-is",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ccaccuplacer-what-is-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ad36bece-ee6b-4709-8987-39b059debc02",
+          "required": false,
+          "dataType": "@exam",
+          "name": "exam",
+          "value": "$exam",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "There are two main parts to the ACCUPLACER Course Placement Test: reading and mathematics.",
+            "Reading and Math."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518557293,
+  "fallbackIntent": false,
+  "events": []
+}

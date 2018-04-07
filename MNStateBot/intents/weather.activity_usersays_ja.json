@@ -1,0 +1,212 @@
+[
+  {
+    "id": "0b9fb8e9-d52f-4d02-b7f0-09a990e850ea",
+    "data": [
+      {
+        "text": "今日",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": "は",
+        "userDefined": false
+      },
+      {
+        "text": "スキー",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": "をするつもりだけど、できるかな",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1148e72b-36a1-421b-8d83-525d3cdbbc14",
+    "data": [
+      {
+        "text": "サーフィン",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": "に行けるの",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ddfa9c81-50da-4d41-979f-499806c5223b",
+    "data": [
+      {
+        "text": "富士山",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": "に",
+        "userDefined": false
+      },
+      {
+        "text": "登り",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": "に行ける",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "de2251b4-0abf-43c2-9729-6c444a6a98ac",
+    "data": [
+      {
+        "text": "散歩",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": "をするには良い天気",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f30c16d-ce6e-41e1-bc93-6a147f2826fb",
+    "data": [
+      {
+        "text": "外で",
+        "userDefined": false
+      },
+      {
+        "text": "フリスビー",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": "で遊べるくらい良い天気",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2f7f15d-17fc-4e14-9ff2-a5e024119fb8",
+    "data": [
+      {
+        "text": "明日",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": "ハイキング",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": "するのにちょうど良い",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "943fb25a-2942-4dfc-819c-9adcca8d47b8",
+    "data": [
+      {
+        "text": "フリスビー",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": "には向かない天気だと思う",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6428cc64-1278-4d4a-a87b-1eaaa76ed713",
+    "data": [
+      {
+        "text": "雪合戦",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": "するのに良い天気ですか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db60ee88-2fc3-4fc7-a5ab-4125a039248b",
+    "data": [
+      {
+        "text": "サイクリング",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": "するのに良い天気だと思う",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "184e7ed7-ceb7-4496-99c3-10276377ca29",
+    "data": [
+      {
+        "text": "走り",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": "に行ったほうがいいですか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

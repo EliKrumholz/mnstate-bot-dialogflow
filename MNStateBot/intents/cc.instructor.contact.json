@@ -1,0 +1,28 @@
+{
+  "id": "97b30e35-f164-4e78-8dd0-22f9e919a06a",
+  "name": "cc.instructor.contact",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can look up the contact information for your instructor on our online directory.\nhttp://www.century.edu/home/directory"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518501954,
+  "fallbackIntent": false,
+  "events": []
+}

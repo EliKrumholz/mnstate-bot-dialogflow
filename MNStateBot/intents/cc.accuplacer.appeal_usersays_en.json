@@ -1,0 +1,68 @@
+[
+  {
+    "id": "def4a38d-f574-4726-b22b-7b08af5db051",
+    "data": [
+      {
+        "text": "I think the ",
+        "userDefined": false
+      },
+      {
+        "text": "ACCUPLACER",
+        "alias": "exam",
+        "meta": "@exam",
+        "userDefined": false
+      },
+      {
+        "text": " got my starting classes wrong.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518499258
+  },
+  {
+    "id": "dc61e5b2-7d9c-4d39-ac19-061c469d390d",
+    "data": [
+      {
+        "text": "I don\u0027t think the ",
+        "userDefined": false
+      },
+      {
+        "text": "ACCUPLACER",
+        "alias": "exam",
+        "meta": "@exam",
+        "userDefined": false
+      },
+      {
+        "text": " put me in the right class.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518499258
+  },
+  {
+    "id": "4a169a43-138f-41e9-9a72-f5d64ca426a9",
+    "data": [
+      {
+        "text": "Can I appeal my ",
+        "userDefined": false
+      },
+      {
+        "text": "ACCUPLACER",
+        "alias": "exam",
+        "meta": "@exam",
+        "userDefined": false
+      },
+      {
+        "text": " Course Placement Test score results?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518499258
+  }
+]

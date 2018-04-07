@@ -1,0 +1,66 @@
+[
+  {
+    "id": "73a0ef1e-bdb6-40f4-ae7e-e26355fb21ca",
+    "data": [
+      {
+        "text": "Do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " international students have to go full-time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518370540
+  },
+  {
+    "id": "b03939e5-f2ce-4088-9b54-1e1f3b30f421",
+    "data": [
+      {
+        "text": "Do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " foreign students have to go full-time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518370540
+  },
+  {
+    "id": "a2ddc3e9-6227-4e9e-9f9d-473e7d12dd93",
+    "data": [
+      {
+        "text": "If I am an international student, ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I have to ",
+        "userDefined": false
+      },
+      {
+        "text": "be",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " a full-time student?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518370540
+  }
+]

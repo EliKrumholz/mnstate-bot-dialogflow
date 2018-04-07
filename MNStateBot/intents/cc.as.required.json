@@ -1,0 +1,28 @@
+{
+  "id": "845d3a72-cd50-42a4-9b2d-f1c71700dc4d",
+  "name": "cc.as.required",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "No. Many students find it advantageous to complete an Associates degree depending on where they are transferring, however it is not imperative."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518369361,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "280da055-ec47-4559-a4e2-5ada2a7fe634",
+  "name": "cc.esol",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bd4d514d-d3b1-4bab-b910-f9b776b204c2",
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "While Century College does offer a wide variety of ESOL (English Speakers of Other Languages) classes, international students with F-1 visas must be admitted to a degree program. Many students take a mix of ESOL and other courses.\n\nFor more details on International Student Admission, visit here: http://www.century.edu/admissions/international-student"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518539351,
+  "fallbackIntent": false,
+  "events": []
+}

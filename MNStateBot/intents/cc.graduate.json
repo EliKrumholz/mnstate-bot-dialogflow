@@ -1,0 +1,28 @@
+{
+  "id": "9ac9cb68-2b70-42e3-a817-884403fc1497",
+  "name": "cc.graduate",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You will need to review the Graduation Information Online and fill out the online application listed on this page. An application must be submitted in order for your degree to be processed. http://www.century.edu/academics/graduation\n\nThe graduation ceremony is held once a year at the end of spring semester.  More details can be viewed at: Graduation Commencement Ceremony.\nhttp://www.century.edu/academics/graduation/graduation-ceremony"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518249026,
+  "fallbackIntent": false,
+  "events": []
+}

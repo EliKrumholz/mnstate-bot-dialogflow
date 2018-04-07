@@ -1,0 +1,28 @@
+{
+  "id": "fea3f25a-0909-4c17-a69b-10f4c2721457",
+  "name": "cc.financial-aid.continuing-education",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "No, non-credit (continuing education) classes are not eligible for financial aid."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518508176,
+  "fallbackIntent": false,
+  "events": []
+}

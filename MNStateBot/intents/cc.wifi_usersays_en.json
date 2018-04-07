@@ -1,0 +1,68 @@
+[
+  {
+    "id": "d83b1f43-2b51-4c05-8cda-ac526b445076",
+    "data": [
+      {
+        "text": "Is there wifi at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518119207
+  },
+  {
+    "id": "b330e048-76a2-412d-8154-0b665c86d0f4",
+    "data": [
+      {
+        "text": "How can I access the internet at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518119207
+  },
+  {
+    "id": "6bdd3121-78b3-4a6c-b579-680d060acd38",
+    "data": [
+      {
+        "text": "Does ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": " have wifi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518119207
+  }
+]

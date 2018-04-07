@@ -1,0 +1,72 @@
+[
+  {
+    "id": "bde7c572-3b4a-4e26-a11d-1098cef69203",
+    "data": [
+      {
+        "text": "Is my ",
+        "userDefined": false
+      },
+      {
+        "text": "ACCUPLACER",
+        "alias": "exam",
+        "meta": "@exam",
+        "userDefined": false
+      },
+      {
+        "text": " score stored somewhere?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518499086
+  },
+  {
+    "id": "df25e385-1a11-4cb6-86fd-4e624ffba745",
+    "data": [
+      {
+        "text": "Do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you have my ",
+        "userDefined": false
+      },
+      {
+        "text": "ACCUPLACER",
+        "alias": "exam",
+        "meta": "@exam",
+        "userDefined": false
+      },
+      {
+        "text": " score on file?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518499086
+  },
+  {
+    "id": "85c244b0-69c3-4888-8cab-1d35cd621288",
+    "data": [
+      {
+        "text": "I lost my assessment score sheet, how ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I get another copy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518499086
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "id": "0f605296-6740-4179-af2d-1db25b72f882",
+  "name": "cc.courses.evening-engineering",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2076e282-1b76-48d0-9554-a8b5bc7e8db7",
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The only engineering course offered in the evening is Engr 1020 Intro to Engineering. Calculus I and II are usually offered in the evening as well as Chemistry.\n\nThere are a variety of courses offered in the evening at Century. Speak to an academic advisor for more information."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518507211,
+  "fallbackIntent": false,
+  "events": []
+}

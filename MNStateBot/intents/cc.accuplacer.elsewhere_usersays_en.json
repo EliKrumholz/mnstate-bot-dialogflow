@@ -1,0 +1,56 @@
+[
+  {
+    "id": "72f619c4-e18d-4be9-be41-68e804c1010f",
+    "data": [
+      {
+        "text": "I completed the ",
+        "userDefined": false
+      },
+      {
+        "text": "ACCUPLACER",
+        "alias": "exam",
+        "meta": "@exam",
+        "userDefined": false
+      },
+      {
+        "text": " already, can I use that score at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518538581
+  },
+  {
+    "id": "0df16c34-41db-489a-a353-86e28d85b0a6",
+    "data": [
+      {
+        "text": "What if I completed the ",
+        "userDefined": false
+      },
+      {
+        "text": "ACCUPLACER",
+        "alias": "exam",
+        "meta": "@exam",
+        "userDefined": false
+      },
+      {
+        "text": " Course Placement Test at a different college?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518538581
+  }
+]

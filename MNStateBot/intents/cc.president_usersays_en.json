@@ -1,0 +1,87 @@
+[
+  {
+    "id": "ac2f5aa0-0516-4d73-87c8-1cb8cee9fb41",
+    "data": [
+      {
+        "text": "Who is the president at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1511375950
+  },
+  {
+    "id": "ddf09125-3540-4403-87ea-442ec13f1712",
+    "data": [
+      {
+        "text": "Who is the CEO at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fe714a1d-2385-432e-bb61-06ac87fba324",
+    "data": [
+      {
+        "text": "Who is the president of ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ba1f0cbc-309b-4bb8-b348-bdba3499b8d1",
+    "data": [
+      {
+        "text": "Who is in charge at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "d96f502f-6874-4dfc-90a6-c19d0c5d0c7a",
+    "data": [
+      {
+        "text": "What if I have a GED?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e48b6b8-404c-4b9e-91ac-500e35237c7c",
+    "data": [
+      {
+        "text": "What if I have a GED?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "10fd8ef4-f456-4cdc-abab-120c711ffea6",
+    "data": [
+      {
+        "text": "What if I have a GED?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee964715-063b-4c3c-882d-5638755f8b8b",
+    "data": [
+      {
+        "text": "How can I get a copy of my GED?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518506513
+  },
+  {
+    "id": "c091b496-90fd-4159-9aa9-75e847983b33",
+    "data": [
+      {
+        "text": "Where can I get a copy of my GED?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518506513
+  },
+  {
+    "id": "9a8366df-cc6e-4e52-8c0f-ea0a508b90bc",
+    "data": [
+      {
+        "text": "I need a copy of my GED.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518506513
+  }
+]

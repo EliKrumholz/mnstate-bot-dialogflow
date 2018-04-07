@@ -1,0 +1,28 @@
+{
+  "id": "402e6fea-fc33-4c4c-97db-041a39214a38",
+  "name": "cc.mycentury.inactive",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You need to be enrolled in Century College and registered for credit courses for at least 24 hours before your account is able to be activated. CECT courses are not credit courses and therefore not eligible for an account.\n\nIf you are a registered student with Century and are unable to log in to myCentury, contact the Student Technology Help Line at 651-779-3295, or visit one of our Computer Centers (W3165 or E1710) for assistance."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518498548,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "4b7c9932-e162-4332-af8c-e49e79079576",
+    "data": [
+      {
+        "text": "does ",
+        "userDefined": false
+      },
+      {
+        "text": "steven",
+        "alias": "fName",
+        "meta": "@fName",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hawkings",
+        "alias": "lName",
+        "meta": "@lName",
+        "userDefined": true
+      },
+      {
+        "text": " teach ",
+        "userDefined": false
+      },
+      {
+        "text": "english",
+        "alias": "courses",
+        "meta": "@courses",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521165738
+  }
+]

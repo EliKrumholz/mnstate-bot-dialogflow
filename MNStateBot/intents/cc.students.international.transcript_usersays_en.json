@@ -1,0 +1,77 @@
+[
+  {
+    "id": "0fc4c6d7-357d-4060-8f32-4be3622f3731",
+    "data": [
+      {
+        "text": "How to foreign credits transfer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516682953
+  },
+  {
+    "id": "5f045cef-d0da-4012-80dc-24a7f3fc2e52",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " exchange credits transfer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516682953
+  },
+  {
+    "id": "8d653709-2c8f-43b7-b40b-0195eb3970d4",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " my international credits transfer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516682953
+  },
+  {
+    "id": "289ae8b4-3b93-405e-8e80-ad3117063f68",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I get an international or foreign transcript evaluated?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516682953
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "id": "294c25a5-c664-433a-bcf4-c81d6d82193c",
+  "name": "cc.classes.start",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0c900b6e-f1e8-4e50-a7a9-842451429a97",
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "This is a rough one for me to answer! You\u0027ll have to view the calendar: https://www.century.edu/home/college-calendar"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518252299,
+  "fallbackIntent": false,
+  "events": []
+}

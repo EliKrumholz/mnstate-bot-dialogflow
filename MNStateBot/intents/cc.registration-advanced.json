@@ -1,0 +1,28 @@
+{
+  "id": "6909a676-d948-4830-9ff2-7a5bffed3ac6",
+  "name": "cc.registration-advanced",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Advanced Search: The fast way to find the course you want is to use the Advanced Search! You can search by subject, dates offered, delivery, MN Transfer goal, and instructor!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518533393,
+  "fallbackIntent": false,
+  "events": []
+}

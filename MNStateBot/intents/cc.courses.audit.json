@@ -1,0 +1,37 @@
+{
+  "id": "c3c9088e-a1e4-4dd4-baf8-7ad440faeef0",
+  "name": "cc.courses.audit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3a4f9dd4-c4d3-4ab8-9daa-9b62de144924",
+          "required": false,
+          "dataType": "@degrees",
+          "name": "degrees",
+          "value": "$degrees",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "If you want to audit a course, submit the Course Audit Form with your instructor\u0027s signature to the Records Office during the first three days of Summer Session or the first five days of Spring/Fall semester.\nThe form is here: https://www.century.edu/sites/default/files/records-courseaudit.pdf"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518333900,
+  "fallbackIntent": false,
+  "events": []
+}

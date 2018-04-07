@@ -1,0 +1,38 @@
+[
+  {
+    "id": "66324e60-cebb-4042-bbd1-83cf490cd3f4",
+    "data": [
+      {
+        "text": "I need help understanding my DARS.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518331042
+  },
+  {
+    "id": "16fb6257-7acd-4da6-90af-90e9bd16a337",
+    "data": [
+      {
+        "text": "Can someone help me read my DARS?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518331042
+  },
+  {
+    "id": "76fd0813-f773-4561-bd70-f8ba45dca656",
+    "data": [
+      {
+        "text": "I don\u0027t understand how to read my DARS report.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518331042
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "id": "2a422965-45bf-4028-86f3-0a4ffecf7d7e",
+  "name": "cc.apply",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a2600ed7-b26e-46f0-abd2-123ac5f76803",
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        },
+        {
+          "id": "b7262c4c-4828-4010-bf9a-5685667442ec",
+          "dataType": "@degrees",
+          "name": "degrees",
+          "value": "$degrees",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There are four basic steps to getting started at Century College. Select your Admission type from the Admissions homepage for customized steps.\n\n    Submit an application using the Online Application and pay the application fee ($20). https://eservices.minnstate.edu/adm/public/studentWelcome?campusId\u003d304\n\n    Take the ACCUPLACER Course Placement Test to find out your course placement (view Testing Center for more information).\n    https://www.century.edu/admissions/testing-center\n\n    Attend a New Student Orientation where you will register for classes. If you have any questions, call the orientation helpline at 651-779-3404.\n\n    We encourage students to apply as soon as they can in order to have a better course selection at registration."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518248131,
+  "fallbackIntent": false,
+  "events": []
+}

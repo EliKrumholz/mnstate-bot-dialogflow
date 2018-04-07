@@ -1,0 +1,28 @@
+{
+  "id": "60c6d2cd-9e55-4dbc-827e-dbcf225350f1",
+  "name": "cc.bookstore.prices",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The required textbooks for each class can change each semester so prices will vary.\n\nYou can look up the books that you need for your classes, and the prices for each one, by visiting the Bookstore or the Bookstore’s website.\nhttp://www.centurycollegebookstore.com/home.aspx\n\nYou can also look up textbook information and pricing online. Once you are on the bookstore’s website, click on \"Textbooks\" at the top-center of the web page. Using your course schedule information, follow the directions to look up your textbooks using the drop-down menus.\n\nYou must have a Century College Student ID card if you are paying by:\n\n-Personal Check\n-Financial Aid\n-Third Party Payment"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516682185,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "9d3b1edf-a45f-4846-8387-9c65b3308028",
+    "data": [
+      {
+        "text": "What if there are only a few people enrolled for a class?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1519938170
+  },
+  {
+    "id": "cbc42200-faf2-4374-ac36-f7dbe24b452e",
+    "data": [
+      {
+        "text": "Can a class ",
+        "userDefined": false
+      },
+      {
+        "text": "be",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cancelled because of ",
+        "userDefined": false
+      },
+      {
+        "text": "low",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " enrollment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519938170
+  }
+]

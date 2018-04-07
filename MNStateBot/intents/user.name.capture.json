@@ -1,0 +1,39 @@
+{
+  "id": "235342b7-51d5-42d3-9b85-1f3263084a3e",
+  "name": "user.name.capture",
+  "auto": true,
+  "contexts": [
+    "firstNameCapture"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "user.name.capture",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "af1b12d9-4fe5-4939-8773-4d74badeefb6",
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510089071160,
+  "fallbackIntent": false,
+  "events": []
+}

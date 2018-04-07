@@ -1,0 +1,28 @@
+{
+  "id": "7b049da9-5a8c-41ef-9cba-bb3990a2fc47",
+  "name": "cc.orientation.online",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "If you are a transfer student whose intent is NOT to complete a technical program at Century College, you qualify to complete an online orientation. However, you have to have had completed college level credits at another institution. Keep in mind that if you choose the online orientation option you are declining the chance to meet with an advisor to discuss transcripts or course selection before the semester begins. If you need help with choosing courses then an on-campus orientation would be recommended.\n\nTechnical programs listed here: http://www.century.edu/admissions/transfer-student/transfer-student-orientation"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516682710,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "6bc7f591-c0dc-4102-9bc6-e701a46fbb64",
+  "name": "cc.warning-suspension",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The Academic Progress Policy requires you to maintain both:\n\n    A cumulative grade point average GPA of 2.0 each semester AND\n    Complete 67% of the credits you attempt each semester and overall\n\n\nAcademic Warning:  The first semester that you fall below this requirement, you will receive a letter letting you know that you are on academic warning.  If you receive this email, you should meet with a Century counselor or advisor to discuss an academic success plan of action to take the steps that you need to be more successful academically.\n\nAcademic Suspension: If you have a second semester that you fall below this requirement, you will receive an email letting you know that you are on academic suspension which means you can no longer take classes at Century College.  You have the right to appeal your suspension, to learn more about this, view this page:\nhttp://www.century.edu/currentstudents/counseling/acadprobsusp.aspx\nSee the link below to view the policy:\nhttps://www.century.edu/sites/default/files/About_Policy_2.9_SatisfactoryAcademicProgress.pdf"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518334464,
+  "fallbackIntent": false,
+  "events": []
+}

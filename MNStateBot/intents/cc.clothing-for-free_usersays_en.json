@@ -1,0 +1,31 @@
+[
+  {
+    "id": "3d0badd9-0310-40e4-ac5e-8094ebf19d1b",
+    "data": [
+      {
+        "text": "Do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you have any clothes for college students?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516682009
+  },
+  {
+    "id": "6a3b3cc8-28fd-45eb-ade6-048dfa3fd8ce",
+    "data": [
+      {
+        "text": "Where can I find a clothing for free?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516682009
+  }
+]

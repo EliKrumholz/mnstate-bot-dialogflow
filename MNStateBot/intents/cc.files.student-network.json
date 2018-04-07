@@ -1,0 +1,37 @@
+{
+  "id": "89fb85ba-59ba-41c1-abd4-7a60e87bc26d",
+  "name": "cc.files.student-network",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "08e5fe2d-d251-4bb1-87d0-dafb60676577",
+          "dataType": "@unit-time",
+          "name": "unit-time",
+          "value": "$unit-time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "From a Century Computer\n\nOnce you\u0027ve logged into a Century computer, double-click on the File Explorer (Folder) icon in the black toolbar and select the network (e.g. H Drive) from the Networks locations section of This PC.\n\nFrom a Personal Computer\n\nSecure access from off-campus sites is a bit more complicated the first time or two, so please follow the steps in this procedure in the Accessing Student Files Off Campus PDF attachment below: \nhttp://century.custhelp.com/ci/fattach/get/3819/0/filename/Access+Student+Files+off+Campus_Win_10.pdf\n\nFor more information on your file saving options, watch Century\u0027s Student Videos - Saving Files video: https://mediaspace.minnstate.edu/media/Student+Videos+-+Saving+Files.mp4/0_h5y5k2v9"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518534008,
+  "fallbackIntent": false,
+  "events": []
+}

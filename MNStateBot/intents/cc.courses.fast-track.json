@@ -1,0 +1,28 @@
+{
+  "id": "eee19232-6460-4f00-9f92-686e368f385e",
+  "name": "cc.courses.fast-track",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Fast Track means rather than the typical 15 week course, these courses are offered in a condensed schedule which means that the course is accelerated. The length of the course varies with many being 5 or 8 weeks long. Note the dates given for the course."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518504649,
+  "fallbackIntent": false,
+  "events": []
+}

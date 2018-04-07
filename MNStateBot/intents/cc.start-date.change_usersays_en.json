@@ -1,0 +1,84 @@
+[
+  {
+    "id": "3862b00e-8e9b-4efa-be08-ef90d8bec6c7",
+    "data": [
+      {
+        "text": "I need to wait a semester before I can start, what should I ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518502186
+  },
+  {
+    "id": "bd09f580-2122-4bc3-b24d-bd40c2970327",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I need to do to change my start date?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518502186
+  },
+  {
+    "id": "6cae5c50-71e4-4d32-9df3-d1e58ae447bb",
+    "data": [
+      {
+        "text": "I have ",
+        "userDefined": false
+      },
+      {
+        "text": "been",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " accepted for admission to begin fall semester but would like to change my start date ",
+        "userDefined": false
+      },
+      {
+        "text": "to spring",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " semester.  What ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I need to do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518502186
+  }
+]

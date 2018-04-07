@@ -1,0 +1,53 @@
+[
+  {
+    "id": "7bfa81a9-4ba5-4835-a11c-0cb3a3744262",
+    "data": [
+      {
+        "text": "How soon after I graduate to I have to attend college to apply for Power of YOU?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518539231
+  },
+  {
+    "id": "a057cb49-1694-4a73-b055-b14dd3bfbac8",
+    "data": [
+      {
+        "text": "Am I eligible for the Power of YOU if I have ",
+        "userDefined": false
+      },
+      {
+        "text": "been",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " out of ",
+        "userDefined": false
+      },
+      {
+        "text": "high",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " school for ",
+        "userDefined": false
+      },
+      {
+        "text": "a year",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " or more?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518539231
+  }
+]

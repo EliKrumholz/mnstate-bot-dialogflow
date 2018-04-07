@@ -1,0 +1,47 @@
+[
+  {
+    "id": "5a291e37-29ad-4b51-84be-d4b3c91e6247",
+    "data": [
+      {
+        "text": "What is an eFolio?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518502446
+  },
+  {
+    "id": "013156b9-68ff-4ba2-9b32-791c2ff91831",
+    "data": [
+      {
+        "text": "Can you show me how to use my eFolio?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518502446
+  },
+  {
+    "id": "0799b693-5452-4ec5-8b67-adcb7cc6b7b5",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " add content to my eFolio?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518502446
+  }
+]

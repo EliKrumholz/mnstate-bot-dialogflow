@@ -1,0 +1,38 @@
+[
+  {
+    "id": "c7fc696e-2767-4ad3-8166-e644a0f246e5",
+    "data": [
+      {
+        "text": "Does the class still count if I get a D?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518504232
+  },
+  {
+    "id": "b2a34768-550d-47fd-b6ba-6c9aa4343c91",
+    "data": [
+      {
+        "text": "What happens if I get a D?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518504232
+  },
+  {
+    "id": "caf29368-ba97-40bd-93dc-a852bfc14ff8",
+    "data": [
+      {
+        "text": "Does a grade of  \"D\" apply towards graduation or transfer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518504232
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "id": "dcd9f6aa-f726-4459-bf32-cb1c5d6f1878",
+    "data": [
+      {
+        "text": "I\u0027m having trouble installing Office ",
+        "userDefined": false
+      },
+      {
+        "text": "365",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518501877
+  },
+  {
+    "id": "39ebdf7a-41f3-4f52-a251-d632b630a0c6",
+    "data": [
+      {
+        "text": "What should I ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " if I got an error installing Office ",
+        "userDefined": false
+      },
+      {
+        "text": "365",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518501877
+  },
+  {
+    "id": "79d96eb4-8868-4f36-899f-50eba78724c1",
+    "data": [
+      {
+        "text": "I got an error installing Office ",
+        "userDefined": false
+      },
+      {
+        "text": "365",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": ", can you help me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518501877
+  },
+  {
+    "id": "7b70bf95-20e2-4f4d-9b1a-50ecd497b24a",
+    "data": [
+      {
+        "text": "While I ",
+        "userDefined": false
+      },
+      {
+        "text": "was",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " installing Office ",
+        "userDefined": false
+      },
+      {
+        "text": "365",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": ", an error message appeared. How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I fix it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1518501792
+  }
+]

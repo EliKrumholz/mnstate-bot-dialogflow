@@ -1,0 +1,46 @@
+{
+  "id": "a6e15f36-3d78-4a2c-90df-969f3e936fc3",
+  "name": "cc.transcript",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "cctranscript-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0566fe5b-0fa8-4dce-917f-b2c2e6f8b489",
+          "required": false,
+          "dataType": "@degrees",
+          "name": "degrees",
+          "value": "$degrees",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Do you want an official transcript or an unofficial transcript?",
+            "You can either go to this website and learn more bit.ly/cctranscript or tell me if you want an official or unofficial transcript"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514406794,
+  "fallbackIntent": false,
+  "events": []
+}

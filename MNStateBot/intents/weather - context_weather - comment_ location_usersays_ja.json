@@ -1,0 +1,146 @@
+[
+  {
+    "id": "16226a0e-a5b2-4ef3-8be3-46cd22677e82",
+    "data": [
+      {
+        "text": "仙台",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": "はどうなりますか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0a7137a6-04fd-422b-aae8-74b425d855fc",
+    "data": [
+      {
+        "text": "サンフランシスコ",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": "を調べて",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7977a7f9-8d18-4a72-90c4-6f57323c31d3",
+    "data": [
+      {
+        "text": "さいたま市",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": "はどうですか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1382bbd1-f038-4047-85bb-3147f83fba76",
+    "data": [
+      {
+        "text": "現在の",
+        "userDefined": false
+      },
+      {
+        "text": "新潟市",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e8170bde-59e2-4001-be5f-b23bf125ccf6",
+    "data": [
+      {
+        "text": "沖縄",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": "はどう",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "731c26af-a3f4-433c-b861-05489602f7f6",
+    "data": [
+      {
+        "text": "じゃあ",
+        "userDefined": false
+      },
+      {
+        "text": "ロンドン",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": "は",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fdbcf64b-1be2-4f39-849b-b43c984311a4",
+    "data": [
+      {
+        "text": "パリ",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": "は",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d0e42800-1a20-4f5f-b727-ffa7539b56c8",
+    "data": [
+      {
+        "text": "東京",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

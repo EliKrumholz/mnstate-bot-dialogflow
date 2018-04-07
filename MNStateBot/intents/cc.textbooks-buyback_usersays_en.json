@@ -1,0 +1,55 @@
+[
+  {
+    "id": "7ffbbe35-11b4-489e-9e93-6261f59a97d4",
+    "data": [
+      {
+        "text": "When can I sell my textbooks back?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9c2d3337-7ce2-4551-8f31-1b4fa2b3dc4e",
+    "data": [
+      {
+        "text": "Does ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " have a textbook buyback program?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8b4578ff-bd42-4286-b02f-67a32c60ebce",
+    "data": [
+      {
+        "text": "Can I get some money for returning my textbooks?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "df52c308-2d00-48db-8035-dc96f702a58e",
+    "data": [
+      {
+        "text": "Can I sell my textbooks back?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

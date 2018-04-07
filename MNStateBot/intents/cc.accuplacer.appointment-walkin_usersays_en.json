@@ -1,0 +1,120 @@
+[
+  {
+    "id": "a4e078e6-e751-433e-ad74-ad5538d07afd",
+    "data": [
+      {
+        "text": "I need to take the ",
+        "userDefined": false
+      },
+      {
+        "text": "accuplacer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I need to make an appointment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f3ea389f-df1d-4a58-aed7-3089aa32fbc7",
+    "data": [
+      {
+        "text": "I need to take the ",
+        "userDefined": false
+      },
+      {
+        "text": "accuplacer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", should I make an appointment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3d43c43c-833c-4f15-9c24-0fcd9c73f055",
+    "data": [
+      {
+        "text": "Should I make an appointment for the ",
+        "userDefined": false
+      },
+      {
+        "text": "accuplacer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "88faf09f-7eca-48fb-8aa9-96be7df25731",
+    "data": [
+      {
+        "text": "Can I ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "walk",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in for taking the ",
+        "userDefined": false
+      },
+      {
+        "text": "accuplacer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "901d12ad-50c0-4d83-ba21-0595b1957431",
+    "data": [
+      {
+        "text": "Do I need to make an appointment for taking the accuplacer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

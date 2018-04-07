@@ -1,0 +1,36 @@
+{
+  "id": "23886820-3119-43ed-84eb-9aecde27ca66",
+  "name": "cc.lockers",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "87ecb888-4480-4cc4-9ff3-df8ca767ceb1",
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Lockers are available for student use on campus in the following manner:\nWest Campus: Lockers are located in various areas around the west campus. There is a charge that is payable at the Connection, room 1205 west campus.\n \nEast Campus: Lockers are available from program advisors free of charge, but students must purchase a lock at the Connection, room 1205 west campus."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518536401,
+  "fallbackIntent": false,
+  "events": []
+}

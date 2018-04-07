@@ -1,0 +1,61 @@
+[
+  {
+    "value": "Winona State University",
+    "synonyms": [
+      "Winona State University",
+      "Winona State",
+      "WSU"
+    ]
+  },
+  {
+    "value": "Metropolitan State University",
+    "synonyms": [
+      "Metropolitan State University",
+      "MetroState",
+      "MSU"
+    ]
+  },
+  {
+    "value": "Minnesota State University, Mankato",
+    "synonyms": [
+      "Minnesota State University, Mankato",
+      "Mankato",
+      "MNSU",
+      "MSU"
+    ]
+  },
+  {
+    "value": "Bemidji State University",
+    "synonyms": [
+      "Bemidji State University",
+      "Bemidji State",
+      "BSU"
+    ]
+  },
+  {
+    "value": "Minnesota State University, Moorhead",
+    "synonyms": [
+      "Minnesota State University, Moorhead",
+      "Moorhead",
+      "MSUM"
+    ]
+  },
+  {
+    "value": "St. Cloud State University",
+    "synonyms": [
+      "St. Cloud State University",
+      "St Cloud State",
+      "SCS",
+      "SCU",
+      "SCSU"
+    ]
+  },
+  {
+    "value": "Southwest Minnesota State University",
+    "synonyms": [
+      "Southwest Minnesota State University",
+      "Southwest State",
+      "SMSU"
+    ]
+  }
+]

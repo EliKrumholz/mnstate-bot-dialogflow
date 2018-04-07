@@ -1,0 +1,33 @@
+{
+  "id": "495749de-ed89-4245-8ec4-0c33fcdc659e",
+  "parentId": "c45655c7-bca7-41f9-ba5f-e7dbe0743efd",
+  "rootParentId": "c45655c7-bca7-41f9-ba5f-e7dbe0743efd",
+  "name": "cc.bus-passes",
+  "auto": true,
+  "contexts": [
+    "ccbusses-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ccbusses.ccbusses-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You should also notice that the Century College Bookstore sells semester bus passes at a great discount for students. The Bookstore is located in the \"Nest\" area of the Student Center on the lower level of the west campus.\n\nFor more details on purchasing a bus pass, view: http://www.centurycollegebookstore.com/SiteText.aspx?id\u003d39567"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124771,
+  "fallbackIntent": false,
+  "events": []
+}

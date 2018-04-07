@@ -1,0 +1,28 @@
+{
+  "id": "4d43f481-41b6-46d1-99d8-520aa7f79c2a",
+  "name": "cc.gps-lifeplan.workships",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "A list of GPS LifePlan workshops that occur through-out the semester (beyond Student Success Day) is available online at:\nhttps://sites.google.com/site/centurygpslifeplanworkshops/home"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518501448,
+  "fallbackIntent": false,
+  "events": []
+}

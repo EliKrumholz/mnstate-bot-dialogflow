@@ -1,0 +1,112 @@
+[
+  {
+    "id": "a95e0c2b-b0bb-4796-b5e2-227b187806e5",
+    "data": [
+      {
+        "text": "Where is ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1511825260
+  },
+  {
+    "id": "37b73ea2-c8b1-49d3-95e2-516dc7cb0fb5",
+    "data": [
+      {
+        "text": "What is the mailing address of ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": " College?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1511825260
+  },
+  {
+    "id": "f1f3d41c-b698-45ca-a6fc-50adcbb1e3d9",
+    "data": [
+      {
+        "text": "What is the mailing address of ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1511825260
+  },
+  {
+    "id": "58b0687b-d0db-4d7a-b2bf-97f489489e33",
+    "data": [
+      {
+        "text": "What is the address of ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1511825260
+  },
+  {
+    "id": "78829b84-cf48-467d-9b43-e82cacd49667",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s address?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1511825260
+  }
+]

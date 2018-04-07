@@ -1,0 +1,36 @@
+{
+  "id": "c9f604d6-311b-432c-8c8c-f07c84c1ebe4",
+  "name": "cc.room-reservation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a2c0a1bd-a95d-4763-81d8-00ddeddb9df4",
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Students\nIf you are not an employee but are interested in reserving space on campus, please contact Event Services at 651-773-1792 or email room.requests@century.edu.\n\nEmployees\nSend an email to room.requests@century.edu with your request for space.\n\nYour room request must include the following:\n\n    Your name\n    Name of the meeting\n    Description of meeting (if applicable)\n    Meeting date\n    Meeting start and end time\n    Number of people expected to attend\n    Any expections you may have for the room (e.g., tables and chairs, overhead projector)\n    Setup and take down time (if applicable)\n\nImportant: If you have special room needs such as tables for (food service, additional chairs, AV, special lighting, etc.), you will need to fill out and submit a Facilities Use Request form with your special needs clearly listed.\nhttps://my.century.edu/campus-resources/Facilities/Pages/Requests.aspx\nSend completed forms, via email to room.requests@century.edu. Please allow a minimum of two week\u0027s notice so the proper departments can be notified and appropriate staff can be assigned to hand the request."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518336797,
+  "fallbackIntent": false,
+  "events": []
+}

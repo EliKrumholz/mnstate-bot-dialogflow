@@ -1,0 +1,31 @@
+{
+  "id": "870092d2-27cc-42c8-8d99-d7b7fc1e18b9",
+  "name": "ms.starid.expired",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Log into StarID Self Service with your old (expired) password - just follow the expired password link. You\u0027ll be asked to change your password immediately.  Log in here: https://starid.minnstate.edu/",
+            "Log in here: https://starid.minnstate.edu/ and follow the prompts."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518249901,
+  "fallbackIntent": false,
+  "events": []
+}

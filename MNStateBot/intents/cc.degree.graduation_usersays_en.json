@@ -1,0 +1,31 @@
+[
+  {
+    "id": "a253e3f3-2857-4fb4-80c0-44873eb2db24",
+    "data": [
+      {
+        "text": "Is going to graduation required to get my degree?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1518250463
+  },
+  {
+    "id": "e3751f6a-244a-4103-8764-c8bf847ff282",
+    "data": [
+      {
+        "text": "Do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I have to attend graduation in order to get my degree?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518250463
+  }
+]

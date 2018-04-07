@@ -1,0 +1,28 @@
+{
+  "id": "34962634-4032-4c3a-bdc9-418e760b0e3e",
+  "name": "cc.tutors.subjects",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "A variety of subjects are tutored. All of the general English, math, reading, and science courses are supported, as well as many beyond that, including support for career and technical programs. If you are unsure if the subject you need assistance with is tutored, stop in or call a center. To view the hours and contact information of the various centers on campus, visit this link: http://www.century.edu/support-services/academic-resource-centers"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518535769,
+  "fallbackIntent": false,
+  "events": []
+}

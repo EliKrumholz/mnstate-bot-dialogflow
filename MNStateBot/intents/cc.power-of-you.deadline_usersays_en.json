@@ -1,0 +1,47 @@
+[
+  {
+    "id": "742b89ad-0e36-40fd-9267-f6b5251b843f",
+    "data": [
+      {
+        "text": "When ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I need to submit my application for Power of YOU?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518536115
+  },
+  {
+    "id": "35b2af91-55d7-489d-96c2-89e34128f5d5",
+    "data": [
+      {
+        "text": "Is there a deadline for applying to Power of YOU?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518536115
+  },
+  {
+    "id": "6c53c9fa-cb8a-4281-938b-d966e3c75e2b",
+    "data": [
+      {
+        "text": "What is the deadline for applying to Power of YOU?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518536115
+  }
+]

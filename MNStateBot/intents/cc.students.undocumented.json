@@ -1,0 +1,28 @@
+{
+  "id": "84754077-47a6-4f62-a104-68398181b006",
+  "name": "cc.students.undocumented",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Yes, students who are in the United States, but are undocumented can attend Century College. However, undocumented students are not eligible for Financial Aid due to federal documentation requirements."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518501604,
+  "fallbackIntent": false,
+  "events": []
+}

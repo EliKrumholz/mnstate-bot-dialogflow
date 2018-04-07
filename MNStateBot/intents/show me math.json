@@ -1,0 +1,38 @@
+{
+  "id": "b9f6caaa-1be3-46f1-9eb7-3297ae506506",
+  "name": "show me math",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "test.ms.departments.offers",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "415145ec-37ee-4faa-9dc2-6919b13de92c",
+          "required": false,
+          "dataType": "@courses",
+          "name": "courses",
+          "value": "$courses",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1520829035,
+  "fallbackIntent": false,
+  "events": []
+}

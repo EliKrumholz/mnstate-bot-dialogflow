@@ -1,0 +1,68 @@
+[
+  {
+    "id": "360c05f0-b1fe-4a7b-8200-360dda70d6c7",
+    "data": [
+      {
+        "text": "Can you help me prepare for the ",
+        "userDefined": false
+      },
+      {
+        "text": "ACCUPLACER",
+        "alias": "exam",
+        "meta": "@exam",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518120409
+  },
+  {
+    "id": "0ffc9831-d8d0-4c2d-92ec-08f8715f0ba8",
+    "data": [
+      {
+        "text": "What are some ",
+        "userDefined": false
+      },
+      {
+        "text": "ACCUPLACER",
+        "alias": "exam",
+        "meta": "@exam",
+        "userDefined": false
+      },
+      {
+        "text": " preparation resources?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518120409
+  },
+  {
+    "id": "f7bdfcd6-e10d-428f-8160-f336a8eb05e6",
+    "data": [
+      {
+        "text": "How can I prepare for the ",
+        "userDefined": false
+      },
+      {
+        "text": "ACCUPLACER",
+        "alias": "exam",
+        "meta": "@exam",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518120409
+  }
+]

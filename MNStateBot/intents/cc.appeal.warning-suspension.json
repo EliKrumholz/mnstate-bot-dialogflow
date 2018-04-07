@@ -1,0 +1,28 @@
+{
+  "id": "f74535e6-d8dd-49a4-8d75-28d04efd0b39",
+  "name": "cc.appeal.warning-suspension",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "In order to appeal your academic or financial aid suspension, you must:\n\n    Call the Academic, Counseling and Career Center at 651-779-3285 to schedule an academic or financial aid suspension appeal meeting.\n    Complete the forms on the Academic and Financial Aid Suspension Appeal Process\n    page and bring them to your appeal meeting along with your documentation.\n    https://www.century.edu/support-services/academic-advising/academicfinancial-aid-warning-suspension-0\n    Attend the meeting and submit your appeal and documentation for review."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518334323,
+  "fallbackIntent": false,
+  "events": []
+}

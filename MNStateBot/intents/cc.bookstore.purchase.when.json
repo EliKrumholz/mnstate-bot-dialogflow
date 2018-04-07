@@ -1,0 +1,28 @@
+{
+  "id": "3a7b8356-76ad-4257-a2d1-83ea2653d8c0",
+  "name": "cc.bookstore.purchase.when",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Books can be purchased once you\u0027ve registered for classes and have a set class schedule after orientation! In order to purchase your books, you need to print your class schedule before heading to the Bookstore. Having your class schedule is required so that you can easily locate your books. Ordering your books online at www.centurycollegebookstore.com is available if you want to avoid the long lines during the first week of classes.\n\nStudents utilizing their financial aid to purchase their books will have to go through the Financial Aid Textbook Deferment Process, formerly known as Book Vouchers. This process is available to students who have been awarded financial aid and who have funds that exceed the amount of their tuition and fees. Financial Aid Textbook Deferment allows a student to charge books at the Bookstore up to the amount available for a Financial Aid Textbook Deferment.\n\nBooks are available a month prior to the first day of class!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518538042,
+  "fallbackIntent": false,
+  "events": []
+}

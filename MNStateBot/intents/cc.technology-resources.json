@@ -1,0 +1,36 @@
+{
+  "id": "a2f2e1a8-7aec-411b-b171-25064826e1e6",
+  "name": "cc.technology-resources",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a32f8cff-d49b-4ca5-a8f1-4dd8281203e8",
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Free and discounted software is available to currently-enrolled, credit-based students, staff and faculty only.\n\nTo access the reduced software and/or hardware purchasing page, log in to the myCentury. (https://my.century.edu/) Click Students \u003e Technology \u003e Free \u0026 Discounted Software.\n\nCentury College\u0027s IT Services department is continually working with vendors to offer additional reduced-cost options, so it\u0027s worthwhile to check back often!\n\nMany retailers also offer educational discounts:\n    Adobe: http://www.academicsuperstore.com/products/Adobe?cat\u003d1\u0026uumc\u003d550517\u0026utm_source\u003dsearch\u0026utm_medium\u003dpaidsearch\u0026sissr\u003d1\n    Apple: https://www.apple.com/us-hed/shop?aid\u003dEdu-IntSearch-B\n    HP: http://store.hp.com/?jumpid\u003dre_r11662_redirect_ETR\n    Dell: http://www.dell.com/en-us/learn/purchaseprogram/university?c\u003dus\u0026l\u003den\u0026s\u003deep\u0026link_number\u003d17970622\n    Lenovo: https://www3.lenovo.com/us/en/landingpage/students-and-teachers/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518336470,
+  "fallbackIntent": false,
+  "events": []
+}

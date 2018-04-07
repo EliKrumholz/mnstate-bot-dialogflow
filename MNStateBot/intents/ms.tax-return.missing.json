@@ -1,0 +1,28 @@
+{
+  "id": "91e3fafa-0c7c-4b65-bf17-10cdf497c30b",
+  "name": "ms.tax-return.missing",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Contact the IRS at 1-800-772-1213 to request a copy of it. \nDetails can also be found on the IRS web site: http://www.irs.gov/taxtopics/tc156.html"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518371071,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "dfe2d231-fd22-4366-8c72-19ac3efb4126",
+    "data": [
+      {
+        "text": "How can I request accommodations?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518337879
+  },
+  {
+    "id": "ede7fb75-e14a-47e4-a168-abd558c639f7",
+    "data": [
+      {
+        "text": "I want to request an accommodation.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518337879
+  },
+  {
+    "id": "2dbcdad9-3b8d-43c6-b31c-fb938bd88c7d",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I request a reasonable accommodation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518337879
+  }
+]

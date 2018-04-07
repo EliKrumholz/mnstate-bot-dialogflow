@@ -1,0 +1,48 @@
+[
+  {
+    "id": "179bab64-9d31-4973-a1b0-9aafdf31bf20",
+    "data": [
+      {
+        "text": "I think I\u0027m going to need to spend a lot of time with tutors",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518536661
+  },
+  {
+    "id": "1c857f26-3b39-4832-9608-845c86cc2184",
+    "data": [
+      {
+        "text": "Is there a limit to how much I can see tutors?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518536661
+  },
+  {
+    "id": "0bfe38e9-a455-4978-84d7-a409bffd1c25",
+    "data": [
+      {
+        "text": "How many ",
+        "userDefined": false
+      },
+      {
+        "text": "hours",
+        "alias": "unit-time",
+        "meta": "@unit-time",
+        "userDefined": false
+      },
+      {
+        "text": " of tutoring can I receive each semester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518536661
+  }
+]

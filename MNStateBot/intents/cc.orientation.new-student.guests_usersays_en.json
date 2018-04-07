@@ -1,0 +1,38 @@
+[
+  {
+    "id": "7255bcc1-d833-4d45-94c6-fb14ad2f79bd",
+    "data": [
+      {
+        "text": "Are guests allowed at orientation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518497901
+  },
+  {
+    "id": "3326e186-a6be-45ab-a994-a9e8f752d549",
+    "data": [
+      {
+        "text": "Can I bring a guest with me to orientation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518497901
+  },
+  {
+    "id": "6f2ddfa9-4ba2-470e-b3f8-6c14dc20e258",
+    "data": [
+      {
+        "text": "Can I bring a family member to my New Student Orientation session?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518497901
+  }
+]

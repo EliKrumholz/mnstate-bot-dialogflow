@@ -1,0 +1,43 @@
+{
+  "id": "2bb9b349-eb28-4751-8f95-04d29e10d4f5",
+  "name": "cc.accuplacer.elsewhere",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c79f4541-dbf2-4f7f-ab79-02d1d8fb000b",
+          "dataType": "@exam",
+          "name": "exam",
+          "value": "$exam",
+          "isList": false
+        },
+        {
+          "id": "508a0c83-43f5-4533-b294-129bdfb039c8",
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Students who have taken the ACCUPLACER Course Placement Test at another institution within the Minnesota State system and have applied to Century College must have their scores verified by the Century College Testing Center staff. Each Minnesota State institution tests differently, so students may have to take a portion of the test here. We encourage students to check with the Testing Center  prior to attending orientation.\nhttps://www.century.edu/admissions/testing-center\n\nStudents who did not take the ACCUPLACER Course Placement Test at another Minnesota State institution or did not verify their scores, must have an official copy of their scores mailed or faxed 651.779.5811 to the Century College Testing Center from the institution where they took the ACCUPLACER Course Placement Test . Complete this prior to orientation or bring a copy of your scores with you."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518538581,
+  "fallbackIntent": false,
+  "events": []
+}

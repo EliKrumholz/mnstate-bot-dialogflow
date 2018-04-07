@@ -1,0 +1,43 @@
+[
+  {
+    "id": "3760508d-d7ad-4161-b4ad-13fbe6ecf334",
+    "data": [
+      {
+        "text": "Is there an estimate for book costs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516682185
+  },
+  {
+    "id": "78d67c53-b3a2-4f0c-96da-ee0aa1cab329",
+    "data": [
+      {
+        "text": "Do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you know how much my books will cost?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516682185
+  },
+  {
+    "id": "038a545b-7a7b-48fc-88ee-e63cd1a4794a",
+    "data": [
+      {
+        "text": "How much will my books cost?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516682185
+  }
+]

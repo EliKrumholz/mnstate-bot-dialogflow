@@ -1,0 +1,368 @@
+[
+  {
+    "id": "ca5fde15-8878-44ff-a941-650dfb20bd30",
+    "data": [
+      {
+        "text": "How can I get an admission application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518122033
+  },
+  {
+    "id": "62476027-8d14-47ba-ac74-54440a84fedd",
+    "data": [
+      {
+        "text": "How can I get some admission paperwork",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518122033
+  },
+  {
+    "id": "e2af7472-cb42-4544-8c4a-f27b811993f9",
+    "data": [
+      {
+        "text": "How can I get some admission materials",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518122033
+  },
+  {
+    "id": "f0cf2f6e-ef45-43fc-8e73-e6460d9ccfdb",
+    "data": [
+      {
+        "text": "Can someone tell me the process for applying",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518122033
+  },
+  {
+    "id": "4cd7751f-1ad5-4a26-a3ee-1b2a6df8aa54",
+    "data": [
+      {
+        "text": "Can someone tell me the process to get admitted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518122033
+  },
+  {
+    "id": "7b775cae-62b5-4832-a1e7-9863ba172b11",
+    "data": [
+      {
+        "text": "what is the application process for ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518122033
+  },
+  {
+    "id": "a1f96b3a-92eb-434e-a2f0-0ac93f3e441f",
+    "data": [
+      {
+        "text": "what is the application process for college",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518122033
+  },
+  {
+    "id": "c490ff24-5e5e-474f-8481-ea51e12230a8",
+    "data": [
+      {
+        "text": "What is the process for getting admitted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518122033
+  },
+  {
+    "id": "898594a9-a1a5-404f-a6b7-c3304504a5ea",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I apply",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518122033
+  },
+  {
+    "id": "4106c21b-585e-4edb-8149-75da0dc6e64b",
+    "data": [
+      {
+        "text": "How can I find out more about getting admitted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518122033
+  },
+  {
+    "id": "afcb3ad5-1a60-4b50-8014-4da0a87cc49b",
+    "data": [
+      {
+        "text": "How can I request some info about getting admitted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518122033
+  },
+  {
+    "id": "84405b4c-66e3-45ce-8cf5-a7216cffa757",
+    "data": [
+      {
+        "text": "How can I request some information about getting admitted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518122033
+  },
+  {
+    "id": "03e24d93-1449-4605-9d52-6852a1a1a6db",
+    "data": [
+      {
+        "text": "can I speak to someone from admissions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518122033
+  },
+  {
+    "id": "6141670f-72cf-48d4-bf80-0eaacffb81b5",
+    "data": [
+      {
+        "text": "can I talk to someone from admissions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518122033
+  },
+  {
+    "id": "f7e5bc65-4759-492c-b614-e59c97173c2a",
+    "data": [
+      {
+        "text": "how ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I get hold of admissions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518122033
+  },
+  {
+    "id": "bfc564ca-2a58-4762-9f26-705e377c41bb",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I speak with someone from admissions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518122033
+  },
+  {
+    "id": "6f84ba98-964c-4d0b-acef-43be20e6cdc0",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I talk to someone from admissions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518122033
+  },
+  {
+    "id": "fc8d1ecd-bbc6-4646-9d7b-9b796cd19d0b",
+    "data": [
+      {
+        "text": "how can I meet with someone from admissions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518122033
+  },
+  {
+    "id": "55d26bca-deb4-4fd2-89b1-26a25ce5aa4a",
+    "data": [
+      {
+        "text": "how ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I communicate with someone from admissions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518122033
+  },
+  {
+    "id": "050af60b-9ac3-4660-9a31-e73dde0d5c31",
+    "data": [
+      {
+        "text": "can I communicate with someone from admissions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518122033
+  },
+  {
+    "id": "ddce8c23-3eb7-4768-885f-c12cbcbe76ec",
+    "data": [
+      {
+        "text": "can I meet with someone from admissions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518122033
+  },
+  {
+    "id": "af583241-d472-4b26-abb7-dd68739ff4d3",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I get in touch with admissions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518122033
+  },
+  {
+    "id": "fb2a5927-376c-4381-804b-0a39f39b41e2",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I get a hold of admissions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518122033
+  },
+  {
+    "id": "382282f8-8486-498a-88c5-2b2e039c3d1e",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I contact Admissions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518122033
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "id": "6d425534-45da-445f-aa78-8f7e1062ce7a",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I make a guest account at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518369460
+  },
+  {
+    "id": "72a4a806-d490-4ae4-bec0-cd3408cced5a",
+    "data": [
+      {
+        "text": "how can I create a guest account?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "96d7445f-f893-4ef3-8042-3f51e45644e9",
+    "data": [
+      {
+        "text": "how can I create a guest account?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ffd63836-c0e7-4032-9309-f636b5c651a2",
+    "data": [
+      {
+        "text": "how can I create a guest account?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9c63487b-3873-489e-a117-9421fb0770d7",
+    "data": [
+      {
+        "text": "how can I create a guest account?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "24dcc790-8521-4c37-bc45-1e1c561cd18e",
+    "data": [
+      {
+        "text": "Can I make a guest account?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518369460
+  },
+  {
+    "id": "4704cb13-8840-4fb6-bb22-862c7cb5dc0a",
+    "data": [
+      {
+        "text": "how can I create a guest account?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4385b7d-636e-4dca-a674-ed16427355f1",
+    "data": [
+      {
+        "text": "Could you show me how to make a guest account?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518369460
+  }
+]

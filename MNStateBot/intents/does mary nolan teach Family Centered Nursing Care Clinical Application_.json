@@ -1,0 +1,51 @@
+{
+  "id": "94ab6fc6-c76a-43a5-b427-4c1b794bb787",
+  "name": "does mary nolan teach Family Centered Nursing Care Clinical Application?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "test.ms.faculty.instructs.course",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2bc83ba2-0c08-4852-89ed-eafa63c7b3b0",
+          "dataType": "@fName",
+          "name": "fName",
+          "value": "$fName",
+          "isList": false
+        },
+        {
+          "id": "024c839a-ddda-4b34-a8e7-b0abce420a10",
+          "dataType": "@lName",
+          "name": "lName",
+          "value": "$lName",
+          "isList": false
+        },
+        {
+          "id": "e188e8f1-ea1f-455c-b415-54a6bbbffa54",
+          "dataType": "@courses",
+          "name": "courses",
+          "value": "$courses",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1521166058,
+  "fallbackIntent": false,
+  "events": []
+}

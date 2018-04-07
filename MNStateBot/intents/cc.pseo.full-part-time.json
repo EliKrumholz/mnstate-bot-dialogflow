@@ -1,0 +1,43 @@
+{
+  "id": "ff421976-eb98-4e4f-b534-bbd5ed3600d7",
+  "name": "cc.pseo.full-part-time",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3899ae72-16ff-422f-806b-b2915de5fda2",
+          "dataType": "@PSEO",
+          "name": "PSEO",
+          "value": "$PSEO",
+          "isList": false
+        },
+        {
+          "id": "de4e56b5-2aff-47f0-abcd-2229ca2877af",
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "PSEO students are able to be part-time or full-time student at Century College. At the college, a full-time student takes 12 credits or more/semester. A part-time students takes 11 credits or less/semester. The high school may have a different definition of what they consider to be a part-time versus full-time PSEO student.\n\nWe recommend PSEO students take no more than 16 credits/semester. The maximum number of credits a PSEO student can take is 18/semester.\nFor more information go to: https://www.century.edu/admissions/high-school-options/post-secondary-enrollment-options-pseo"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518119615,
+  "fallbackIntent": false,
+  "events": []
+}

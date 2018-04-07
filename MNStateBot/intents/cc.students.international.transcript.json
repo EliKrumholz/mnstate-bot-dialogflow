@@ -1,0 +1,28 @@
+{
+  "id": "280a237c-00a4-486d-844a-c080b84e7b0e",
+  "name": "cc.students.international.transcript",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Students intending to transfer credits earned outside the United States to Century, must have their international transcripts evaluated one of the following:\n\n    World Education Services (WES) International Academic Credential Evaluation\n    Educational Credential Evaluators (ECE)\n\nThe completed transcript evaluation from WES or ECE must be sent directly to Century\u0027s Transfer Student Services Office.\n\nStudents should request the \"course by course\" evaluation and have this sent directly to:\n\nCentury College\nTransfer Student Services\n3300 Century Ave North\nWhite Bear Lake, MN 55110\n\n \n\nContact information for WES and ECE is listed below:\n\nWorld Education Services (WES): Bowling Green Station, P.O. Box 5087, New York, NY 10274-5087\n\nPhone: 1-800-937-3895 Fax: 212-739-6100 www.wes.org\n\nEducational Credential Evaluators (ECE): P.O. Box 514070, Milwaukee, WI 553203\n\nPhone: 414-289-3400 Fax: 414-289-3411 www.ece.org\n\nOnce your official WES or ECE evaluation is received at Century College, your credits will be reviewed and applied to your Century academic record. You will be notified via email when your credits from WES or ECE have been processed and included in your Degree Audit Report (DARS). To directly apply these course credits to your specific degree program and/or MnTC Goals 1-10, you must submit an Academic Petition to the Vice President of Academic Affairs for review. You should meet with a Century Counselor to complete the petition."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518508448,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "4598ff87-377c-44a4-8c3b-45055db06d6d",
+    "data": [
+      {
+        "text": "I want a transcript that is official",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "762b22ad-0550-468d-b5c5-04890d3e30e0",
+    "data": [
+      {
+        "text": "I want an official transcript",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "160f9592-eaf1-4496-9587-cbbb72f8ff52",
+    "data": [
+      {
+        "text": "official transcript",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

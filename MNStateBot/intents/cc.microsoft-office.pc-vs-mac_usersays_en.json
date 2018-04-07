@@ -1,0 +1,35 @@
+[
+  {
+    "id": "c090f713-668a-4f89-8633-9b562f7c3565",
+    "data": [
+      {
+        "text": "What does Office ",
+        "userDefined": false
+      },
+      {
+        "text": "365",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " include?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516683383
+  },
+  {
+    "id": "404f0ebc-777f-44b0-95ad-1892790bb688",
+    "data": [
+      {
+        "text": "Is there a difference between the Office 365 versions offered for PC and Macs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516683383
+  }
+]

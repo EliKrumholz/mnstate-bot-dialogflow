@@ -1,0 +1,33 @@
+[
+  {
+    "id": "fb0d9da8-0074-4ced-a612-3c5fdb121bfb",
+    "data": [
+      {
+        "text": "Can I use my ",
+        "userDefined": false
+      },
+      {
+        "text": "ACT",
+        "alias": "exam",
+        "meta": "@exam",
+        "userDefined": false
+      },
+      {
+        "text": " scores instead of taking the ",
+        "userDefined": false
+      },
+      {
+        "text": "ACCUPLACER",
+        "alias": "exam1",
+        "meta": "@exam",
+        "userDefined": false
+      },
+      {
+        "text": " Course Placement Test?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

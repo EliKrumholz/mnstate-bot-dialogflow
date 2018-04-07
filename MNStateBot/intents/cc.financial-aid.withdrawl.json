@@ -1,0 +1,28 @@
+{
+  "id": "cef7d16c-93b4-43a5-9a99-09995bfe42fa",
+  "name": "cc.financial-aid.withdrawl",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There is no financial aid or tuition adjustment for a partial withdrawal as long as you remain a current student and do not make a total withdrawal from the semester.\n\nHowever, you need to make satisfactory academic progress to avoid being suspended from aid for future semesters. A student has the responsibility to achieve minimum standards of academic progress, which are defined and measured by Century College in the following ways:\n\n    A cumulative GPA of 2.0 and\n    A cumulative completion rate of at least 67% of credits attempted\n\nFor more information visit: https://www.century.edu/support-services/academic-advising/academicfinancial-aid-warning-suspension"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516675007,
+  "fallbackIntent": false,
+  "events": []
+}

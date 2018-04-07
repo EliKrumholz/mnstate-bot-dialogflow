@@ -1,0 +1,28 @@
+{
+  "id": "9ce1d774-b2e5-44e5-8f77-fb157c09053b",
+  "name": "cc.rent-assistance",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Rent Assistance Resources: Saint Andrews Community Resource Center: 651-762-9124 for Families residing in Washington County only; Merrick Community Services: 651-771-9339 for Families residing in Ramsey County only; Catholic Charities: 651-665-8500; Hmong-American Partnership: 651-495-9160; Keystone Community: 651-645-0349; Neighborhood House: 651-789-2500; Salvation Army: 651-776-8169; Safe Zone: 651-224-9644 for Ages 17-22 years old only; Coordinated Access: 651-215-2262; Legal Aid: 651-222-5863 for Only if there is a legal tie, such as unlawful eviction/apartment, home repairs/tenant, and landlord disputes."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514914500,
+  "fallbackIntent": false,
+  "events": []
+}

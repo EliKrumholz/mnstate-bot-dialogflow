@@ -1,0 +1,68 @@
+[
+  {
+    "id": "fa2755be-32e1-445b-93c3-24804c2c51a8",
+    "data": [
+      {
+        "text": "The class I\u0027m trying to take is full.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518330699
+  },
+  {
+    "id": "8740598d-5169-4355-b78e-383a98b4b276",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " if a class is full?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518330699
+  },
+  {
+    "id": "e47b0230-d59d-4c4d-8375-97e91b17349f",
+    "data": [
+      {
+        "text": "How can I get on the wait list for a class?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518330699
+  },
+  {
+    "id": "5b91f1e9-013c-4fb1-bb97-80c5a92143bf",
+    "data": [
+      {
+        "text": "Can I get on a wait list to get into a class that is full?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518330699
+  }
+]

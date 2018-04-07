@@ -1,0 +1,28 @@
+{
+  "id": "0f1fd057-ded5-485b-95ab-6931a1bbab3c",
+  "name": "cc.wifi.android",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There are a few steps to this, so I\u0027ll have you check out this link: http://century.custhelp.com/app/answers/detail/a_id/516"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518507400,
+  "fallbackIntent": false,
+  "events": []
+}

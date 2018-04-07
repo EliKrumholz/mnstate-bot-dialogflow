@@ -1,0 +1,28 @@
+{
+  "id": "b586e17a-4f83-4221-8dcd-7a57131722fd",
+  "name": "cc.students.employment-help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Job postings for off-campus employment are available through Career Services and can be found:\n\n1) On the employment bulletin board located in the hallway outside of the Advising, Counseling, and Career Center\nhttps://www.century.edu/support-services/advising-counseling\n\n2) Online at Student Job Listing: https://www.collegecentral.com/century/\n\n3) During the fall and spring semesters there, local employers visit campus to promote current employment opportunities.  A schedule of employers can be found on the Career Services web site and the employment bulletin board.\nhttps://www.century.edu/support-services/career-planning/career-services"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518536761,
+  "fallbackIntent": false,
+  "events": []
+}

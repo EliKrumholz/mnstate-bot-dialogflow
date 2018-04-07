@@ -1,0 +1,44 @@
+{
+  "id": "bf4d682e-bd3f-4260-9273-b17220df2a38",
+  "name": "cc.psyc1041",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "01350b98-9ec2-470f-b503-593ef07545be",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number1",
+          "value": "$number1",
+          "isList": true
+        },
+        {
+          "id": "d2390ccf-ce37-4045-af75-d0960a745daa",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Beginning fall semester 2007, PSYC 1041 replaced PSYC 1040. These two courses are essentially the same, with the exception of the name, and both meet goal 5 of the Minnesota Transfer Curriculum (MnTC). The name changed to more accurately reflect the course content.\n\nThe course PSYC 1040, Lifespan Psychology, can be used to substitute for PSYC 1041, Developmental Psychology, and PSYC 1041 can substitute for PSYC 1040. If you take PSYC 1041 but have already taken PSYC 1040 in the past, the second grade (PSYC 1041) will be calculated into your GPA and credit will only be earned once."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518247993,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "b9f8cfe9-57cd-4fd7-b75b-27913badbc06",
+  "name": "cc.financial-aid.school-code",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0b6c3d93-41af-4192-9601-a2fcdf9d2a30",
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Century College\u0027s Financial Aid code is: 010546"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518506400,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,116 @@
+[
+  {
+    "id": "faeb73f6-603a-44e0-acb3-98ac073ec5e6",
+    "data": [
+      {
+        "text": "READI assessment survey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518502654
+  },
+  {
+    "id": "02fed1e7-38e7-41b0-9432-c12dcaf967a7",
+    "data": [
+      {
+        "text": "What is the READI assessment survey?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518502654
+  },
+  {
+    "id": "f39b8ae4-9d30-4aaa-a0fa-bd4d4cf7776f",
+    "data": [
+      {
+        "text": "How will I know if I am ready for Distance learning?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518502654
+  },
+  {
+    "id": "66545f3d-9339-4a03-8f23-7b39a2102e3e",
+    "data": [
+      {
+        "text": "Is Distance learning for me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518502654
+  },
+  {
+    "id": "8db1b48f-4251-4c8c-a3b4-1daedf1e3f45",
+    "data": [
+      {
+        "text": "Am I ready for Distance learning?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518502654
+  },
+  {
+    "id": "003ff5fd-bca6-4235-a658-7a2dbc06ff33",
+    "data": [
+      {
+        "text": "Am I ready for an online class?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518502654
+  },
+  {
+    "id": "6331559c-0cc5-4e72-b739-0827efad57b2",
+    "data": [
+      {
+        "text": "How can I ",
+        "userDefined": false
+      },
+      {
+        "text": "be",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sure I am up for an online class?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1518502654
+  },
+  {
+    "id": "ee9daaf2-467f-431d-8389-04db696eb8d3",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I know if I am ready for an online course?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518502654
+  }
+]

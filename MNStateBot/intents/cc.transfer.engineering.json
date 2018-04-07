@@ -1,0 +1,28 @@
+{
+  "id": "68142e24-a70b-440b-a053-36d575bc2596",
+  "name": "cc.transfer.engineering",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "That depends on what you want to study, how much tuition costs you are comfortable with, scholarship opportunities, geographical preferences, class size, and research emphasis vs industry emphasis. While the Century College program is designed to be nearly identical to the University of Minnesota, Century engineering students have transferred to schools throughout the state and nation. You are strongly encouraged to visit schools and talk with faculty at those institutions to get a feel for whether that school is a good fit for you."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518503962,
+  "fallbackIntent": false,
+  "events": []
+}

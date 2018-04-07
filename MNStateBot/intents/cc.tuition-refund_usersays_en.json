@@ -1,0 +1,38 @@
+[
+  {
+    "id": "f8643502-3a39-44bc-9b7c-0aff09598a4d",
+    "data": [
+      {
+        "text": "How much money will I get back when withdrawing from a course?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518331194
+  },
+  {
+    "id": "15095a70-85d0-4a8e-91b3-8c93e437d7cc",
+    "data": [
+      {
+        "text": "When will I get my money back after dropping a course?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518331194
+  },
+  {
+    "id": "a4861f20-d013-44a9-b57a-bd7bcd8e0bec",
+    "data": [
+      {
+        "text": "What is the refund policy for tuition?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518331194
+  }
+]

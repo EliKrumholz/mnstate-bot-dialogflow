@@ -1,0 +1,68 @@
+[
+  {
+    "id": "5d8e701e-262a-46fc-9a79-ad46cd6c4d6e",
+    "data": [
+      {
+        "text": "Does ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": " have staff to aid with mental health?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518249378
+  },
+  {
+    "id": "aff9c3e6-57e8-4f61-986e-0abde0403bb3",
+    "data": [
+      {
+        "text": "Does ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": " have resources for stress management?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518249378
+  },
+  {
+    "id": "b8dba046-def6-4b7e-855e-76b3390eb3bd",
+    "data": [
+      {
+        "text": "I\u0027m feeling anxious about going to ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": ", is there someone who can help me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518249378
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "id": "ec22e906-885f-44ec-856c-9dda3975cc6c",
+  "name": "cc.programs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1fd5efc7-b89e-468e-9099-694f21cd90c3",
+          "required": false,
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Century College has over 60 areas of study. You can study anything from automotive service and cosmetology to computer science, nursing and humanities. In addition, you can do your general education classes and transfer to a four-year school like Metropolitan State University, MN State Mankato, Winona State University, the University of St. Thomas or the University of Minnesota, just to name a few. You can view them all here: https://www.century.edu/academics/programs-degrees"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1519181823,
+  "fallbackIntent": false,
+  "events": []
+}

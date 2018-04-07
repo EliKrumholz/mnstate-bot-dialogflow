@@ -1,0 +1,89 @@
+[
+  {
+    "id": "cd989197-44ff-46cf-ba7f-504555908e2f",
+    "data": [
+      {
+        "text": "Will there ",
+        "userDefined": false
+      },
+      {
+        "text": "be",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tutors to help me at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518248907
+  },
+  {
+    "id": "fd872344-3fce-4e31-b4be-086e82a8da96",
+    "data": [
+      {
+        "text": "Are there tutors at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518248907
+  },
+  {
+    "id": "f7107e50-8731-4036-88b6-e7d62f755aea",
+    "data": [
+      {
+        "text": "Does ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": " have tutors?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518248907
+  },
+  {
+    "id": "28db8cff-63c5-407a-9e7c-b323a3da89ca",
+    "data": [
+      {
+        "text": "Is there free tutoring available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518248907
+  }
+]

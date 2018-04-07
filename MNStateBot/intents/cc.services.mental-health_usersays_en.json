@@ -1,0 +1,50 @@
+[
+  {
+    "id": "9eec2e05-160a-4b5f-a826-8dbca561aaff",
+    "data": [
+      {
+        "text": "What mental health resources are available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518369903
+  },
+  {
+    "id": "304d2ebd-18a0-4064-8065-bfaec5b3dbc8",
+    "data": [
+      {
+        "text": "I\u0027m struggling with my mental health.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518369903
+  },
+  {
+    "id": "e6d5bc3c-2912-4ed1-91d8-b17d63fb97ca",
+    "data": [
+      {
+        "text": "Could you help me find a mental health provider?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518369903
+  },
+  {
+    "id": "4f55bdd5-4946-4cbf-a3fa-fea147e12eec",
+    "data": [
+      {
+        "text": "Where can I find information about mental health services, resources and providers?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518369903
+  }
+]

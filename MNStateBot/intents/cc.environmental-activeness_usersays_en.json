@@ -1,0 +1,68 @@
+[
+  {
+    "id": "27968b5e-3848-4953-b77a-8b3dc827b3da",
+    "data": [
+      {
+        "text": "Howe is ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": " helping restore the environment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518502774
+  },
+  {
+    "id": "b77bd0ac-5de4-4a0d-acb6-4e4da8a16196",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": true
+      },
+      {
+        "text": " doing to go green?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518502774
+  },
+  {
+    "id": "7bafc9cd-9e8a-4a73-9250-735468be489b",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": true
+      },
+      {
+        "text": " doing regarding sustainability and decreasing its impact on the environment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518502774
+  }
+]

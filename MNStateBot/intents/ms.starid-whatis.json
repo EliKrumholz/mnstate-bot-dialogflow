@@ -1,0 +1,37 @@
+{
+  "id": "0066df3f-dee2-4f68-bfd4-385154cad45b",
+  "name": "ms.starid-whatis",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "81f469f1-9a22-474e-8da9-5b5c5fbb6ea5",
+          "required": false,
+          "dataType": "@StarID",
+          "name": "StarID",
+          "value": "$StarID",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "StarID is the Minnesota State Colleges and Universities system log in identification number that is unique to each student in the Minnesota State system. it is comprised of two letters, four letters, then two letters in xx1111xx format. You will use this id to login to your school\u0027s computer system as well as login to the Minnesota State system."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516564405,
+  "fallbackIntent": false,
+  "events": []
+}

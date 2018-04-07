@@ -1,0 +1,28 @@
+{
+  "id": "a2963bc3-80d0-4353-ab22-965ee102d26d",
+  "name": "ms.adobe-connect",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There\u0027s a lot to this question. I think this link will prove to be useful: http://century.custhelp.com/app/answers/detail/a_id/660"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518497383,
+  "fallbackIntent": false,
+  "events": []
+}

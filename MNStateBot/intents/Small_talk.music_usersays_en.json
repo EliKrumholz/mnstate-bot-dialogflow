@@ -1,0 +1,54 @@
+[
+  {
+    "id": "942744fb-b712-4701-9612-b04c5d8988e4",
+    "data": [
+      {
+        "text": "What kind of music do you listen to?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522767830
+  },
+  {
+    "id": "27c3907d-d51f-4389-9f47-99c829eb0899",
+    "data": [
+      {
+        "text": "What kind of music ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "alias": "degrees",
+        "meta": "@degrees",
+        "userDefined": false
+      },
+      {
+        "text": " you like",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522767830
+  },
+  {
+    "id": "7b183b11-09db-4825-bbe8-2798f9739186",
+    "data": [
+      {
+        "text": "What is your favorite ",
+        "userDefined": false
+      },
+      {
+        "text": "band",
+        "alias": "Intructor",
+        "meta": "@Intructor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522767830
+  }
+]

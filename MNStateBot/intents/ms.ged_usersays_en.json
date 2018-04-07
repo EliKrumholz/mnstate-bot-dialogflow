@@ -1,0 +1,43 @@
+[
+  {
+    "id": "24c3e56d-5e2a-459a-a17f-6260b7317c30",
+    "data": [
+      {
+        "text": "Can you help me find information on getting my GED?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518535033
+  },
+  {
+    "id": "5a3eb995-8bd3-4ed4-8f60-c4e9ca97f08e",
+    "data": [
+      {
+        "text": "I\u0027d like to get my GED.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518535033
+  },
+  {
+    "id": "36c82b5e-d30a-40b8-964a-48f16c3049e2",
+    "data": [
+      {
+        "text": "Do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you have information about taking the GED?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518535033
+  }
+]

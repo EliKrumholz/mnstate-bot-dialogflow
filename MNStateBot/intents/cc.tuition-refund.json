@@ -1,0 +1,28 @@
+{
+  "id": "772c1999-0da0-4baa-b704-abedf353f56f",
+  "name": "cc.tuition-refund",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "A refund may be available depending on the date and amount of credit that you have dropped or withdrawn from during the semester. Please visit our Tuition Refund Policy page for additional information. https://www.century.edu/cost-financial-aid/tuition-payment/refund-policies"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518331194,
+  "fallbackIntent": false,
+  "events": []
+}

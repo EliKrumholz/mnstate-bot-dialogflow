@@ -1,0 +1,29 @@
+{
+  "id": "bd1b2bed-7396-4150-8b4b-8ea91a2233ea",
+  "name": "where do you live?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "address.house",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518140473,
+  "fallbackIntent": false,
+  "events": []
+}

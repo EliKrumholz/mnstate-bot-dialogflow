@@ -1,0 +1,73 @@
+[
+  {
+    "id": "3e348ba3-40d8-4477-892c-81458855fdd9",
+    "data": [
+      {
+        "text": "What\u0027s required for the ",
+        "userDefined": false
+      },
+      {
+        "text": "AA",
+        "alias": "degrees",
+        "meta": "@degrees",
+        "userDefined": false
+      },
+      {
+        "text": " degree?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518252181
+  },
+  {
+    "id": "7d2dfd97-460e-4e92-ac22-5cb1799b4b06",
+    "data": [
+      {
+        "text": "Can I see a copy of the ",
+        "userDefined": false
+      },
+      {
+        "text": "AA",
+        "alias": "degrees",
+        "meta": "@degrees",
+        "userDefined": false
+      },
+      {
+        "text": " degree?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518252181
+  },
+  {
+    "id": "68bcfa30-6afe-4e87-b20d-be7db581faa9",
+    "data": [
+      {
+        "text": "Do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you have a copy of the ",
+        "userDefined": false
+      },
+      {
+        "text": "AA",
+        "alias": "degrees",
+        "meta": "@degrees",
+        "userDefined": false
+      },
+      {
+        "text": " degree online?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518252181
+  }
+]

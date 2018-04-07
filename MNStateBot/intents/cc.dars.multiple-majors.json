@@ -1,0 +1,36 @@
+{
+  "id": "1a61d7db-e246-42d6-a5fe-26b995c268dd",
+  "name": "cc.dars.multiple-majors",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "761eb2e9-7fe4-4d8e-82a6-4d108a7ddc00",
+          "dataType": "@unit-time",
+          "name": "unit-time",
+          "value": "$unit-time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You may request an audit in the DARS/Transfer Student Services Office (Room 2240 on the West Campus) if you would like to see how your courses apply to a different major but are not ready to change your official records.  Provide your full name, phone number and student ID, name of the major or program, state if it is an AA, AAS or AS degree, diploma or certificate.  Requested audits are usually available on the same day.\n\nYou may add a major or program to your enrollment records and receive multiple audits online.  To find out more about this option, click here: http://century.custhelp.com/app/answers/detail/a_id/193/kw/changing%20majors"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518334125,
+  "fallbackIntent": false,
+  "events": []
+}

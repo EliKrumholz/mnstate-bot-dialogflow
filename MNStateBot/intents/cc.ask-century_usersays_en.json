@@ -1,0 +1,67 @@
+[
+  {
+    "id": "e958b895-0b81-44a0-bf6b-cd6a63498a70",
+    "data": [
+      {
+        "text": "Can I see your frequently asked questions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518371484
+  },
+  {
+    "id": "0acfc886-bc79-4f09-9dfd-88b857cd3d3d",
+    "data": [
+      {
+        "text": "What is Ask ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518371535
+  },
+  {
+    "id": "10ff5920-e3c4-45d5-91dd-a92d67914109",
+    "data": [
+      {
+        "text": "What is Ask ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": ", and how ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I contact them for help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518371535
+  }
+]

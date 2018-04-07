@@ -1,0 +1,95 @@
+[
+  {
+    "id": "1dbce1ba-4a77-4230-ac7b-826dee63096d",
+    "data": [
+      {
+        "text": "Will my ",
+        "userDefined": false
+      },
+      {
+        "text": "PSEO",
+        "alias": "PSEO",
+        "meta": "@PSEO",
+        "userDefined": false
+      },
+      {
+        "text": " classes transfer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eef2e067-e010-4095-b52d-857d11494365",
+    "data": [
+      {
+        "text": "How can Transferology  help me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515100193
+  },
+  {
+    "id": "ae6fb104-2e49-40dd-a921-a9b7f0a1cad7",
+    "data": [
+      {
+        "text": "I don\u0027t get Transferology!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515100193
+  },
+  {
+    "id": "caadac4a-d4c0-4bbf-8c9f-0efa42df91e4",
+    "data": [
+      {
+        "text": "Explain what Transferology is?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515100193
+  },
+  {
+    "id": "cd4364be-3405-4376-8f8e-7f1ada42b916",
+    "data": [
+      {
+        "text": "what in the world is Transferology?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515100193
+  },
+  {
+    "id": "1d458003-7076-45b2-b040-38ee99160088",
+    "data": [
+      {
+        "text": "Can you tell me about Transferology?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515100193
+  },
+  {
+    "id": "4d04d1b8-759d-492f-ab12-4806431a4525",
+    "data": [
+      {
+        "text": "What is Transferology?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515100193
+  }
+]

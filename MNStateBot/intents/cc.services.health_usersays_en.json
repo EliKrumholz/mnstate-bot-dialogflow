@@ -1,0 +1,65 @@
+[
+  {
+    "id": "e90fc2f7-980b-439d-8039-9fe2a9235a6f",
+    "data": [
+      {
+        "text": "health services",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518251666
+  },
+  {
+    "id": "68f0e5cc-74f0-47b6-a7c0-6412008a4c8c",
+    "data": [
+      {
+        "text": "What kind of health services are available at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518251666
+  },
+  {
+    "id": "a8f13650-cd13-42f3-916f-a7af3c1ee3cf",
+    "data": [
+      {
+        "text": "Do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you have any information about health services?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518251666
+  },
+  {
+    "id": "920a197d-dee6-4f00-89c3-afc9ae8c2b42",
+    "data": [
+      {
+        "text": "Where can I find information about health services?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518251666
+  }
+]

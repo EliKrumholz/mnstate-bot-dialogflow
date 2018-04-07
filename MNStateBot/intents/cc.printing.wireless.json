@@ -1,0 +1,37 @@
+{
+  "id": "6195d215-7392-44de-90e6-a57694ad6e83",
+  "name": "cc.printing.wireless",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ebff4990-8576-4a51-a7ea-3f203576766d",
+          "required": false,
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I won\u0027t be able to answer this question very well, so here\u0027s a link to instructions: http://century.custhelp.com/app/answers/detail/a_id/598"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518499655,
+  "fallbackIntent": false,
+  "events": []
+}

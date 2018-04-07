@@ -1,0 +1,28 @@
+{
+  "id": "9272fd2c-4184-429c-97c8-7dbaea8c92e0",
+  "name": "cc.nursing-assistant.competency-exam",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "For questions about the NA competency exam or to register for an exam, please call the Continuing Education Department at 651‐779‐3341."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518536555,
+  "fallbackIntent": false,
+  "events": []
+}

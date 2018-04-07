@@ -1,0 +1,28 @@
+{
+  "id": "cdad9ac0-65b3-4454-b1d1-aac9cdf4f7f9",
+  "name": "cc.bookstore.textbooks",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can get your textbooks at Century College through the Bookstore (West campus) For more information, follow this link: http://century.custhelp.com/app/products/detail/p/35"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518537922,
+  "fallbackIntent": false,
+  "events": []
+}

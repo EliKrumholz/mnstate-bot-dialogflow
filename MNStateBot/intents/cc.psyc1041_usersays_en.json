@@ -1,0 +1,98 @@
+[
+  {
+    "id": "d231ceb6-4099-4dc0-a69b-2a5c1271a425",
+    "data": [
+      {
+        "text": "Is PSYC ",
+        "userDefined": false
+      },
+      {
+        "text": "1041",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " the same as PSYC ",
+        "userDefined": false
+      },
+      {
+        "text": "1040",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518247993
+  },
+  {
+    "id": "2734e4bc-8e1e-42e6-ae85-c33f281d7936",
+    "data": [
+      {
+        "text": "Is PSYC ",
+        "userDefined": false
+      },
+      {
+        "text": "1040",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " the same as PSYC ",
+        "userDefined": false
+      },
+      {
+        "text": "1041",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1518247993
+  },
+  {
+    "id": "dd56871d-cdce-40bb-94b8-e9052190096c",
+    "data": [
+      {
+        "text": "Is the Lifespan Psychology (PSYC ",
+        "userDefined": false
+      },
+      {
+        "text": "1040",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": ") class the same as Developmental Psychology (PSYC ",
+        "userDefined": false
+      },
+      {
+        "text": "1041",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": ")?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518247993
+  }
+]

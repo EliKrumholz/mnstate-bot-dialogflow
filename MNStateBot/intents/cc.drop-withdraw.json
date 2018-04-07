@@ -1,0 +1,31 @@
+{
+  "id": "325a8a44-1a1d-4381-974d-ccbf3625dc47",
+  "name": "cc.drop-withdraw",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "You may drop a course during the first five days of fall or spring semester, unless it is a fast track course. Course withdrawals (“W” grades) begin on the sixth day of the term, unless noted otherwise in the course schedule. The last day to withdraw date varies; it displays on students online schedule and on the course search details.",
+            "You don\u0027t have much time. Generally, you can drop a course during the first five days; and Course withdrawal - around 6, depending upon staff availability to here: http://century.custhelp.com/app/answers/detail/a_id/91"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1519180435,
+  "fallbackIntent": false,
+  "events": []
+}

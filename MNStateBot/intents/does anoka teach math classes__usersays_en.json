@@ -1,0 +1,34 @@
+[
+  {
+    "id": "d7e5e132-1d71-4ec6-a2fe-8d19897b7c6a",
+    "data": [
+      {
+        "text": "does ",
+        "userDefined": false
+      },
+      {
+        "text": "anoka",
+        "alias": "College",
+        "meta": "@College",
+        "userDefined": true
+      },
+      {
+        "text": " offer ",
+        "userDefined": false
+      },
+      {
+        "text": "math",
+        "alias": "courses",
+        "meta": "@courses",
+        "userDefined": true
+      },
+      {
+        "text": " classes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520829604
+  }
+]

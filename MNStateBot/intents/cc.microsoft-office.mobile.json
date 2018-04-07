@@ -1,0 +1,28 @@
+{
+  "id": "dd810756-9271-4078-80e0-a8c7893d94e7",
+  "name": "cc.microsoft-office.mobile",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Microsoft offers app versions of some of their most popular programs (e.g. Word, Excel, OneNote, OneDrive for Business) for mobile devices (e.g. smart phone, tablet). Click on the provided links below to learn more about available Microsoft apps:\n\niOS: https://products.office.com/en-us/mobile/office-mobile-apps-for-ios\nAndroid: https://products.office.com/en-us/mobile/office-mobile-apps-for-android\nWindows: https://products.office.com/en-us/mobile/office-mobile-apps-for-windows\n\nCentury College students can log in to Office apps with their Office 365 account ([StarID]@century.edu) and their StarID password (if needed)."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518371832,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "5ba9ce28-e5ad-4f68-a09f-17f9d2958fec",
+    "data": [
+      {
+        "text": "Show me activities at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518539532
+  },
+  {
+    "id": "9c91fd26-439d-4bd2-99b4-297b2bc5533d",
+    "data": [
+      {
+        "text": "Can you show me activities at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518539532
+  },
+  {
+    "id": "c8e5f61c-4c77-4c0f-9a6a-5f63e8c17dfa",
+    "data": [
+      {
+        "text": "What student activities are available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518539532
+  },
+  {
+    "id": "b5c2d052-f669-4938-a809-67aff77b7ab4",
+    "data": [
+      {
+        "text": "Are there student activities?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518539532
+  }
+]

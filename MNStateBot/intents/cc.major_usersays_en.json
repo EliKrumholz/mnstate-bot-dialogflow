@@ -1,0 +1,56 @@
+[
+  {
+    "id": "b2f01fec-7131-49cf-938d-5afb54d6a58d",
+    "data": [
+      {
+        "text": "What can I ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " with a major?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518538756
+  },
+  {
+    "id": "f2ee0b2a-178b-4006-bda7-90afe6219fc6",
+    "data": [
+      {
+        "text": "What is a major?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518538756
+  },
+  {
+    "id": "fc4e7925-82b1-4b6b-9efb-152e742e87f4",
+    "data": [
+      {
+        "text": "What does it mean to ",
+        "userDefined": false
+      },
+      {
+        "text": "major",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in something?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518538756
+  }
+]

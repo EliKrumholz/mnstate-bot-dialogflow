@@ -1,0 +1,37 @@
+{
+  "id": "79694108-dc7a-4c24-a763-5cdde7018402",
+  "name": "cc.advising.personal-counseling",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "81a4d89d-ebe9-47d9-a206-d9fd8befa442",
+          "required": false,
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Personal Counseling: This includes discussing areas of concern that may interfere with your college success such as transition to college, test anxiety, time management, stress management, relationships, and other personal or mental health concerns (Century College counselors provide support for students using off-campus agencies referrals when appropriate).\nhttps://www.century.edu/support-services/student-wellness/personal-counseling"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518249484,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "002cf37a-cf5f-409f-a17f-86ffb45a5490",
+    "data": [
+      {
+        "text": "How can I tell if I\u0027m full-time or part-time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518119735
+  },
+  {
+    "id": "f4860a67-16f5-4cd3-8914-2bd573014fd9",
+    "data": [
+      {
+        "text": "What is part-time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518119735
+  },
+  {
+    "id": "fcb06a9f-87ce-4b2e-95ad-7adf456fb8f5",
+    "data": [
+      {
+        "text": "What is full-time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518119735
+  },
+  {
+    "id": "fdcc8d91-212c-4f30-b6a2-038f28a46f53",
+    "data": [
+      {
+        "text": "What\u0027s the difference between full-time and part-time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518119735
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "id": "7f4d2ee9-4682-4d7c-a531-618bc1ac3e8d",
+  "name": "books.purchase.thirdParty",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "It\u0027s possible, but there are a couple of things to take into account. Often, courses will have supplementary software which accompanies the text. If you purchase your course materials from the book store, it will come in a package containing the book and a product key for the software for the course. If you decide to purchase the text elsewhere, you may still need to purchase a code for the software. Additionally, when purchasing books from an outside source, make sure to get the correct edition. The contents of the text may have been updated from previous editions, perhaps changing around the problems or correcting some of their answers."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510495206736,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "397bf565-3ed6-44bf-ba60-d7ea39bdc2d6",
+  "name": "cc.fax",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "86206fbd-4418-4a6c-b914-fbd41cebe0d4",
+          "required": false,
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The Connection (W1520) on West Campus offers free local faxing.\n\nFor more details, contact on The Connection: http://www.century.edu/campus-life/campus-recreation"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518507032,
+  "fallbackIntent": false,
+  "events": []
+}

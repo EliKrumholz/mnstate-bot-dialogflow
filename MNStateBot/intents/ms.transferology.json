@@ -1,0 +1,46 @@
+{
+  "id": "4a9c7b72-7f82-436e-813e-7d4fe3da3729",
+  "name": "ms.transferology",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "mstransferology-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9b90bcf3-e8d7-4de2-9b91-ca37063afc74",
+          "dataType": "@PSEO",
+          "name": "PSEO",
+          "value": "$PSEO",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Transferology is an online tool that lets you: View program requirements; Find course equivalencies; See how courses you have taken or plan to take transfer to a degree from a specific college or university. https://www.transferology.com/index.htm",
+            "Transferology will help you estimate the number of credits that will transfer. https://www.transferology.com/index.htm",
+            "Here is a link to a couple YouTube videos that should help: https://www.youtube.com/watch?time_continue\u003d2\u0026v\u003doYAVrqaRQsc or https://www.youtube.com/watch?v\u003dRIfGd4a2Jxw"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515100193,
+  "fallbackIntent": false,
+  "events": []
+}

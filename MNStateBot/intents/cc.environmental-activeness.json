@@ -1,0 +1,36 @@
+{
+  "id": "a831052d-c046-44d5-b58b-8af7059d0284",
+  "name": "cc.environmental-activeness",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "702ee3a2-5c70-47eb-b986-23576f6aba6a",
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Many classes across the curriculum include a theme of environmental stewardship -- including marketing, English, business, the sciences, computer science, dental assisting, sociology, and more. We offer programs in renewable energy and solar technology."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518502774,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "8e737b74-3ffc-4ef4-9516-fdca0467b66b",
+  "name": "cc.engineering.planning.example",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can view engineering sample program plan here: http://www.century.edu/programs/engineering"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518535644,
+  "fallbackIntent": false,
+  "events": []
+}

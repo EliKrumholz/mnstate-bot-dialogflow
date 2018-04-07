@@ -1,0 +1,37 @@
+{
+  "id": "39a5f790-8ce9-41be-94f3-5e82a3bc4104",
+  "name": "cc.accuplacer.appointment-walkin",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f82efbf8-2c52-408a-a3e0-e876f2bc94ff",
+          "required": false,
+          "dataType": "@exam",
+          "name": "exam",
+          "value": "$exam",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Walk-ins are welcome during check-in, however, a seat cannot be guaranteed. It is highly recommended that you make an appointment. To schedule an appointment, visit the Testing Center page here: https://www.century.edu/admissions/testing-center"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518533118,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,48 @@
+[
+  {
+    "id": "be218241-3fe9-49c5-a23d-095da5342954",
+    "data": [
+      {
+        "text": "I\u0027m having a ",
+        "userDefined": false
+      },
+      {
+        "text": "bit",
+        "alias": "degrees",
+        "meta": "@degrees",
+        "userDefined": false
+      },
+      {
+        "text": " of a crisis.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518507580
+  },
+  {
+    "id": "934c1fe0-ae5e-4724-8d67-da304c2c84fa",
+    "data": [
+      {
+        "text": "Where can I find information about crisis hotlines and support services?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518507529
+  },
+  {
+    "id": "71bf5bb1-9ba7-4a44-a10b-752d0da333c8",
+    "data": [
+      {
+        "text": "I\u0027m having a crisis.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518507529
+  }
+]

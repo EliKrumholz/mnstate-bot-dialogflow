@@ -1,0 +1,31 @@
+{
+  "id": "811aa784-4b6d-4c19-a82d-643ce7f94200",
+  "name": "cc.advising.appointment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "You can schedule a meeting online, over the phone, or in person. If you would like more detailed instructions including scheduling online, follow the instructions in this link:  http://century.custhelp.com/app/answers/detail/a_id/281",
+            "Scheduled appointments are typically 30 minutes long and available from 8:00 am - 6:00pm on Monday Thursday and 8:00 am - 3:30pm on Friday. You can now schedule an appointment online to meet with your assigned counselor or advisor by following these steps:\n\nStep 1:  Login into myCentury (use your StarID and Password).\n\nStep 2:  Select the \"Make an Advising Appointment\" box on the right-hand side.\n\nStep 3:  Select  the \"Advising, Counseling and Career Center\" link.\n\nStep 4:  Select  the \"Schedule a new appointment\" tab.\n.\nStep 5:  Select your assigned advisor/counselor, time, and \"Academic\" as the appointment type.\n\nStep 6: Write a brief reason for your visit and then select the \"Schedule Appointment\" button.\n\nStep 7:  Enter your phone number and/or email address for an appointment reminder."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518121128,
+  "fallbackIntent": false,
+  "events": []
+}

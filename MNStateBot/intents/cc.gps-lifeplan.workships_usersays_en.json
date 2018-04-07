@@ -1,0 +1,38 @@
+[
+  {
+    "id": "2544df0d-594e-4318-bb29-412efbdb97a4",
+    "data": [
+      {
+        "text": "Can you tell me more about workshops at the GPS Lifeplan center?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518501448
+  },
+  {
+    "id": "d8879057-019a-43b1-b51a-6613dce19877",
+    "data": [
+      {
+        "text": "What workshops are hosted at the GPS Lifeplan center?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518501448
+  },
+  {
+    "id": "8aaf3ca8-4585-4ffd-8a88-13566c3e8f63",
+    "data": [
+      {
+        "text": "Is there a list online of the days and times of the various GPS LifePlan workshops?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518501448
+  }
+]

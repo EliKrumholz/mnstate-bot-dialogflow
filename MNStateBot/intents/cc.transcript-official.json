@@ -1,0 +1,31 @@
+{
+  "id": "ded99d67-7c09-435e-80a7-be23fd05d449",
+  "name": "cc.transcript-official",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "To get an official transcript, you need to go  order them online through National Student Clearinghouse at getmytranscript.com  Official transcripts cost $5.00 per transcript, there is an additional $5.00 for Rush transcripts.",
+            "Official transcripts cost $5.00 per transcript, there is an additional $5.00 for Rush transcripts. You need to order them online through the National Student Clearinghouse at getmytranscript.com"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514407348,
+  "fallbackIntent": false,
+  "events": []
+}

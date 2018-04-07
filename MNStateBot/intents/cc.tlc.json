@@ -1,0 +1,28 @@
+{
+  "id": "6929218c-fbdf-476c-9378-ad122a671cd2",
+  "name": "cc.tlc",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Tutors Linked to Classes (TLC) place tutors in classes that a large number of students need to take to move on to higher level courses. These classes are often called Gateway Courses. The tutors attend class and hold organized office hours 3-4 times a week outside of the regular class time. Instructors request tutors to be in their specific classes. The tutors are students who have already taken the class, earned a good grade, and been recommended by the instructor to tutor their class. If you are interested in having a TLC Tutor in your class or are interested in becoming a TLC Tutor, have your instructor contact:\n\nJackie Reichter\nPeer Tutoring and TLC Coordinator\n651-779-3285 or jackie.reichter@century.edu\n-OR-\nKeith Hagen\nPeer Tutoring and TLC Coordinator\n651-779-3293 or keith.hagen@century.edu"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518332173,
+  "fallbackIntent": false,
+  "events": []
+}

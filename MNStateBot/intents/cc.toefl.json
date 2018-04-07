@@ -1,0 +1,36 @@
+{
+  "id": "cbd972b3-93a8-4944-b6ae-38bf752b36f1",
+  "name": "cc.toefl",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2cdd8aeb-21af-454d-981f-c05f06e4d662",
+          "dataType": "@exam",
+          "name": "exam",
+          "value": "$exam",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The TOEFL stands for Test of English as a Foreign Language.  You can gain more information by visiting the TOEFL wesbite\nhttp://www.ets.org/portal/site/ets/menuitem.fab2360b1645a1de9b3a0779f1751509/?vgnextoid\u003d69c0197a484f4010VgnVCM10000022f95190RCRD\n\nor by contacting them through mail or phone at:\nTOEFL\nP.O. Box 6151\nPrinceton, NJ 08541-6151 USA\n+1 (609) 771-7100\n\nThe TOEFL code for Century College is 6388. Century College requires that students obtain a minimum of 500 on the written TOEFL test, 173 on the computer-based test or 61 on the Internet-based test.\n\nIf you are in the Twin Cities and plan on applying to Century College as an international student, you may take the Century College ESL ACCUPLACER Course Placement Testing in place of the TOEFL. The minimum placement for admission is ESOL 30\u0027s in all components of the test including: grammar, reading and listening.\n\nAll new students are required to take the ACCUPLACER Course Placement Testing ESL tests prior to registering. The assessments are used to place students in the appropriate courses."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518371686,
+  "fallbackIntent": false,
+  "events": []
+}

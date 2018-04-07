@@ -1,0 +1,38 @@
+[
+  {
+    "id": "b1841754-48d6-405a-8657-32de68d38402",
+    "data": [
+      {
+        "text": "What factors determine Power of YOU enrollment eligibility?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518538934
+  },
+  {
+    "id": "27e8d5f9-af98-4a5a-9d67-4817f821e732",
+    "data": [
+      {
+        "text": "Who qualifies for Power-of-YOU?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518538934
+  },
+  {
+    "id": "3911bdc8-d426-4af0-8e55-0b0136126bb3",
+    "data": [
+      {
+        "text": "How is it determined who gets accepted into the Power of YOU program?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1518538934
+  }
+]

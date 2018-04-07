@@ -1,0 +1,28 @@
+{
+  "id": "32fd1a98-d61f-4106-b973-1ecb1ab2e18b",
+  "name": "cc.courses.transfer",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "If you are transferring into Century College and have already sent an official transcript, the Transfer Evaluation Office will evaluate your credits to be posted in your DARS (Degree Audit Report) upon evaluation. https://www.century.edu/support-services/transfer-century/transfer-resources-guides/degree-audit-reporting-system\n\nIf your credits have not been evaluated and you are eager to see what transfers or if you want to see how a class will transfer to another institution, you can look up most course equivalencies in transferology.com."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518332558,
+  "fallbackIntent": false,
+  "events": []
+}

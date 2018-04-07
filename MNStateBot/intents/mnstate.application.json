@@ -1,0 +1,29 @@
+{
+  "id": "2f4b4c42-5c61-40ba-9aa6-46230b649828",
+  "name": "mnstate.application",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "file.application",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509908428892,
+  "fallbackIntent": false,
+  "events": []
+}

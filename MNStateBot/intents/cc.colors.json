@@ -1,0 +1,37 @@
+{
+  "id": "16604157-15a3-4e22-9374-e0c2b18fdca0",
+  "name": "cc.colors",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c3597773-43f7-4ccc-8558-2cbb579fba51",
+          "required": false,
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Orange, Black \u0026 Gray"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1511826890,
+  "fallbackIntent": false,
+  "events": []
+}

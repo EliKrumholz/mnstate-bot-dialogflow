@@ -1,0 +1,47 @@
+[
+  {
+    "id": "fe89396d-d00c-4364-b7d3-7659bf8b2ab1",
+    "data": [
+      {
+        "text": "I\u0027d like to prepare for my online classes, can you help me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518368700
+  },
+  {
+    "id": "8f3f71c9-7d39-4414-8a8b-f22263f1224d",
+    "data": [
+      {
+        "text": "How can I prepare for an online class?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518368700
+  },
+  {
+    "id": "b4872534-9e5b-4488-b05f-6527fffe619d",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I need to do to prepare for taking an online class?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518368700
+  }
+]

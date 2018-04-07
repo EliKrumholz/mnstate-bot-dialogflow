@@ -1,0 +1,28 @@
+{
+  "id": "248da25e-0c6f-4b90-8641-01c6fc597704",
+  "name": "cc.email.mobile-sync",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Use http://help.outlook.com/en-us/140/dd936215.aspx from the device to open the installation Wizard.\n\nWhen the Wizard opens, first choose your phone\u0027s operating system.\nWizard will ask you \"What would you like to do?\" Choose \"Set Up Microsoft Exchange email on an \"xxx device\" (depending on which OS you chose in Step 1).\nInstructions for how to sync your Century student email account to your device will open. Follow the instructions, using the information below.\n\n    Domain/username is your Century email address\n    The password is your StarID password\n    For Exchange server, type: outlook.office365.com\n\nFor more information about the student email, please check out this video: https://mediaspace.minnstate.edu/media/Student+Videos+-+Email.mp4/0_i3sfnuirw"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518118416,
+  "fallbackIntent": false,
+  "events": []
+}

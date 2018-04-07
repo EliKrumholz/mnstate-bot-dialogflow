@@ -1,0 +1,28 @@
+{
+  "id": "be870e2a-f63d-45d8-ab49-1a1a4ab5f2b1",
+  "name": "cc.dars.problems",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You may submit questions, problems, concerns or suggestions by email to DARS@century.edu or see the DARS/Transfer Evaluation Staff in Room 2240 on West Campus."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518368991,
+  "fallbackIntent": false,
+  "events": []
+}

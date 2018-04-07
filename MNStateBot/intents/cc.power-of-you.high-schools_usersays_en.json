@@ -1,0 +1,36 @@
+[
+  {
+    "id": "af85c805-c270-4094-b9ba-0fc174fc7692",
+    "data": [
+      {
+        "text": "What schools are included in the power of YOU?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518500200
+  },
+  {
+    "id": "2dc29979-7afa-47fb-8ebe-7dab231501ad",
+    "data": [
+      {
+        "text": "I go to a different school than the ones listed on the application, but I really want to enroll in a program at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": ". Can I still apply for the Power of YOU?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518500200
+  }
+]

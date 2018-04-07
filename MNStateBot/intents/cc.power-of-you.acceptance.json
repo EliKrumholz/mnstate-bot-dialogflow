@@ -1,0 +1,28 @@
+{
+  "id": "0b2f05a0-efb9-4d95-85af-2df2f285b656",
+  "name": "cc.power-of-you.acceptance",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Students accepted into the Power of YOU program will be notified by mail after the final deadline.\nhttp://century.custhelp.com/app/answers/detail/a_id/605"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518535984,
+  "fallbackIntent": false,
+  "events": []
+}

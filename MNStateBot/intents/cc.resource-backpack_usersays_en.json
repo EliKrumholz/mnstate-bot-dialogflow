@@ -1,0 +1,239 @@
+[
+  {
+    "id": "6e3bb729-4f44-48a1-b06d-3158b522a5b4",
+    "data": [
+      {
+        "text": "I am having a difficult time paying for heating, can you help me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c622ff5c-60ad-41b3-a994-d5ef0c9fd05e",
+    "data": [
+      {
+        "text": "I am having a difficult time paying for utilities, can you help me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "03476dff-ba18-4356-9fdc-3e3f6ea38c31",
+    "data": [
+      {
+        "text": "I don\u0027t have a car, is there a bus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bc2f00cb-9e02-49ba-9977-65bbced6afdd",
+    "data": [
+      {
+        "text": "I don\u0027t have a car, is there another way of getting there?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "29ae43ce-94be-4d3d-97e2-9f7a814016de",
+    "data": [
+      {
+        "text": "I am having difficulty focusing in class, can you help me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b2a34f46-a042-4ecb-9f1a-6580ecc3a448",
+    "data": [
+      {
+        "text": "I am depressed, can you help me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cff59538-7fca-4f83-a06c-cf8e64255b0d",
+    "data": [
+      {
+        "text": "I need help finding a lawyer, can you help  me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "315dd075-9bf6-4781-a8c3-3f4416bd2004",
+    "data": [
+      {
+        "text": "I need help finding legal assistance, can you help me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "899ab395-5a66-4466-82f4-d5dc464e4a9e",
+    "data": [
+      {
+        "text": "It is difficult for me to afford housing, can you help me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "39df8472-6390-41b0-98fb-fc3c0a9ec5be",
+    "data": [
+      {
+        "text": "I am having difficulty finding housing, can you help me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b3abf00d-9a94-42c0-9c32-7db94af27f4d",
+    "data": [
+      {
+        "text": "I can\u0027t afford a doctor, can you help me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d72b7ee6-0e4f-4ea7-bae7-c76204eedf2d",
+    "data": [
+      {
+        "text": "I need help getting health services, can you help me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aaf2ce67-9884-4066-8537-a0340843d26a",
+    "data": [
+      {
+        "text": "Do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you have a college food shelf?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f873800a-5573-4166-8279-dbf2db00df50",
+    "data": [
+      {
+        "text": "I need help getting food, can you help me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6e932194-8652-4603-bfde-379053b3127f",
+    "data": [
+      {
+        "text": "I need help with getting clothes, can you help me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e1611015-863a-4574-b7f1-9c64ec252793",
+    "data": [
+      {
+        "text": "I need help with my academics, can you help me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0daa5193-aa6d-4bfb-9232-2bb686d5680b",
+    "data": [
+      {
+        "text": "I need help with childcare, can you help me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3ac019cb-ba64-4a84-a4fc-71f4d9ef4d7c",
+    "data": [
+      {
+        "text": "Are there any resources that I can take advantage of as a student?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "382f15fa-16a5-4e9c-a495-f960bf517577",
+    "data": [
+      {
+        "text": "What resources are there to help students?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d83f8f7b-511f-4739-903e-43e1748a5094",
+    "data": [
+      {
+        "text": "What resources are there to help me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "67436fb6-20b6-4b93-821b-16cefb1009a1",
+    "data": [
+      {
+        "text": "What resources are available for helping students connect with opportunities and support?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516558436
+  }
+]

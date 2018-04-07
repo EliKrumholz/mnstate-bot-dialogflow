@@ -1,0 +1,36 @@
+{
+  "id": "80749dda-b567-4544-be6a-e2c6ccba56b1",
+  "name": "cc.files.save",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2229a0ee-64e3-4110-aa35-a01711f27e6f",
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Century Computer: H Drive\n\nH Drive is where you can save documents securely.  You can access this drive on any computer in our computer labs (E1710 and W3165) or from a person computer.  Your H Drive has 2 gigabytes (GB) of memory for you to save your documents.\n\nOnline: OneDrive for Business\n\nOneDrive for Business (OneDrive) is a Microsoft product that provides users with a place to store, edit, and share their files online in the cloud. For more information, please view the attached documents. \n\nFor more information on your file saving options, watch Century\u0027s Student Videos - Saving Files video: https://mediaspace.minnstate.edu/media/Student+Videos+-+Saving+Files.mp4/0_h5y5k2v9"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518506805,
+  "fallbackIntent": false,
+  "events": []
+}

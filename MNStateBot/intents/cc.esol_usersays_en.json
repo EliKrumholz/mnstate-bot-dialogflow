@@ -1,0 +1,36 @@
+[
+  {
+    "id": "a939eb74-b361-4244-924a-83ed902c347b",
+    "data": [
+      {
+        "text": "Can I take only ESOL classes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518539351
+  },
+  {
+    "id": "ba96f854-fff5-43be-83e4-3ea0e06c4aa7",
+    "data": [
+      {
+        "text": "Can I come to ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": " to study ESOL only?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518539351
+  }
+]

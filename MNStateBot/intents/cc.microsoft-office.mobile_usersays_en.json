@@ -1,0 +1,38 @@
+[
+  {
+    "id": "aee69dfc-6f8d-45cd-b835-16cbcf809b1d",
+    "data": [
+      {
+        "text": "Can I use Office on my phone?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518371832
+  },
+  {
+    "id": "a0ec76af-a5bd-4941-9fa5-83f966520993",
+    "data": [
+      {
+        "text": "Does Office have any apps?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518371832
+  },
+  {
+    "id": "dfa29631-4ad8-4bf5-868c-8b199ebe7b25",
+    "data": [
+      {
+        "text": "Does Microsoft offer any Office apps for mobile devices?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518371832
+  }
+]

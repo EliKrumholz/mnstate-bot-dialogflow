@@ -1,0 +1,38 @@
+[
+  {
+    "id": "4b3e871f-7e21-4dfa-a8a7-c5a996b625dc",
+    "data": [
+      {
+        "text": "LCOM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516685662
+  },
+  {
+    "id": "998fc0d8-038b-45c7-87df-4b779cce5025",
+    "data": [
+      {
+        "text": "What is LCOM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516685662
+  },
+  {
+    "id": "9e6483e8-9bc3-4d11-b7d8-c9c09981a92d",
+    "data": [
+      {
+        "text": "What does it mean when a course states that it is part of a learning community?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516685662
+  }
+]

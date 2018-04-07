@@ -1,0 +1,28 @@
+{
+  "id": "e03183d9-3a10-4835-b873-876a7699eaa6",
+  "name": "cc.courses.schedule-online",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "If you are a student at Century College, you can view the availability of classes through your online registration account known as eServices.  To access your account, go to the eServices Login Page. https://eservices.minnstate.edu/eservices/login.html?campusid\u003d304\nIn order to view and print the list of classes that you are registered for, you will also need to log into your eServices Account."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518369231,
+  "fallbackIntent": false,
+  "events": []
+}

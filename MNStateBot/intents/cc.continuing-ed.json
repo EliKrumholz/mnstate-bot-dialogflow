@@ -1,0 +1,28 @@
+{
+  "id": "56e3bf8c-987a-49f7-80f4-5082018e77c3",
+  "name": "cc.continuing-ed",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Continuing education is non-credit open enrollment classes (available any time) or contract training programs (offered through an employer) that provide skills training, certificates, and industry certification. They are perfect for entry-level training, career changes, advancing professional skills or updating credentials for continuing education units (CEUs)."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1519937930,
+  "fallbackIntent": false,
+  "events": []
+}

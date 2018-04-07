@@ -1,0 +1,67 @@
+[
+  {
+    "id": "b1c8ab17-d346-4657-9ff0-e920888d7d70",
+    "data": [
+      {
+        "text": "How can I get updates about events on campus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518120828
+  },
+  {
+    "id": "3ca2730b-0ec3-41b9-8cbc-da072f7b742f",
+    "data": [
+      {
+        "text": "Can I get alerts from ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518120828
+  },
+  {
+    "id": "41299770-b60b-423e-9c11-2ce8613952af",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I sign up for text messages from ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518120828
+  }
+]

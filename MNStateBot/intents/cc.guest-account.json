@@ -1,0 +1,37 @@
+{
+  "id": "dbf11863-963c-458e-af79-c1a4d9d0105e",
+  "name": "cc.guest-account",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e16bdaa8-a201-47eb-a856-71aff452d2fa",
+          "required": false,
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Instructions are provided here: http://century.custhelp.com/ci/fattach/get/1924/1428438018/redirect/1/filename/Century%20College%20Guest%20Access_1A73.pdf"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518369473,
+  "fallbackIntent": false,
+  "events": []
+}

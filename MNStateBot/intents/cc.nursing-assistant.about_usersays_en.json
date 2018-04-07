@@ -1,0 +1,35 @@
+[
+  {
+    "id": "00b751ab-0516-42d0-9d5c-3753129b7aab",
+    "data": [
+      {
+        "text": "Can you tell me more about nursing assistant courses?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518368465
+  },
+  {
+    "id": "5b6638c6-ab70-4ba6-8a70-bfaf1eadc16c",
+    "data": [
+      {
+        "text": "Who ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I contact if I have questions about the Nursing Assistant courses?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518368497
+  }
+]

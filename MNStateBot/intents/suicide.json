@@ -1,0 +1,37 @@
+{
+  "id": "74c98a20-220e-468e-b0bd-4c322084681c",
+  "name": "suicide",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e91b8db5-6f03-4125-bfdf-df11acda5a1a",
+          "required": false,
+          "dataType": "@degrees",
+          "name": "degrees",
+          "value": "$degrees",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You cannot be replaced! Here are some numbers for you to use: National Suicide Prevention Hotline: 800-273-8255 Text a crisis line - 741741 For additional information, go to this website: https://learning.elucidat.com/course/5a6f5f8575b75-5a6f63e5b8c95"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1519838615,
+  "fallbackIntent": false,
+  "events": []
+}

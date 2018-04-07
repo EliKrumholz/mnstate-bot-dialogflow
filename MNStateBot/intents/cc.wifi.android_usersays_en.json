@@ -1,0 +1,38 @@
+[
+  {
+    "id": "d5b12ccb-199a-46dd-9830-df3616064437",
+    "data": [
+      {
+        "text": "Help me connect wifi on my android device?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518507400
+  },
+  {
+    "id": "cad2aa23-cebc-4d58-955f-0c50b42bbf87",
+    "data": [
+      {
+        "text": "I need wifi on my android.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518507400
+  },
+  {
+    "id": "9e64594a-9ce8-44a6-b164-90fe41be10ae",
+    "data": [
+      {
+        "text": "How can I access wifi from my android?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518507400
+  }
+]

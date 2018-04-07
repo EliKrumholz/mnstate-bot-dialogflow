@@ -1,0 +1,28 @@
+{
+  "id": "e15063d7-9abf-477b-bd13-cce0ec79ac46",
+  "name": "cc.dars.help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There is an online tutorial on how to read your DARS here: http://www.dars.mntransfer.org/CAP/ReadIA.swf\n\nAlso, a counselor or advisor can also help you interpret your Degree Audit Report. Contact the Advising, Counseling, and Career Center at 651-779-3285 in Room 2410 on West Campus for information about scheduling an appointment or walk-in hours. To make an appointment online, view: http://century.custhelp.com/app/answers/detail/a_id/281/kw/make%20appointment"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518331042,
+  "fallbackIntent": false,
+  "events": []
+}

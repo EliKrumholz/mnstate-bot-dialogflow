@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5b5cda32-187c-41c0-86be-250f4e440d3e",
+    "data": [
+      {
+        "text": "How does financial aid effect the Power of YOU?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518532310
+  },
+  {
+    "id": "99421dba-e810-4381-91a2-da6341ea8af4",
+    "data": [
+      {
+        "text": "If I qualify for financial aid, what costs will the Power of YOU cover?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518532310
+  }
+]

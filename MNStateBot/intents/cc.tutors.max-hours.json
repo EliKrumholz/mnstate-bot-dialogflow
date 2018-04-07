@@ -1,0 +1,36 @@
+{
+  "id": "4ba9815a-8533-4089-b3ec-af01989fb325",
+  "name": "cc.tutors.max-hours",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6dd45fee-bf7f-4eb9-baaf-fd9021d32c3d",
+          "dataType": "@unit-time",
+          "name": "unit-time",
+          "value": "$unit-time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can have an hour and a half of peer tutoring a week for each class that you are taking during each semester. You are encouraged to stop in and sign up for an appointment, but walk-in appointments are welcome. Other support centers see students on a walk-in basis. There is no limit on the number of hours you can spend in any of the support centers.\nhttp://www.century.edu/support-services/academic-resource-centers"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518536661,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3281b164-6ffc-488d-a52a-5130a3cdb2f7",
+    "data": [
+      {
+        "text": "Is there public transportation available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515206803
+  },
+  {
+    "id": "a156e686-9b04-4c71-9cdf-892826f5d0a9",
+    "data": [
+      {
+        "text": "Are there buses that go to the college?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515206803
+  }
+]

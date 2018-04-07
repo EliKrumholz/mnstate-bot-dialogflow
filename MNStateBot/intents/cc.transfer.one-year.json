@@ -1,0 +1,36 @@
+{
+  "id": "546aa7d4-d21f-48b0-9caf-2ae3ebc0fb81",
+  "name": "cc.transfer.one-year",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d39f0e7a-712e-42bf-a223-8b419b4a57bd",
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Yes, in some cases colleges and universities will allow transfer after one year. Most institutions will encourage you to complete two years before transfer. Completing two years of the curriculum will ensure that you do not interrupt course sequences."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518500099,
+  "fallbackIntent": false,
+  "events": []
+}

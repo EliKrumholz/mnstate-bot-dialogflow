@@ -1,0 +1,374 @@
+[
+  {
+    "id": "8fcc09b4-76bd-4ab9-a3fb-6414af281e28",
+    "data": [
+      {
+        "text": "como está o tempo em ",
+        "userDefined": false
+      },
+      {
+        "text": "São Paulo",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "esta manhã",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f0cffd01-a01a-4122-839c-8e3686190307",
+    "data": [
+      {
+        "text": "como está o tempo em ",
+        "userDefined": false
+      },
+      {
+        "text": "Roma",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c78d3c7-3b19-408c-b8e6-b30c005ea081",
+    "data": [
+      {
+        "text": "previsão do tempo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "88734e4f-d18f-4302-8aaa-0e0e5a24a0de",
+    "data": [
+      {
+        "text": "tempo em ",
+        "userDefined": false
+      },
+      {
+        "text": "São Paulo",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19a26619-11ed-443f-86ac-d58dc5208590",
+    "data": [
+      {
+        "text": "qual é a previsão do tempo em ",
+        "userDefined": false
+      },
+      {
+        "text": "Nova York",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " para ",
+        "userDefined": false
+      },
+      {
+        "text": "esta manhã",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "2c760c3f-b1f9-4edb-9b14-ede9eacf0bcc",
+    "data": [
+      {
+        "text": "clima em ",
+        "userDefined": false
+      },
+      {
+        "text": "Londres",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "em 5 dias",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "845383b5-3b5f-482d-8b8c-37fd14e63de8",
+    "data": [
+      {
+        "text": "clima em ",
+        "userDefined": false
+      },
+      {
+        "text": "Paris",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " em ",
+        "userDefined": false
+      },
+      {
+        "text": "Celsius",
+        "alias": "unit",
+        "meta": "@unit-temperature",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "761b8d81-1e37-49a3-8d22-cc8f138283f3",
+    "data": [
+      {
+        "text": "como está o clima em ",
+        "userDefined": false
+      },
+      {
+        "text": "Delft",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "346c71dc-0cd8-4500-b672-f5dfae1b4b0c",
+    "data": [
+      {
+        "text": "mostrar o clima para ",
+        "userDefined": false
+      },
+      {
+        "text": "hoje",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9abb7acb-e000-473b-92f6-4ea3b7c04b90",
+    "data": [
+      {
+        "text": "como estará o clima ",
+        "userDefined": false
+      },
+      {
+        "text": "amanhã",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " em ",
+        "userDefined": false
+      },
+      {
+        "text": "Campbell",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92d599e5-cee6-43c6-a8ec-28713fa90c94",
+    "data": [
+      {
+        "text": "como está o tempo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ca3a39a-b9ed-4030-bf21-f57cacd15c8f",
+    "data": [
+      {
+        "text": "tempo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa9ef6a9-5bfc-4afb-b2e0-fe4fb4c7b04a",
+    "data": [
+      {
+        "text": "como estará o clima ",
+        "userDefined": false
+      },
+      {
+        "text": "amanhã",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " em ",
+        "userDefined": false
+      },
+      {
+        "text": "Camberra",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "edfb2658-dfc0-4f66-8760-4d4dcb60ab46",
+    "data": [
+      {
+        "text": "você poderia me dizer a previsão do tempo para ",
+        "userDefined": false
+      },
+      {
+        "text": "Hong Kong",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d27a6686-d1b1-4461-8101-46bc735cc4c7",
+    "data": [
+      {
+        "text": "clima em ",
+        "userDefined": false
+      },
+      {
+        "text": "Durban",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "531f894b-63ac-4a5c-982a-b7b8d9dcfaa1",
+    "data": [
+      {
+        "text": "como está o clima na ",
+        "userDefined": false
+      },
+      {
+        "text": "Cidade do Cabo",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "775dbafd-3a21-4797-ad0e-27aad22b08ec",
+    "data": [
+      {
+        "text": "como está o clima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b917f00a-2c5c-4473-a993-fe606cea1806",
+    "data": [
+      {
+        "text": "clima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a57e36fe-7369-44c9-8799-3360139dea2d",
+    "data": [
+      {
+        "text": "clima em ",
+        "userDefined": false
+      },
+      {
+        "text": "Nirmal",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

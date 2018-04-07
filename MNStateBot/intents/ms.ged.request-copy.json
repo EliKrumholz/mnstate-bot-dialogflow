@@ -1,0 +1,28 @@
+{
+  "id": "18e24ac6-4ee6-4284-851a-6570ef384894",
+  "name": "ms.ged.request-copy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "To request a copy of your GED certificate, please call 651-748-6207"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518534937,
+  "fallbackIntent": false,
+  "events": []
+}

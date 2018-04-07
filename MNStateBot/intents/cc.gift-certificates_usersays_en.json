@@ -1,0 +1,31 @@
+[
+  {
+    "id": "c1094438-00f9-44d9-bb55-14a4b725827f",
+    "data": [
+      {
+        "text": "Can I purchase gift certificates?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519939231
+  },
+  {
+    "id": "01935d08-b4c6-42f5-967a-f17524de8675",
+    "data": [
+      {
+        "text": "Do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you have gift certificates available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519939231
+  }
+]

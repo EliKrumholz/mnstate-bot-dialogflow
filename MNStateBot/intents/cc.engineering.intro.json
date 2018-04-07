@@ -1,0 +1,28 @@
+{
+  "id": "9850d408-d50d-4ed3-9bb0-411d86e8ba52",
+  "name": "cc.engineering.intro",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Yes, the Introduction to Engineering (ENGR 1020) would be good. This class will introduce you to the engineering profession by having you work in teams on engineering design projects including the design and construction of a \"robot\"."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518500543,
+  "fallbackIntent": false,
+  "events": []
+}

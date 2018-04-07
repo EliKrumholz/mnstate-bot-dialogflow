@@ -1,0 +1,28 @@
+{
+  "id": "625ae9c5-3e9e-4295-89a4-0a8be9eeb3c7",
+  "name": "cc.reasonable-accommodation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The Access Center/Disability Services works with students with disabilities and Century College officials to resolve questions of \u0027reasonable accommodation\u0027 and other issues related to the college\u0027s compliance with disability laws.\nhttp://www.century.edu/support-services/assistive-services-century-college/disability-services\n\nAn accommodation is a modification or support that gives a student with a disability an equal opportunity to participate and benefit from Century College. Accommodations are adjustments to how things are usually done. The purpose of effective accommodations is to increase a student\u0027s chances for success."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518370937,
+  "fallbackIntent": false,
+  "events": []
+}

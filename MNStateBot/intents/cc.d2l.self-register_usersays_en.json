@@ -1,0 +1,45 @@
+[
+  {
+    "id": "2c487b0b-45ce-4a2a-ab9c-2d1cbfdeab59",
+    "data": [
+      {
+        "text": "Can I register myself for a course on D2L?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516685440
+  },
+  {
+    "id": "d97bb757-6266-400d-8705-e1d3420cadcf",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I Self-Register for a D2L ",
+        "userDefined": false
+      },
+      {
+        "text": "Brightspace",
+        "alias": "D2L",
+        "meta": "@D2L",
+        "userDefined": false
+      },
+      {
+        "text": " course?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516685440
+  }
+]

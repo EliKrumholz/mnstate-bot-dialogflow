@@ -1,0 +1,28 @@
+{
+  "id": "65c22371-bb26-4bd6-ae9a-0cd80d94a991",
+  "name": "cc.students.international.full-time",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "If you are admitted as a full-time (F1) student, you are required to take and complete a minimum of 12 semester credits each term you are enrolled at Century College. Students with F-1 visas who take less than a full course load may become out of status and risk penalties by the United States Citizenship and Immigration Services (USCIS), up to and including deportation.\n\nStudents on L, H, J, visas, etc. have different requirements for enrollment. Please see the International Student Admissions Representative with questions.\n\nFor more details on International Student Admission, click here:http://www.century.edu/admissions/international-student"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518508457,
+  "fallbackIntent": false,
+  "events": []
+}

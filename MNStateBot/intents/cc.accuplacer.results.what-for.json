@@ -1,0 +1,36 @@
+{
+  "id": "d6d83ca8-6d6d-4a65-85f1-76a78b271f01",
+  "name": "cc.accuplacer.results.what-for",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "46858d1a-7b5c-4d2f-a6ad-be87b2097295",
+          "dataType": "@exam",
+          "name": "exam",
+          "value": "$exam",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You will need to bring your results with you when you come to your new student orientation session. The results will assist the counselors and advisors in helping you sign up for the courses you need to start with at Century College.\n\nFor more information visit the Testing Center page: https://www.century.edu/admissions/testing-center"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518534518,
+  "fallbackIntent": false,
+  "events": []
+}

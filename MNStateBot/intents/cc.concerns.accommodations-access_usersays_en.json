@@ -1,0 +1,58 @@
+[
+  {
+    "id": "43b96df0-a10c-495c-9659-ceabc1d5a1e0",
+    "data": [
+      {
+        "text": "I have concerns about the accommodations at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518337526
+  },
+  {
+    "id": "8153407b-4cba-4f3d-8ba0-d59c8433a9fd",
+    "data": [
+      {
+        "text": "I\u0027m concerned about my access to ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1518337415
+  },
+  {
+    "id": "eed9c1f6-49ee-4b93-a5b3-e3e8b7df5b5c",
+    "data": [
+      {
+        "text": "What if I have a concern about my accommodations or access to programs, services, or activities?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518337415
+  }
+]

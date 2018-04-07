@@ -1,0 +1,28 @@
+{
+  "id": "41635d0d-8911-4a7b-8335-4728d75e79ce",
+  "name": "cc.bookstore.hours",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Standard running hours are \nMon - Thurs : 7:30AM - 6:00PM\nFri : 7:30AM - 3:00PM\nSat/Sun : CLOSED\nFor any exceptions or special events go to the bookstore main page by following this link: http://www.centurycollegebookstore.com/home.aspx"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516570454,
+  "fallbackIntent": false,
+  "events": []
+}

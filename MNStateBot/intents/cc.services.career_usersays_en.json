@@ -1,0 +1,79 @@
+[
+  {
+    "id": "6d06b202-ad16-4ebb-adf1-925de72f8c32",
+    "data": [
+      {
+        "text": "Do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " local employers ever come on campus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518536144
+  },
+  {
+    "id": "cff57d85-1191-4c28-b58e-1c5df1ec11f3",
+    "data": [
+      {
+        "text": "Is resume writing assistance available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518504531
+  },
+  {
+    "id": "be832c29-b351-4f81-8fd2-5b8ddd02ecdc",
+    "data": [
+      {
+        "text": "Can someone help me with my resume?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518334245
+  },
+  {
+    "id": "ef42ccb6-f9b6-4fcd-beb3-68b6afc66e6f",
+    "data": [
+      {
+        "text": "I need help making a cover letter.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518334245
+  },
+  {
+    "id": "48048937-6c8f-47b5-ad58-794c26604900",
+    "data": [
+      {
+        "text": "I need help preparing for an interview.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518334245
+  },
+  {
+    "id": "c7279cdc-8ed9-4f30-b32d-c71066fe740c",
+    "data": [
+      {
+        "text": "What is Career Services?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518334245
+  }
+]

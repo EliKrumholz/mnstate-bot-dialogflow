@@ -1,0 +1,37 @@
+{
+  "id": "df70971e-1ce7-421a-bbf6-e4565b807171",
+  "name": "cc.degrees-programs-number",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e131dc53-5f9a-4110-897d-caebc12b8dde",
+          "required": false,
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1512157213,
+  "fallbackIntent": false,
+  "events": []
+}

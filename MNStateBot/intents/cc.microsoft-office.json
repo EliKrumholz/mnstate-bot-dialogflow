@@ -1,0 +1,42 @@
+{
+  "id": "77a9dfd6-eedd-41c8-94ab-811313a8b8e3",
+  "name": "cc.microsoft-office",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8faf8f26-2e1e-453a-afaa-f3161dacd845",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "If you\u0027re a student or employee, you can download the software for free!\n\nFrom the computer you\u0027d like to install the software, login to myCentury using your Star ID information and click on the OneDrive tile on the home page.\n\nLogin to myCentury using your Star ID information and click on the OneDrive tile on the home page.\n\nClick on the Install Office 2016 button. \n\nA Microsoft set up file will begin to download on your computer. A window with installation instructions will appear on your screen. The installation package will be downloaded to your machine, and you will be prompted to run and install the package. Follow the rest of the installation instructions in the window.\n\n\nFor more information, check out this video: https://mediaspace.minnstate.edu/media/Students+-+6+-+Free+and+Reduced+SW.mp4/0_vagvp7ug",
+            "It\u0027s not too complicated but more than this computer can deal with. Go to this page for detailed instruction (and yes, it is free for Century employees and registered students): http://century.custhelp.com/app/answers/detail/a_id/558",
+            "Go here for the details! http://century.custhelp.com/app/answers/detail/a_id/558"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518117766,
+  "fallbackIntent": false,
+  "events": []
+}

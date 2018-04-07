@@ -1,0 +1,46 @@
+[
+  {
+    "id": "cccd22c0-dc56-469a-b5cc-78ba1805ba6b",
+    "data": [
+      {
+        "text": "Can I send a fax from ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518507032
+  },
+  {
+    "id": "70147888-b223-408d-b2b8-f0580a8082d9",
+    "data": [
+      {
+        "text": "Where can I send a fax at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518506948
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "e1d18751-f5f5-4656-846f-0166f272df01",
+    "data": [
+      {
+        "text": "How many messages have I sent?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507514283
+  },
+  {
+    "id": "b50bc62f-848f-465b-9ad8-1912115d70aa",
+    "data": [
+      {
+        "text": "Do you know how many times I\u0027ve messaged you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1aa696b7-fa4a-410f-8307-f9611c8bf102",
+    "data": [
+      {
+        "text": "How many times have I messaged you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fc55664d-3a19-433d-b88e-279ce9f219f2",
+    "data": [
+      {
+        "text": "How many messages have I made?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

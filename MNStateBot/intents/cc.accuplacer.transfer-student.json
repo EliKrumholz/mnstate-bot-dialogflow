@@ -1,0 +1,37 @@
+{
+  "id": "7dc136dc-691b-49a0-838b-000a50624f81",
+  "name": "cc.accuplacer.transfer-student",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3284a88d-fc03-43cb-99bd-1ab5f2372cae",
+          "required": false,
+          "dataType": "@exam",
+          "name": "exam",
+          "value": "$exam",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Students transferring college-level courses in English, Math and Reading or who have earned an Associate of Arts or Bachelor’s degree from a regionally accredited, United States college or university may not need to complete some parts of the aCCUPLACER Course Placement Test.\n\nContact DARS and Transfer Student Service at DARS@century.edu or 651-779-3908."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518533162,
+  "fallbackIntent": false,
+  "events": []
+}

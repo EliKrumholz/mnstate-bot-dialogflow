@@ -1,0 +1,28 @@
+{
+  "id": "5e10c31c-35be-4c26-8d02-f9770e482e98",
+  "name": "cc.registration",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Registration Quick Stop is focused on immediate registration needs. It is available during semester registrations for questions that can be addressed in less than 10 minutes in regards to these issues:\n\na. Questions about assessment scores and appropriate classes\nb. Changes in current semester schedule\nc. Basic questions about add/drop/withdrawal\nd. Graduation check (if 1 semester left before graduation)\ne. Financial Aid 150% max time appeal (if 1 semester left before graduation)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516670242,
+  "fallbackIntent": false,
+  "events": []
+}

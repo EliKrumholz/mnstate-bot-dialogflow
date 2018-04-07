@@ -1,0 +1,114 @@
+[
+  {
+    "id": "98fa65ae-4832-4a8c-9267-53f0ddf1bcd0",
+    "data": [
+      {
+        "text": "Do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you have the books I need in stock?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518497492
+  },
+  {
+    "id": "7dadfee3-4680-41da-a5a5-46f6844057e5",
+    "data": [
+      {
+        "text": "Can I rent books?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518371955
+  },
+  {
+    "id": "b25e195f-42c5-4d5e-8aa4-915e22c6aa6e",
+    "data": [
+      {
+        "text": "Do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you have the books I need in stock or ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you have used copies?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518371955
+  },
+  {
+    "id": "b78973df-8e6d-4a5f-ac1f-0586ece0b091",
+    "data": [
+      {
+        "text": "Does Century College sell used books?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518371955
+  },
+  {
+    "id": "0a1f0715-b487-4609-9027-9fa17f27fd17",
+    "data": [
+      {
+        "text": "What books ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I need for class?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516570124
+  },
+  {
+    "id": "329b531a-7bc9-4fac-a795-fb6f6b6c8697",
+    "data": [
+      {
+        "text": "Where is the book store?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516570124
+  },
+  {
+    "id": "73334e95-f503-4705-8d1a-443f7203a654",
+    "data": [
+      {
+        "text": "Where can I get my text books?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516570124
+  }
+]

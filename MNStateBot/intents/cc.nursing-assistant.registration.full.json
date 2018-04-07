@@ -1,0 +1,28 @@
+{
+  "id": "d3844b43-8f07-4f6e-b130-e8523d5008e9",
+  "name": "cc.nursing-assistant.registration.full",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "If the credit courses are full, please visit the CE/CT website for additional options. The number of NA courses offered for credit each semester is limited. You may continue to check the website for openings. If you do not need to enroll for credit, you may also refer to the CE/CT website to determine if additional seats are available in the non‐credit course."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518535355,
+  "fallbackIntent": false,
+  "events": []
+}

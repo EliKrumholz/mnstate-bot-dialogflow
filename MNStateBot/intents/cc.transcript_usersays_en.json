@@ -1,0 +1,194 @@
+[
+  {
+    "id": "14094a2f-580a-49d3-adf1-2479827e4cae",
+    "data": [
+      {
+        "text": "I want my transcript",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514406794
+  },
+  {
+    "id": "0235074a-f365-4fd6-a505-949b7bee9ff0",
+    "data": [
+      {
+        "text": "I want my transcript. What ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "alias": "degrees",
+        "meta": "@degrees",
+        "userDefined": false
+      },
+      {
+        "text": " I need to do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514406794
+  },
+  {
+    "id": "d2c2a31d-62ce-4040-83f1-e395c849c25b",
+    "data": [
+      {
+        "text": "Can you send me my transcript",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514406794
+  },
+  {
+    "id": "17b2e337-ebfc-4bdc-aef4-31b26917e761",
+    "data": [
+      {
+        "text": "Can I have you send me my transcript",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514406794
+  },
+  {
+    "id": "af896d4b-560c-4bb0-9a51-1e2e938cb7e5",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "alias": "degrees",
+        "meta": "@degrees",
+        "userDefined": false
+      },
+      {
+        "text": " I order my transcript",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514406794
+  },
+  {
+    "id": "0ea69bc3-e338-4cb3-b628-d271b190101c",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "alias": "degrees",
+        "meta": "@degrees",
+        "userDefined": false
+      },
+      {
+        "text": " I need to do to get my transcript",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1514406794
+  },
+  {
+    "id": "672b53bf-ea41-4f4a-80f0-a56ff8a95456",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "alias": "degrees",
+        "meta": "@degrees",
+        "userDefined": false
+      },
+      {
+        "text": " I order a transcript",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514406794
+  },
+  {
+    "id": "96fbb349-8a52-40de-8f40-f08efbb06e25",
+    "data": [
+      {
+        "text": "Can I order a transcript",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514406794
+  },
+  {
+    "id": "ab975196-a477-4c00-b8a7-522710caddc2",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "alias": "degrees",
+        "meta": "@degrees",
+        "userDefined": false
+      },
+      {
+        "text": " I get my hands on a transcript",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514406794
+  },
+  {
+    "id": "529e6c99-aea3-4eb8-abef-e30435a36e96",
+    "data": [
+      {
+        "text": "How can I order a transcript",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514406794
+  },
+  {
+    "id": "9c98ff09-cf83-459a-ba68-e6262bfc586e",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "alias": "degrees",
+        "meta": "@degrees",
+        "userDefined": false
+      },
+      {
+        "text": " I get a transcript",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514406794
+  }
+]

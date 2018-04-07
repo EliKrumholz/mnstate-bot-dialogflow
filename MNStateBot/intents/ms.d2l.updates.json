@@ -1,0 +1,37 @@
+{
+  "id": "c423f5da-6e18-4b76-9c5b-50d579a28ae5",
+  "name": "ms.d2l.updates",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "376ba170-7c0c-4b83-a2e5-a43d9f5d1bb6",
+          "required": false,
+          "dataType": "@D2L",
+          "name": "D2L",
+          "value": "$D2L",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can view a full list of updates here: http://status.mnscu.edu/desire2learn/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518121272,
+  "fallbackIntent": false,
+  "events": []
+}

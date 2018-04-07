@@ -1,0 +1,70 @@
+[
+  {
+    "id": "73842d01-d3f6-4240-bd85-0a9d5e837561",
+    "data": [
+      {
+        "text": "What’s ",
+        "userDefined": false
+      },
+      {
+        "text": "century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "’s color?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7c45046d-6e5c-4030-87c0-b9f92c91e003",
+    "data": [
+      {
+        "text": "What color are the Century uniforms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1511826890
+  },
+  {
+    "id": "6219f9e4-3755-4906-9ef3-4021f0b4a68d",
+    "data": [
+      {
+        "text": "What are ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s colors?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1511826890
+  },
+  {
+    "id": "1221ecfe-784b-4d43-99dc-7e53fd1ee4e3",
+    "data": [
+      {
+        "text": "What colors are the Century teams?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1511826890
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": "ef7064aa-7235-4aaa-83c4-bd6d7d33746b",
+  "name": "small_talk.color",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "No one has asked that before. Thanks. Steel grey.",
+            "I like platinum.."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522767947,
+  "fallbackIntent": false,
+  "events": []
+}

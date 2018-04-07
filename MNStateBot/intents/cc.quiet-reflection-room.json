@@ -1,0 +1,28 @@
+{
+  "id": "f64c83f0-0558-4f81-9abc-71b08e996017",
+  "name": "cc.quiet-reflection-room",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The Quiet Reflection Room (West campus, W3145) is a non-denominational space for individuals in the Century College campus community to come and spend time in personal reflection.\n\nAll are welcome to use the space-we just ask that you are respectful of others.\n\nThe Quiet Reflection Room is not scheduled and is unlocked and open for use during building hours. Use common courtesy if you see someone waiting to use the area.\n\nThe room is to be used by individuals, NOT GROUPS.\n\nHandouts, books, or materials of any kind are not to be displayed or posted in the Reflection Room.\n\nTHIS IS NOT A STUDY SPACE. Please use other spaces on campus for studying."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518506905,
+  "fallbackIntent": false,
+  "events": []
+}

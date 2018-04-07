@@ -1,0 +1,28 @@
+{
+  "id": "e218b97b-704a-4c19-adb1-a0c077f5d12e",
+  "name": "cc.mntc-requirements",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "View the requirements at: http://www.century.edu/currentstudents/transferservices/mntc.aspx"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518338426,
+  "fallbackIntent": false,
+  "events": []
+}

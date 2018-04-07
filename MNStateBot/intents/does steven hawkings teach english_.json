@@ -1,0 +1,51 @@
+{
+  "id": "ddc26026-92bc-4b32-bff9-485d33dc57b4",
+  "name": "does steven hawkings teach english?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "test.ms.faculty.instructs.course",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "114933b6-34a8-42bd-9ad0-e622ab5bb871",
+          "dataType": "@fName",
+          "name": "fName",
+          "value": "$fName",
+          "isList": false
+        },
+        {
+          "id": "1490a01a-c1cf-411e-baf5-33a03c44c5e3",
+          "dataType": "@lName",
+          "name": "lName",
+          "value": "$lName",
+          "isList": false
+        },
+        {
+          "id": "6dc50ffb-973f-4af1-bf67-cd7ca584d138",
+          "dataType": "@courses",
+          "name": "courses",
+          "value": "$courses",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1521165738,
+  "fallbackIntent": false,
+  "events": []
+}

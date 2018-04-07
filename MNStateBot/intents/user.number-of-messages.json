@@ -1,0 +1,29 @@
+{
+  "id": "a483c275-4177-4c22-978f-bf78ba65a34f",
+  "name": "user.number-of-messages",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "user.message_count",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507514283,
+  "fallbackIntent": false,
+  "events": []
+}

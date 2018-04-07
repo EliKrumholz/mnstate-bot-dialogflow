@@ -1,0 +1,152 @@
+[
+  {
+    "id": "757581f3-d54b-497c-8db5-13f81ec905e8",
+    "data": [
+      {
+        "text": "is it the ",
+        "userDefined": false
+      },
+      {
+        "text": "21st of February",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1021e174-afab-4a79-959e-21f955056d2f",
+    "data": [
+      {
+        "text": "is today the ",
+        "userDefined": false
+      },
+      {
+        "text": "28th",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e315b0c4-43fb-4cdd-898b-cdd5b7a787ca",
+    "data": [
+      {
+        "text": "I\u0027d like to know if it\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "January 2018",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dbba12cb-a9f0-4381-a682-e3878bb1a988",
+    "data": [
+      {
+        "text": "check if it\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "Monday",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Luxembourg",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17b9be16-dd93-4281-9c68-2efd27aa60c0",
+    "data": [
+      {
+        "text": "tell me is it ",
+        "userDefined": false
+      },
+      {
+        "text": "September 8",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Munich",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ae54b6d-ebee-4de7-9ce7-ac2074b8beda",
+    "data": [
+      {
+        "text": "is it ",
+        "userDefined": false
+      },
+      {
+        "text": "June 19th",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc231044-33f1-4e64-825d-96b098972a65",
+    "data": [
+      {
+        "text": "are we in ",
+        "userDefined": false
+      },
+      {
+        "text": "March 2017",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

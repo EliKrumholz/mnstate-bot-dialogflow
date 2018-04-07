@@ -1,0 +1,60 @@
+[
+  {
+    "id": "188e6779-6506-4e46-9749-2385287dd83a",
+    "data": [
+      {
+        "text": "What kind of hardware is available to students?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518336470
+  },
+  {
+    "id": "c6c90402-57ce-4a87-815e-afb3641cb7e4",
+    "data": [
+      {
+        "text": "Is there discounted \bsoftware available for students and faculty?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518336470
+  },
+  {
+    "id": "112980ba-30af-4961-808c-d3e83cc8681b",
+    "data": [
+      {
+        "text": "What free software is available for students?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518336470
+  },
+  {
+    "id": "b75077ea-e5a9-43d8-aaf5-9c1d453905fd",
+    "data": [
+      {
+        "text": "Does ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": " offer discounted or free software/hardware to students and employees?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518336470
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "id": "5fb2b685-a9c2-477f-bfb3-c630916477c6",
+  "name": "ms.financial-aid.apply",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "The application process involves three steps: 1. Gather the required documents and references ahead of time; 2. Fill out, sign and submit the electronic application form.3. Track, view, print and update your Student Aid Report (SAR). This page has more details: https://mygpslifeplan.org/app/answers/detail/a_id/4830",
+            "Sorry, it\u0027s more complicated than this Computer can say quickly and succinctly. If you go the following site, you will be better informed. https://mygpslifeplan.org/app/answers/detail/a_id/4830",
+            "The best way will be to fill out the Free Application for Financial Student Aid, or FAFSA, here: https://fafsa.ed.gov/"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515099848,
+  "fallbackIntent": false,
+  "events": []
+}

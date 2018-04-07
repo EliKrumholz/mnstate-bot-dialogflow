@@ -1,0 +1,28 @@
+{
+  "id": "a6c596d8-1f26-4b2e-981a-010e5a0847d6",
+  "name": "cc.career-assessment-test",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The Career and Life Planning Process (https://www.youtube.com/watch?v\u003dnE6ejYeC00w) includes self-assessment and research.  We provide many resources to help you on this journey including skills, interests and other assessments.  To view a list of these options, go to Career Exploration.\nhttps://www.century.edu/support-services/career-planning/career-exploration"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518536304,
+  "fallbackIntent": false,
+  "events": []
+}

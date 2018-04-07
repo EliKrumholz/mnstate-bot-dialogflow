@@ -1,0 +1,36 @@
+{
+  "id": "e9f92a1d-0ca9-406d-a7fc-9fe99f38511c",
+  "name": "cc.accuplacer.prepare",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5ec78255-4de2-42c8-b6aa-60000b815829",
+          "dataType": "@exam",
+          "name": "exam",
+          "value": "$exam",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There are a lot of great resources out there to help you prepare for the ACCUPLACER!\nThey\u0027re consolidated here: http://century.custhelp.com/app/answers/detail/a_id/58"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518120409,
+  "fallbackIntent": false,
+  "events": []
+}

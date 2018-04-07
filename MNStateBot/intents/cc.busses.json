@@ -1,0 +1,34 @@
+{
+  "id": "c45655c7-bca7-41f9-ba5f-e7dbe0743efd",
+  "name": "cc.busses",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ccbusses-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Yes, public transportation is available. Buses typically run through St. Paul or the transit station at Maplewood Mall. There are bus stops right on campus and along Century Avenue. Metro Transit has a great web site where you can plot your bus rides.  You can enter your starting and ending destination and it will provide schedule and route details options.  To plan and view routes, visit http://www.metrotransit.org/. You can also purchase bus passes in the campus bookstore. Learn more at: http://century.custhelp.com/app/answers/detail/a_id/162"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518335178,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "240fcabf-c458-44f6-86f8-6c4293deef2b",
+  "name": "cc.pull-part-time",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "At Century College, a full-time student takes 12 credits or more/semester. A part-time students takes 11 credits or less/semester."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518119735,
+  "fallbackIntent": false,
+  "events": []
+}

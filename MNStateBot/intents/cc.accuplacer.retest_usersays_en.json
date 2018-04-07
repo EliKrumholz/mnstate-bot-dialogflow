@@ -1,0 +1,99 @@
+[
+  {
+    "id": "e4d36611-d7e7-47b8-be56-8e9f4f492c9b",
+    "data": [
+      {
+        "text": "How long ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I have to wait to take the ",
+        "userDefined": false
+      },
+      {
+        "text": "accuplacer",
+        "alias": "exam",
+        "meta": "@exam",
+        "userDefined": false
+      },
+      {
+        "text": " again?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518333365
+  },
+  {
+    "id": "0781018a-96a5-47dd-b2ed-d58fa6298873",
+    "data": [
+      {
+        "text": "Is there a fee to retake the ",
+        "userDefined": false
+      },
+      {
+        "text": "accuplacer",
+        "alias": "exam",
+        "meta": "@exam",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518333365
+  },
+  {
+    "id": "789763d7-0349-4794-83a0-106dd440be8b",
+    "data": [
+      {
+        "text": "I need to retake the ",
+        "userDefined": false
+      },
+      {
+        "text": "accuplacer",
+        "alias": "exam",
+        "meta": "@exam",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518333365
+  },
+  {
+    "id": "5ca345c1-312d-49dd-82ad-e7d1da0cf41f",
+    "data": [
+      {
+        "text": "How many times can I take the ",
+        "userDefined": false
+      },
+      {
+        "text": "ACCUPLACER",
+        "alias": "exam",
+        "meta": "@exam",
+        "userDefined": false
+      },
+      {
+        "text": " Course Placement Test?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518333365
+  }
+]

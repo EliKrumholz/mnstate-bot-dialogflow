@@ -1,0 +1,76 @@
+[
+  {
+    "id": "b35eadd0-a7de-44c5-8e3b-d3efbf131b36",
+    "data": [
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": " programs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e71c619-981f-42e5-a299-7078ab517ee7",
+    "data": [
+      {
+        "text": "What programs are offered at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518250813
+  },
+  {
+    "id": "27dbd3f8-b128-4a44-a734-e423d00967d4",
+    "data": [
+      {
+        "text": "What can I study at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518250813
+  },
+  {
+    "id": "69273caa-694c-455c-b189-4b1ebc009208",
+    "data": [
+      {
+        "text": "programs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

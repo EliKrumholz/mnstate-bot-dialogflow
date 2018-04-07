@@ -1,0 +1,28 @@
+{
+  "id": "3eba43ab-8619-4fa5-a70e-c747ed83a643",
+  "name": "cc.online-readiness",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "If you want to take a quick quiz to find out, go here and take a quick quiz. It might give you a little insight. http://www.minnstate.edu/online/distancelearningquiz\n\nAdditionally, the READI Assessment Survey is a web-based assessment tool for determining students’ level of readiness for taking online or blended courses. The assessment takes about 20 minutes.\n\nAfter completion, you\u0027ll receive a report with customized feedback and targeted resources itemizing your strengths and weaknesses in preparation for online learning.\n\nLogin\n\nThe following login information is needed to access Century\u0027s READI Assessment Survey:\n\nCentury READI Assessment Survey Website\n\nUsername: centurystudent\n\nPassword: century\n\nCheck this page out. It has study tips AND a link to an \"Online Study Skills.\" https://mygpslifeplan.org/app/answers/detail/a_id/4838/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518502654,
+  "fallbackIntent": false,
+  "events": []
+}

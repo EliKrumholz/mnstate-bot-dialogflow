@@ -1,0 +1,68 @@
+[
+  {
+    "id": "fd0d533b-62cf-4ad4-8f11-92c518ccda1e",
+    "data": [
+      {
+        "text": "What steps to I take to apply at Century College?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518248131
+  },
+  {
+    "id": "f0b15bba-ce98-464f-9368-a75b0937c203",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "alias": "degrees",
+        "meta": "@degrees",
+        "userDefined": false
+      },
+      {
+        "text": " I apply to ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518248131
+  },
+  {
+    "id": "f0d1e386-9c88-4071-b5d0-3eb0d3d6c245",
+    "data": [
+      {
+        "text": "How can I apply to ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518248131
+  }
+]

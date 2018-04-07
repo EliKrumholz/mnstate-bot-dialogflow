@@ -1,0 +1,28 @@
+{
+  "id": "ce74afbc-72bf-4b02-9e81-e05b08a91d3a",
+  "name": "cc.studentid-lookup",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "If you know your StarID and password, visit eservices: https://eservices.minnstate.edu/eservices/login.html?campusid\u003d304\nYour student ID will be displayed near the top of the screen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518252060,
+  "fallbackIntent": false,
+  "events": []
+}

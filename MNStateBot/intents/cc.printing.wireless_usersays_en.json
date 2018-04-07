@@ -1,0 +1,65 @@
+[
+  {
+    "id": "dd500e6a-8b51-4a47-8c29-6e6e11f0bd8a",
+    "data": [
+      {
+        "text": "Do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I have to print from the school computers?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518118678
+  },
+  {
+    "id": "76f65450-0f90-4c94-89da-6fb068a2d146",
+    "data": [
+      {
+        "text": "Does ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": " have wireless printing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518118678
+  },
+  {
+    "id": "114881ea-3c81-4a2a-9213-45bd6270eb16",
+    "data": [
+      {
+        "text": "Is there a way to print from my laptop?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518118678
+  },
+  {
+    "id": "5901217c-e2f1-4f44-aa12-c9c7a81ab64e",
+    "data": [
+      {
+        "text": "Can I print from my laptop?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518118678
+  }
+]

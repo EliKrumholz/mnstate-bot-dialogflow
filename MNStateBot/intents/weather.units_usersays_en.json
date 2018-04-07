@@ -1,0 +1,148 @@
+[
+  {
+    "id": "1dd39411-47a6-44d8-85e4-d21428db1dfd",
+    "data": [
+      {
+        "text": "change temperature units",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510347669
+  },
+  {
+    "id": "a70e92f0-1d05-4af5-b840-4274e7419237",
+    "data": [
+      {
+        "text": "switch degrees to ",
+        "userDefined": false
+      },
+      {
+        "text": "C",
+        "alias": "unit",
+        "meta": "@unit-temperature",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1c969f50-7366-40cf-bc01-2541d24190c5",
+    "data": [
+      {
+        "text": "can you say it in ",
+        "userDefined": false
+      },
+      {
+        "text": "C",
+        "alias": "unit",
+        "meta": "@unit-temperature",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f8b956a2-c91c-41d1-bda1-646fdb3cb067",
+    "data": [
+      {
+        "text": "switch weather units",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510347669
+  },
+  {
+    "id": "03548a5b-0dba-43b4-b722-d0363eaa4bd7",
+    "data": [
+      {
+        "text": "weather in ",
+        "userDefined": false
+      },
+      {
+        "text": "Fahrenheit degrees",
+        "alias": "unit",
+        "meta": "@unit-temperature",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2eb642cd-705b-404f-aa30-c9733645eead",
+    "data": [
+      {
+        "text": "tell me weather in ",
+        "userDefined": false
+      },
+      {
+        "text": "Celsius",
+        "alias": "unit",
+        "meta": "@unit-temperature",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510347669
+  },
+  {
+    "id": "63a012ed-bfe8-4658-bc8b-df3f5a80aee6",
+    "data": [
+      {
+        "text": "switch to ",
+        "userDefined": false
+      },
+      {
+        "text": "F",
+        "alias": "unit",
+        "meta": "@unit-temperature",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510347669
+  },
+  {
+    "id": "0b1dbea0-f9f1-41b7-88e3-cb287eb6d4bd",
+    "data": [
+      {
+        "text": "what\u0027s the weather in ",
+        "userDefined": false
+      },
+      {
+        "text": "F",
+        "alias": "unit",
+        "meta": "@unit-temperature",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "66efb9b0-8839-498b-87c7-d9c092e32465",
+    "data": [
+      {
+        "text": "show weather in ",
+        "userDefined": false
+      },
+      {
+        "text": "F",
+        "alias": "unit",
+        "meta": "@unit-temperature",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510347669
+  }
+]

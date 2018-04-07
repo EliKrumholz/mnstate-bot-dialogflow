@@ -1,0 +1,272 @@
+[
+  {
+    "id": "dc8fe376-1fa7-45e4-aed4-5afbf9785afc",
+    "data": [
+      {
+        "text": "servirà un ",
+        "userDefined": false
+      },
+      {
+        "text": "ombrello",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "venerdì prossimo",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "Parigi",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11142b9c-4b94-427b-8a7b-522b3c88e73f",
+    "data": [
+      {
+        "text": "metto l\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "impermeabile",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec49ebe8-7054-43a0-9086-569ec02ddc31",
+    "data": [
+      {
+        "text": "ho bisogno dei ",
+        "userDefined": false
+      },
+      {
+        "text": "guanti",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "oggi",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5511d54e-c826-48b4-b074-4bc8fcdc22e4",
+    "data": [
+      {
+        "text": "mi serve un ",
+        "userDefined": false
+      },
+      {
+        "text": "giubbotto",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "oggi",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba37d3fe-568b-480d-a624-ce5f01f60aba",
+    "data": [
+      {
+        "text": "mi servono i ",
+        "userDefined": false
+      },
+      {
+        "text": "guanti",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84887020-42c6-46b3-b15a-ba5e121b6e01",
+    "data": [
+      {
+        "text": "devo prendere l\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "ombrello",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "596b392a-1cd8-4a61-acbe-db5b4888cc86",
+    "data": [
+      {
+        "text": "devo prendere l\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "ombrello",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "oggi",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "02f11484-5024-4772-b113-f203658b2a56",
+    "data": [
+      {
+        "text": "mi servirà il ",
+        "userDefined": false
+      },
+      {
+        "text": "giubbotto",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "domani",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1cb6fa48-1486-453e-8709-2bfebd4451d7",
+    "data": [
+      {
+        "text": "oggi a ",
+        "userDefined": false
+      },
+      {
+        "text": "Londra",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " mi serviranno i ",
+        "userDefined": false
+      },
+      {
+        "text": "guanti",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc0a22af-d306-42fc-bc63-13dbc7577d75",
+    "data": [
+      {
+        "text": "mi serve un ",
+        "userDefined": false
+      },
+      {
+        "text": "giubbotto",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "oggi",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "Mosca",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

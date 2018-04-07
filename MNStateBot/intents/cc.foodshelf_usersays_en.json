@@ -1,0 +1,35 @@
+[
+  {
+    "id": "d7e52270-cc5a-483c-837a-01a4aa910dda",
+    "data": [
+      {
+        "text": "Is there a community food shelf in the area?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516570955
+  },
+  {
+    "id": "be98c1ce-d5ee-4d3f-be49-7e8136a85072",
+    "data": [
+      {
+        "text": "Does ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " have a food shelf?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516570955
+  }
+]

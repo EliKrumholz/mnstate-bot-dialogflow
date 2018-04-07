@@ -1,0 +1,28 @@
+{
+  "id": "59762786-cca6-461d-9aa9-5beb01669b08",
+  "name": "cc.courses.add",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Courses may be added the first 5 days of fall and spring semesters (an instructor\u0027s signature is required after the third day) and the first 3 days of the summer session (an instructor\u0027s signature is required once the class has started).  If you want to add a class after these deadlines, you will also need the signature of the Vice President of Acdemic Affairs (W 3239) in order for the Records Office to process the registration.  You are required to pay all tuition and fees for any registered courses."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518498187,
+  "fallbackIntent": false,
+  "events": []
+}

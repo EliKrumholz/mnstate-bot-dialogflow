@@ -1,0 +1,56 @@
+[
+  {
+    "id": "8c0e1cb4-96e9-42ed-8cba-fb4946fcdec0",
+    "data": [
+      {
+        "text": "I\u0027m having trouble logging in to my DARS.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518368956
+  },
+  {
+    "id": "76eebda3-d93c-4dfc-871f-7d6b095a1849",
+    "data": [
+      {
+        "text": "I\u0027\u0027d like to report an error with DARS.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518368956
+  },
+  {
+    "id": "6a46d26d-686a-4fb8-ae3b-303cb5725916",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " if I have trouble accessing my Degree Audit Report, receive an error message or wish to report an error?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518368956
+  }
+]

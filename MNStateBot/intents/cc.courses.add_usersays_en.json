@@ -1,0 +1,59 @@
+[
+  {
+    "id": "fcc2a6f2-3997-4578-96e8-3791b88e2566",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I need to do to add a class?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518498170
+  },
+  {
+    "id": "09b3eb50-d13f-4e7b-85ab-dfcad2634d3d",
+    "data": [
+      {
+        "text": "Can you help me add a class?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518498170
+  },
+  {
+    "id": "1e5d11f6-d608-4ea0-a43d-2bc9c2a7b330",
+    "data": [
+      {
+        "text": "I\u0027d like to add a class",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518498170
+  },
+  {
+    "id": "df509484-7bc9-40f2-8fc4-43e2aee53ffe",
+    "data": [
+      {
+        "text": "When is the last day to add a class?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518498170
+  }
+]

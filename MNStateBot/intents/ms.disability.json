@@ -1,0 +1,28 @@
+{
+  "id": "546c5def-5754-4922-a3a4-aaac9209569a",
+  "name": "ms.disability",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "An individual with a disability is any person who:\n\n    Has a physical, mental or emotional impairment, that substantially or materially limits one or more of their major life activities;\n    Has a record of such an impairment; or\n    Is regarded as having an impairment.\n\nFor more information on this topic, visit Disability Services.\nhttp://www.century.edu/support-services/assistive-services-century-college/disability-services"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518539112,
+  "fallbackIntent": false,
+  "events": []
+}

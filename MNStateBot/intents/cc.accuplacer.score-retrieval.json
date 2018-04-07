@@ -1,0 +1,45 @@
+{
+  "id": "2c8a6690-b7c0-4d00-8c79-7bde4a67713d",
+  "name": "cc.accuplacer.score-retrieval",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "407d62fc-8f4c-41e6-b916-86fad1147292",
+          "required": false,
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        },
+        {
+          "id": "f8bf0c5f-82a2-4cb1-a08a-91de6d59021a",
+          "required": false,
+          "dataType": "@exam",
+          "name": "exam",
+          "value": "$exam",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "If you have applied to Century College and took the Accuplacer at Century College or at any of the Minnesota State System schools, your scores should be in our system.\nYou can stop in room W2470 with a photo ID to pick up another copy.\nhttp://www.minnstate.edu/collegesearch/index.php/institution/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518499086,
+  "fallbackIntent": false,
+  "events": []
+}

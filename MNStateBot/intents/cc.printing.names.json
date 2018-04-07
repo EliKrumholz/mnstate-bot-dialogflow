@@ -1,0 +1,36 @@
+{
+  "id": "14d68c4c-4079-42e3-9abd-090d2d5dca3d",
+  "name": "cc.printing.names",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7b2f5f23-3905-4b33-a7b8-fbabf709648a",
+          "dataType": "@degrees",
+          "name": "degrees",
+          "value": "$degrees",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Century College has a standard printer naming convention for all campus printers. Printers are named and labeled first by room number then by printer model number. There are 3 printers in each computer center labeled for easy verification.\n\nEast:\n\n    E1710-7535 - This is the main color printer in the East Campus Computer Center.\n    E1710-5775 - This is the main black \u0026 white printer in the East Campus Computer Center.\n    E1710-602 - This is the backup black \u0026 white printer in the East Campus Computer Center. There will be signs posted within the computer center and an announcement made when this printer is to be used.\n\nWest:\n\n    W3165-7535 - This is the main color printer in the West Campus Computer Center.\n    W3165-5775 - This is the main black \u0026 white printer in the West Campus Computer Center.\n    W3165-602 - This is the backup black \u0026 white printer in the West Campus Computer Center. There will be signs posted within the computer center and an announcement made when this printer is to be used."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518505305,
+  "fallbackIntent": false,
+  "events": []
+}

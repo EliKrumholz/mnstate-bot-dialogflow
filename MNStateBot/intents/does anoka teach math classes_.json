@@ -1,0 +1,46 @@
+{
+  "id": "fc9bad4a-4a4e-467f-890a-07820533a101",
+  "name": "does anoka teach math classes?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "test.ms.departments.offers",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "54f1ecc9-477b-472c-89a8-290c07fca905",
+          "required": false,
+          "dataType": "@College",
+          "name": "College",
+          "value": "$College",
+          "isList": false
+        },
+        {
+          "id": "7e34865e-c313-4a15-a395-99d1ff6a0f8f",
+          "required": false,
+          "dataType": "@courses",
+          "name": "courses",
+          "value": "$courses",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1520829604,
+  "fallbackIntent": false,
+  "events": []
+}

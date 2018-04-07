@@ -1,0 +1,28 @@
+{
+  "id": "b2a5f66a-5783-494b-8eb3-887429ea6ba5",
+  "name": "cc.courses.repeat",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can repeat a course to improve a grade.  Only the latest grade on file is calculated into your cumulative GPA; however, all grades will appear on your transcript.  You may petition to repeat using a substitute course if the original course is not available. You must fill out a \"Repeat of Course\" form and turn it into the Records Office.\nhttps://www.century.edu/sites/default/files/records-repeatofcourse.pdf\n\nNote:  If you plan on transferring to another institution, you will want to see how your repeated grade will be considered.  It may be possible that both grades will be calculated."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518332703,
+  "fallbackIntent": false,
+  "events": []
+}

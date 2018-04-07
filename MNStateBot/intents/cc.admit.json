@@ -1,0 +1,42 @@
+{
+  "id": "a191f52a-80ed-4b14-bb8e-a631dc0e0df1",
+  "name": "cc.admit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "81b29131-30bf-4542-9a03-be2d290bb0e5",
+          "required": false,
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Century\u0027s admission reps are just a phone call away. You can call them at: 651-773-1700 or 800-228-1978 or send an email to: admissions@century.edu",
+            "You can call 651-773-1700 or 800-228-1978 or send an email to: admissions@century.edu.  This is Centuryi\u0027s Admissions.",
+            "Not to put you off, but if you go to our Century website you can get a lot more info like phone numbers, chat or hours.  https://www.century.edu/admissions",
+            "Give a Century rep a call or email at: 651-773-1700 or 800-228-1978 or send an email to: admissions@century.edu.  If you are interested in some of the other colleges,"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518122033,
+  "fallbackIntent": false,
+  "events": []
+}

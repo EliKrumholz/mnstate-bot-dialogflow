@@ -1,0 +1,28 @@
+{
+  "id": "21633213-a242-43ad-94f0-cf5ba54675a6",
+  "name": "cc.wait-list",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Some classes at Century College do have a wait list when a class is full.  The wait list for these classes is available through the online registration system by clicking on the wait list button.  You will be notified via email (the system will use your Century College email) that a spot has opened up but you will need to actually go in and register (it will NOT register you automatically).  \n\nThe waitlist is turned off the evening before the start of each term. Wait-listing is not available for late start courses."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518330699,
+  "fallbackIntent": false,
+  "events": []
+}

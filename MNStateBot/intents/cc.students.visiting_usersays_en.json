@@ -1,0 +1,38 @@
+[
+  {
+    "id": "51777273-2746-4e21-9598-aec3668534f1",
+    "data": [
+      {
+        "text": "How can I attend classes as a visiting student?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518334596
+  },
+  {
+    "id": "6cdc88fd-c409-4bfb-bbec-0acf73db5889",
+    "data": [
+      {
+        "text": "I need to register as a visiting student.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518334596
+  },
+  {
+    "id": "d5a09a8a-732c-466f-9f2e-1454c3c55653",
+    "data": [
+      {
+        "text": "How do I register and attend Century College as a visiting student?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518334596
+  }
+]

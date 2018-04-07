@@ -1,0 +1,28 @@
+{
+  "id": "38cf9420-9f39-401b-b22e-8e7f88016476",
+  "name": "cc.financial-aid.availability",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Many students are eligible for financial aid. Loans, grants and scholarships are all available for qualified students. Financial aid cannot be used for Continuing Education and Customized Training (CECT) courses. Follow this link to find out more: http://www.century.edu/currentstudents/financialaid/default.aspx"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516564511,
+  "fallbackIntent": false,
+  "events": []
+}

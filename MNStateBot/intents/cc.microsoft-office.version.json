@@ -1,0 +1,50 @@
+{
+  "id": "a50c58a6-18be-403b-8af3-bca69a004fc0",
+  "name": "cc.microsoft-office.version",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "dea05ef4-cd36-42ca-965a-49c3c1b443f4",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "e6816918-8435-4127-b1a8-8dc85a03af22",
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        },
+        {
+          "id": "d5aef030-51bb-4166-996c-b0f862334949",
+          "dataType": "@sys.number",
+          "name": "number1",
+          "value": "$number1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Before you can install Office 2016 on your personal PC or Mac, you will need to uninstall any existing Microsoft Office product (e.g. Office 2010, Office 2013). Office 2016 will not install on your computer if there is an existing Office product installed.\n\nFor a video tutorial of how to install Office 2016 from your Microsoft Office 365 account, watch Century\u0027s Students - Free and Reduced Software video: https://mediaspace.minnstate.edu/media/Students+-+6+-+Free+and+Reduced+SW.mp4/0_vagvp7ug"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518499893,
+  "fallbackIntent": false,
+  "events": []
+}

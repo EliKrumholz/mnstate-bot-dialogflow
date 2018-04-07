@@ -1,0 +1,28 @@
+{
+  "id": "ec9bfc8f-4777-4122-a797-dca56fddf713",
+  "name": "cc.courses.honors",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Honors: The Honors Program offers a number of courses each semester for talented students that are interested in seminar-like classes. See the list of course here:\nhttp://www.century.edu/academics/learning-opportunities/honors-program"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518503643,
+  "fallbackIntent": false,
+  "events": []
+}

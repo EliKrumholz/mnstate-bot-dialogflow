@@ -1,0 +1,28 @@
+{
+  "id": "ca75f24b-af95-4810-8499-a23bb8f0013c",
+  "name": "cc.bookstore.textbooks.bookvoucher",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Book vouchers are a complicated subject, please follow this link for a better answer: http://century.custhelp.com/app/answers/detail/a_id/390"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518537913,
+  "fallbackIntent": false,
+  "events": []
+}

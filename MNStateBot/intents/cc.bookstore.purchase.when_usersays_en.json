@@ -1,0 +1,43 @@
+[
+  {
+    "id": "070a982f-d61a-4533-97ca-67cd2377f814",
+    "data": [
+      {
+        "text": "How soon should I buy textbooks?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518538014
+  },
+  {
+    "id": "f83c50ab-b6c9-4ec6-9bfd-0b54c8932afc",
+    "data": [
+      {
+        "text": "When should I purchase books for my classes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518538014
+  },
+  {
+    "id": "a5a00c10-2335-4c9c-a9c5-89cad10f998f",
+    "data": [
+      {
+        "text": "Do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I purchase my books during orientation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518538014
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "id": "cb4384fe-5813-46bd-89d6-e62be2fd2e76",
+  "name": "cc.onedrive",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You\u0027ll find the information you\u0027re looking for here: http://century.custhelp.com/app/answers/detail/a_id/542"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518508292,
+  "fallbackIntent": false,
+  "events": []
+}

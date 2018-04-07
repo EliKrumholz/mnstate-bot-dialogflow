@@ -1,0 +1,70 @@
+[
+  {
+    "id": "5e28a2fd-0771-4c67-8637-3c8e05723ce4",
+    "data": [
+      {
+        "text": "Do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I need to prepare for the ",
+        "userDefined": false
+      },
+      {
+        "text": "accuplacer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " test?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516680785
+  },
+  {
+    "id": "4d28ab5c-c63e-47b1-a7a6-10711f28ce7d",
+    "data": [
+      {
+        "text": "Should I prepare for the ",
+        "userDefined": false
+      },
+      {
+        "text": "accuplacer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " test?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516680785
+  },
+  {
+    "id": "9e4ddd52-0224-43f4-a8e3-43534193ff43",
+    "data": [
+      {
+        "text": "How can I prepare for the math section of the ",
+        "userDefined": false
+      },
+      {
+        "text": "ACCUPLACER",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Course Placement Test?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516680785
+  }
+]

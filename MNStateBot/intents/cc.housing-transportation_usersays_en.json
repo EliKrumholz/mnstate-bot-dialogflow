@@ -1,0 +1,38 @@
+[
+  {
+    "id": "907625b1-b00a-4999-a049-f2495991c167",
+    "data": [
+      {
+        "text": "Where can I find out more about transportation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516680440
+  },
+  {
+    "id": "cb7b014a-79fd-49ac-872f-69ff5885d5cd",
+    "data": [
+      {
+        "text": "Where can I find out more about housing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516680440
+  },
+  {
+    "id": "7249427b-74c1-4b59-91fd-de6d9080bb21",
+    "data": [
+      {
+        "text": "Is there a place on campus where I can find out more about housing and transportation resources?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516680440
+  }
+]

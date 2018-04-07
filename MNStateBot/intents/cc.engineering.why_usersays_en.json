@@ -1,0 +1,86 @@
+[
+  {
+    "id": "36f98c6f-1c76-404c-a33e-a6ad10099fbc",
+    "data": [
+      {
+        "text": "Why choose ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": " for engineering?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518534897
+  },
+  {
+    "id": "26567f39-d9ed-4df6-bfdf-86b6f74d0fd0",
+    "data": [
+      {
+        "text": "I\u0027m thinking about going to ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": " for engineering.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518534897
+  },
+  {
+    "id": "8b49f2fa-225e-4f60-aa25-64f2acb0126d",
+    "data": [
+      {
+        "text": "Tell me about engineering at ",
+        "userDefined": false
+      },
+      {
+        "text": "century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3339ec6a-8c94-42c0-ab43-fbc0ff7f39fd",
+    "data": [
+      {
+        "text": "Why should I go to  ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": " for engineering?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518534897
+  }
+]

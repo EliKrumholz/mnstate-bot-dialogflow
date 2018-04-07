@@ -1,0 +1,32 @@
+{
+  "id": "271a1eb9-844d-43b7-b9a2-98742ecafbca",
+  "name": "cc.engineering.difference",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "The two are closely related with noticeable differences in learning curriculum. A BS in Engineering emphasizes theories and advanced concepts, while an Engineering Technology degree emphasizes hands-on application and implementation.  This link has a LOT more info. http://century.custhelp.com/app/answers/detail/a_id/220",
+            "An engineering technologist is a specialist devoted to the implementation of existing technology within a field of engineering. Technologists often work with engineers in a wide variety of projects by applying basic engineering principles and technical skills. This link has a LOT more info. http://century.custhelp.com/app/answers/detail/a_id/220",
+            "Engineering programs focus on theory and design, Technology programs specialize in application and implementation. This link has a LOT more info. http://century.custhelp.com/app/answers/detail/a_id/220"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518534311,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "b8435ee2-55e5-4a56-9ff2-10f48ab6166f",
+    "data": [
+      {
+        "text": "I want to kill myself",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519838574
+  },
+  {
+    "id": "12027f98-82fc-47a3-a88c-3ede444f87b4",
+    "data": [
+      {
+        "text": "I am thinking about committing suicide",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519838615
+  },
+  {
+    "id": "692e1e99-373d-4d63-a0b8-2527fed058b7",
+    "data": [
+      {
+        "text": "I don\u0027t want to live",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519838574
+  },
+  {
+    "id": "b46d4913-8671-47d7-921c-95a6106fd5f0",
+    "data": [
+      {
+        "text": "I want to commit suicide",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519838574
+  },
+  {
+    "id": "f6045c95-87ee-4b85-936a-bf84a5584433",
+    "data": [
+      {
+        "text": "My friend is thinking about killing themselves, what should I ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "alias": "degrees",
+        "meta": "@degrees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519838574
+  }
+]

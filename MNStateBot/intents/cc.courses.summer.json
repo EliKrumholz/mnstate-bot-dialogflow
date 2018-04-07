@@ -1,0 +1,45 @@
+{
+  "id": "54d12950-6dd3-47a7-bf9d-a5e32b07faec",
+  "name": "cc.courses.summer",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fee4f92b-14e0-4be1-90d1-8f9e07ab91ac",
+          "required": false,
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        },
+        {
+          "id": "a4c805f6-3a45-424d-92c6-22a901376c96",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Our summer courses are typically 6 weeks or 8 weeks. As a result, they cover the same content as a 17 week semester class but at an accelerated pace.\n\nIf you have never taken a college class before, summer is a difficult time to start since the pace is so fast. We recommend taking one course at a time if you are new to college (some classes start mid-May and others typically start first week of July).\n\nIf you have taken college classes before and have done very well (A or B grades), then taking two classes at a time (6-7 credits) may be workable. Since the pace is faster, taking this amount of credit during this short period of time may feel like taking 17-20 credits during a regular semester. Of course you also need to take into consideration other commitments in your life such as work, family, and other areas. Too often we see students who try to take on too much during the summer and end up really struggling. We have on rare occasions students who prefer the fast pace and actually achieve better grades in the summer, but this is the exception and not the usual situation.\n\nAnother important note is that you only have one day rather than a week to drop a class, otherwise it is considered a withdraw and can count against you for your completion ratio as far as related to academic probation or suspension. If a class has a late start, then you only have 24 hours to drop the class."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518332529,
+  "fallbackIntent": false,
+  "events": []
+}

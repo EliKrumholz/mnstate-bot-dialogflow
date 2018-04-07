@@ -1,0 +1,28 @@
+{
+  "id": "58e51e46-3e86-454d-8ab3-9614988327f1",
+  "name": "cc.gps-lifeplan.what-is",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The GPS LifePlan is a holistic campus-wide initiative designed to help students plan for their futures. The program provides a framework for students to assess their needs, set goals, and create plans to become more successful in various aspects of their lives.\nhttp://www.gpslifeplan.org/\n\nThe GPS LifePlan at Century includes online resources and activities, as well as on campus workshops and events; focusing on five areas of development: Career, Education, Finance, Leadership and Personal.\nhttps://www.century.edu/support-services/academic-advising/gps-lifeplan\n\nTo learn more about, view About the GPS LifePlan.\nhttps://www.youtube.com/watch?v\u003dZBh_0NHv0l4"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518369593,
+  "fallbackIntent": false,
+  "events": []
+}

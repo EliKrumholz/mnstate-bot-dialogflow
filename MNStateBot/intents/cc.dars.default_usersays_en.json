@@ -1,0 +1,59 @@
+[
+  {
+    "id": "a9d2bcee-7f28-46e6-8348-9dbaf86577e6",
+    "data": [
+      {
+        "text": "What is a default DARS audit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518499475
+  },
+  {
+    "id": "83b7b5ad-3e4f-42a6-8eab-e336ddd57bd4",
+    "data": [
+      {
+        "text": "What does it mean that my DARS ",
+        "userDefined": false
+      },
+      {
+        "text": "was",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " default?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518499475
+  },
+  {
+    "id": "273f6c6d-1969-488f-ad09-1e3ccc3e533c",
+    "data": [
+      {
+        "text": "Why is my DARS set to default?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518499475
+  },
+  {
+    "id": "14f3fb36-6671-45dd-b9f2-3e81e726aff6",
+    "data": [
+      {
+        "text": "Why did I get a \"Default DARS Audit\"?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518499475
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "id": "e53a9c4b-5aea-49d2-9f28-810849606c6e",
+    "data": [
+      {
+        "text": "Do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I qualify for a child care ",
+        "userDefined": false
+      },
+      {
+        "text": "grant",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516681128
+  },
+  {
+    "id": "bdf9610b-fc43-4248-b0af-0a721e976353",
+    "data": [
+      {
+        "text": "child care ",
+        "userDefined": false
+      },
+      {
+        "text": "grant",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516681128
+  },
+  {
+    "id": "154d847e-c1c1-441a-9d8c-480560f83c7c",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I apply for or qualify for a child care ",
+        "userDefined": false
+      },
+      {
+        "text": "grant",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516681128
+  }
+]

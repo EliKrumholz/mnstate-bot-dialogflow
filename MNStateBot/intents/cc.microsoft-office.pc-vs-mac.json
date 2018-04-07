@@ -1,0 +1,28 @@
+{
+  "id": "ed81d769-ec60-4c53-9a16-efccc1715155",
+  "name": "cc.microsoft-office.pc-vs-mac",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Depending on your operating system, here\u0027s what Office includes:\n\n    PC includes Access, Excel, Skype for Business, OneNote, Outlook, PowerPoint, Publisher, and Word\n    Mac includes Excel, OneNote, Outlook, PowerPoint, and Word\n\nAlso know that:\n\n    Mac users can install Skype for Business separately\n    Project Pro for Office 365 and Visio Pro for Office 365 are available as additional subscriptions through Office 365\n\nYou can also install the latest version of Office on your Surface Pro. You\u0027ll have all the same programs as Office on a PC.\n\nFor more information on how to install the latest version of Microsoft Office from your Office 365 account, watch Students - Free and Reduced Software."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516683383,
+  "fallbackIntent": false,
+  "events": []
+}

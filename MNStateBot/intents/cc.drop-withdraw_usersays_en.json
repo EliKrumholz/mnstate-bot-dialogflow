@@ -1,0 +1,137 @@
+[
+  {
+    "id": "dfdc714f-d166-495e-98cd-ee37877db467",
+    "data": [
+      {
+        "text": "Is there a time limit to withdraw from a class?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519180435
+  },
+  {
+    "id": "32ba1e73-ec18-4a21-ac37-6ee6a22f4a79",
+    "data": [
+      {
+        "text": "What is the time to drop a class?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519180435
+  },
+  {
+    "id": "ecce9448-aa52-4048-971f-9d24385637dd",
+    "data": [
+      {
+        "text": "How many days do I have to drop a class?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1519180435
+  },
+  {
+    "id": "9f0ce74f-d428-499a-a772-089f078ce0b9",
+    "data": [
+      {
+        "text": "How many days ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I have to withdraw from a class?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519180435
+  },
+  {
+    "id": "9a79d917-bcbe-4413-95df-5d3ab75703ad",
+    "data": [
+      {
+        "text": "What is the time to withdraw from a class?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519180435
+  },
+  {
+    "id": "24c4f7be-5a4c-436b-95b3-5bc562f41bff",
+    "data": [
+      {
+        "text": "When ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I have to withdraw from a class?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519180435
+  },
+  {
+    "id": "601047cd-0134-4208-8400-cfc4efb8ddd3",
+    "data": [
+      {
+        "text": "When do I drop or withdraw from a course I am taking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519180435
+  },
+  {
+    "id": "0ba91b19-304e-4e70-8fab-7c58cb7dec14",
+    "data": [
+      {
+        "text": "Is there a time limit to drop a class?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519180435
+  },
+  {
+    "id": "7b6ed375-fd7e-4959-97e1-815a774b9f8e",
+    "data": [
+      {
+        "text": "When ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I have to drop a class?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519180435
+  }
+]

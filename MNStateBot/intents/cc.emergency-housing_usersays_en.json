@@ -1,0 +1,67 @@
+[
+  {
+    "id": "fc447ce5-9d7c-4b94-bb8d-99b9e7879fde",
+    "data": [
+      {
+        "text": "Do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you have emergency housing options?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516680419
+  },
+  {
+    "id": "3b4793f9-97ad-4f28-9974-9015c50f05f2",
+    "data": [
+      {
+        "text": "Can you help me find housing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516680419
+  },
+  {
+    "id": "19b7b11e-08bc-4f14-bf00-ee040da7c79f",
+    "data": [
+      {
+        "text": "Can you help me find a place to live?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516680419
+  },
+  {
+    "id": "9d393d5f-2b34-4795-b6ae-2e25259622fc",
+    "data": [
+      {
+        "text": "I need a place to live",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516680419
+  },
+  {
+    "id": "d095b9f0-0d5d-4069-8502-f63f25298e35",
+    "data": [
+      {
+        "text": "Where can I find emergency or transitional housing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516680419
+  }
+]

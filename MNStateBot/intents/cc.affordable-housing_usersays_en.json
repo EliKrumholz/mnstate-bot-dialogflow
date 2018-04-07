@@ -1,0 +1,38 @@
+[
+  {
+    "id": "a90e11fe-d79d-47ca-930e-7f4c58049cb5",
+    "data": [
+      {
+        "text": "What\u0027s available for affordable housing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518248286
+  },
+  {
+    "id": "8342f1c4-3270-480f-b15b-860b3278c803",
+    "data": [
+      {
+        "text": "Can you help me find affordable housing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518248286
+  },
+  {
+    "id": "a9768412-dcd9-4b22-b1fc-ebead5bec6ba",
+    "data": [
+      {
+        "text": "Are there resources to help me find affordable housing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518248286
+  }
+]

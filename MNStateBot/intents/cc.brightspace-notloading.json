@@ -1,0 +1,37 @@
+{
+  "id": "3bfd9c64-a812-4a94-b033-370eda5739d0",
+  "name": "cc.brightspace-notloading",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "71281a1e-8e06-4558-a1f9-a1a17c9cfe88",
+          "required": false,
+          "dataType": "@D2L",
+          "name": "D2L",
+          "value": "$D2L",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "This is a complicated subject, please follow this link for more help: http://century.custhelp.com/app/answers/detail/a_id/158"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516566589,
+  "fallbackIntent": false,
+  "events": []
+}

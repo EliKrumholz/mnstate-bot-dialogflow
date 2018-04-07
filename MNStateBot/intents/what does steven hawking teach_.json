@@ -1,0 +1,46 @@
+{
+  "id": "a1de38af-3b42-460f-ac8b-9c779e1c5163",
+  "name": "what does steven hawking teach?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "test.ms.faculty.instructs.course",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e97ad0a0-4939-4b62-bd59-78b5761dd7e0",
+          "required": false,
+          "dataType": "@fName",
+          "name": "fName",
+          "value": "$fName",
+          "isList": false
+        },
+        {
+          "id": "ba5b794f-f675-4723-9c4b-2e558b50cbf5",
+          "required": false,
+          "dataType": "@lName",
+          "name": "lName",
+          "value": "$lName",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1521234897,
+  "fallbackIntent": false,
+  "events": []
+}

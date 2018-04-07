@@ -1,0 +1,36 @@
+{
+  "id": "7f359d69-418d-4ac1-afdc-81dae806106b",
+  "name": "cc.questions",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a24568ef-fcaf-4531-afd3-abdeaba8a008",
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "To submit more questions, please follow this link: http://century.custhelp.com/app/ask"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518539840,
+  "fallbackIntent": false,
+  "events": []
+}

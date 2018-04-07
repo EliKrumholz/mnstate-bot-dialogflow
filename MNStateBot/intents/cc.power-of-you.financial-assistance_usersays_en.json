@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1fe10e00-8266-4f5b-a0d6-ecb7d4a8ac17",
+    "data": [
+      {
+        "text": "What kind of financial assistance does the Power of YOU offer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518539022
+  },
+  {
+    "id": "1a68286f-93b3-4e08-b431-c53a2da5b85b",
+    "data": [
+      {
+        "text": "Will the Power of YOU program offer anything other than financial assistance?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518539022
+  }
+]

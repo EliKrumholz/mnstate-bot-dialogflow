@@ -1,0 +1,28 @@
+{
+  "id": "1f0df158-5b85-46c4-a9f8-82928c2d11d4",
+  "name": "cc.academic-help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There are a ton of resources available to help you with this! Here\u0027s a link I think will help you: http://century.custhelp.com/app/answers/detail/a_id/143"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518499603,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "2bfb65be-4128-4d47-aeb8-ebbe305626b4",
+    "data": [
+      {
+        "text": "Can I access the H Drive from my laptop?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518534008
+  },
+  {
+    "id": "9daf3278-0034-42f7-aa66-e5f9b6219f65",
+    "data": [
+      {
+        "text": "Can I access the H Drive and S Drive network locations from a personal computer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518534008
+  },
+  {
+    "id": "02ba60c1-6e7e-4117-913b-59c73587abbe",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I access student file networks (e.g. H Drive, S Drive) at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "unit-time",
+        "meta": "@unit-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518534008
+  }
+]

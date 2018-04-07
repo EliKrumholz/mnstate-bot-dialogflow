@@ -1,0 +1,40 @@
+{
+  "id": "d167c40d-6542-4e67-8b29-5516fcaf36ed",
+  "name": "cc.age",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "62573f13-558b-40be-94f6-991628b1873c",
+          "required": false,
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "The average age is 24.",
+            "The average age is 24, but we have high school students all the way to retired people attending college."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1512153727,
+  "fallbackIntent": false,
+  "events": []
+}

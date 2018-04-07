@@ -1,0 +1,50 @@
+[
+  {
+    "id": "0012927e-a2d3-453c-b540-b3a6a02f5095",
+    "data": [
+      {
+        "text": "Can I repeat a course?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518332703
+  },
+  {
+    "id": "de7bdf00-d0e7-42c7-9f38-84a35360488a",
+    "data": [
+      {
+        "text": "I want to retake a course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518332703
+  },
+  {
+    "id": "61daa698-49b7-4b41-baeb-5d594c90525b",
+    "data": [
+      {
+        "text": "What if I want to retake a course?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518332703
+  },
+  {
+    "id": "a2a80f72-c268-4660-89e8-53686965cd6f",
+    "data": [
+      {
+        "text": "What is the policy for repeating courses?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518332703
+  }
+]

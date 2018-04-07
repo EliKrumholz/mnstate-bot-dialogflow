@@ -1,0 +1,36 @@
+{
+  "id": "0f5425ab-5a02-4f9d-9aa2-32689ecd12e8",
+  "name": "cc.where",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "483b2b52-16ef-4d29-b042-09e18f725a80",
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Century College is located in White Bear Lake, one half mile north of Interstate 694 on Century Avenue. We\u0027re about 15 miles north of downtown St. Paul.\n\nhttps://www.google.com/maps/place/Century+College/@45.0416608,-92.9841927,17z/data\u003d!3m1!4b1!4m5!3m4!1s0x52b2d183e57fe70d:0x7ea70535795ac831!8m2!3d45.041657!4d-92.982004"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518505410,
+  "fallbackIntent": false,
+  "events": []
+}

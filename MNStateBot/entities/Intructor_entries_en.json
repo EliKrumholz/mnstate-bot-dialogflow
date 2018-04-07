@@ -1,0 +1,26 @@
+[
+  {
+    "value": "@last-name",
+    "synonyms": [
+      "@last-name"
+    ]
+  },
+  {
+    "value": "@given-name",
+    "synonyms": [
+      "@given-name"
+    ]
+  },
+  {
+    "value": "@sys.given-name:given-name",
+    "synonyms": [
+      "@sys.given-name:given-name"
+    ]
+  },
+  {
+    "value": "@sys.last-name:last-name",
+    "synonyms": [
+      "@sys.last-name:last-name"
+    ]
+  }
+]

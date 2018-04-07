@@ -1,0 +1,53 @@
+{
+  "id": "28e10331-cc81-4d1f-a74e-d1416e50f0b6",
+  "name": "cc.power-of-you.scholarships",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5e6dfe66-cad6-4bd6-87ff-6780b61f1891",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "isList": false
+        },
+        {
+          "id": "d62fb87c-5d11-40a4-af48-79f29dcfd8f9",
+          "required": false,
+          "dataType": "@sys.ordinal",
+          "name": "ordinal",
+          "value": "$ordinal",
+          "isList": false
+        },
+        {
+          "id": "fe96aec5-675e-4e72-a924-df7931e58096",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "name": "date-period1",
+          "value": "$date-period1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Possibly, depending on your financial status and academic progress. You should work closely with your Power of YOU (http://www.century.edu/poy) advisor for assistance in the scholarship application process. There are many possible pathways to Bachelors degrees through Century College.\nhttps://www.century.edu/support-services/transfer-century/bachelor-degree-options"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518538343,
+  "fallbackIntent": false,
+  "events": []
+}

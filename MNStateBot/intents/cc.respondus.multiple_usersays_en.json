@@ -1,0 +1,102 @@
+[
+  {
+    "id": "4a903333-9b59-48d2-8e7d-6b16dc03a85b",
+    "data": [
+      {
+        "text": "Do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I need to install the ",
+        "userDefined": false
+      },
+      {
+        "text": "Respondus Lockdown",
+        "alias": "respondus",
+        "meta": "@respondus",
+        "userDefined": true
+      },
+      {
+        "text": " broswer for a ",
+        "userDefined": false
+      },
+      {
+        "text": "second",
+        "alias": "unit-time",
+        "meta": "@unit-time",
+        "userDefined": false
+      },
+      {
+        "text": " school?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518534278
+  },
+  {
+    "id": "2c76e082-400f-4b8d-ab44-b3771d479260",
+    "data": [
+      {
+        "text": "How can I install multiple instances of ",
+        "userDefined": false
+      },
+      {
+        "text": "respondus",
+        "alias": "respondus",
+        "meta": "@respondus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518534278
+  },
+  {
+    "id": "42fc5e5f-2318-427e-96e2-041707c72729",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I use the ",
+        "userDefined": false
+      },
+      {
+        "text": "Respondus Lockdown",
+        "alias": "respondus",
+        "meta": "@respondus",
+        "userDefined": false
+      },
+      {
+        "text": " Browser for more than ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " school?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518534278
+  }
+]

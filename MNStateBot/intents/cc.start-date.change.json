@@ -1,0 +1,36 @@
+{
+  "id": "9e105e35-69d4-4ec6-834d-ccade79ea09d",
+  "name": "cc.start-date.change",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "18d01425-3f0a-41d9-b753-d22b76bc39b5",
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You will want to fill out a Delay of Start form which is available by mail. Please or give us a call at 651-773-1700 and provide your name and mailing address we will be happy to mail a copy of the form out to you."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518502186,
+  "fallbackIntent": false,
+  "events": []
+}

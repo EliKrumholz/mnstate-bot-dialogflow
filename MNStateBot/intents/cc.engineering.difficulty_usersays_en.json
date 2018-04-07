@@ -1,0 +1,58 @@
+[
+  {
+    "id": "268f5bd8-eef6-42b1-b201-9ea257280784",
+    "data": [
+      {
+        "text": "Is engineering hard at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518507814
+  },
+  {
+    "id": "8aa39367-1e6b-45a6-8cdc-57498f77b552",
+    "data": [
+      {
+        "text": "Is the engineering program at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": " hard?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518507814
+  },
+  {
+    "id": "9c434e25-cbb1-4728-9ecf-2a677578aa35",
+    "data": [
+      {
+        "text": "Is it hard to get through the Engineering program?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1518507814
+  }
+]

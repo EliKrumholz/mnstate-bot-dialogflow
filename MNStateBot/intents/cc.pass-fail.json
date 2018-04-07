@@ -1,0 +1,36 @@
+{
+  "id": "02e578c1-d744-4f41-82cf-e9bcb7beadb5",
+  "name": "cc.pass-fail",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "95094fc4-55b6-474f-bd65-c4e3dbe0fbc2",
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Almost all courses at Century College require A-F grading. Only certain courses have the option of P/F. This option is very limited. Questions can be directed to the Records Office. Students should be aware that some institutions may not accept the P grade in transfer."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518335805,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,47 @@
+{
+  "id": "af7fa4bd-04c5-4128-88e7-cb078a7d326c",
+  "name": "Small_talk.music",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4b3b786e-e603-4f40-9144-c4520e87ac20",
+          "dataType": "@Intructor",
+          "name": "Intructor",
+          "value": "$Intructor",
+          "isList": false
+        },
+        {
+          "id": "aba02683-fc33-49a9-9be9-3187fe5915a7",
+          "dataType": "@degrees",
+          "name": "degrees",
+          "value": "$degrees",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Depending upon the circumstances, I like Devo (and Whip it)",
+            "Daf Punk gets me going",
+            "Electronic music is my absolute favorite! How about you?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522767830,
+  "fallbackIntent": false,
+  "events": []
+}

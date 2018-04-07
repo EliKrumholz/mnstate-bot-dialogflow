@@ -1,0 +1,37 @@
+{
+  "id": "eec90c17-81ca-4014-b364-52e6392dfc46",
+  "name": "cc.accuplacer.what-to-bring",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8b988a08-cac9-4a3f-a104-d5fef85fc09a",
+          "required": false,
+          "dataType": "@exam",
+          "name": "exam",
+          "value": "$exam",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Students must bring a valid photo ID and a Century Student ID number to take the test. If students do not have a Century Student ID number, they will have to complete a Century College application prior to taking the ACCUPLACER Course Placement Test.\n\nCalculators are not allowed; however there is a pop-up calculator within ACCUPLACER Course Placement Test that is available on certain math problems for students to use.\n\nChildren are not allowed in the testing center and must not be left unattended.\n\nCentury College has mandatory placement into courses based on test results. (Exception: High school students applying for PSEO or the Supplemental Enrollment Program do NOT need to provide a Century ID number, nor have completed an application)."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516680156,
+  "fallbackIntent": false,
+  "events": []
+}

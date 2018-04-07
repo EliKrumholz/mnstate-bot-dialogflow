@@ -1,0 +1,47 @@
+[
+  {
+    "id": "5aa11419-2652-4608-89ac-4f388400136a",
+    "data": [
+      {
+        "text": "Nursing assistant exam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518536555
+  },
+  {
+    "id": "72d27f27-0933-46f0-acf9-38bf2fe9057d",
+    "data": [
+      {
+        "text": "I have questions about my nursing assistant exam.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518536555
+  },
+  {
+    "id": "792cd60f-956d-481a-8ef0-e7aec24cb150",
+    "data": [
+      {
+        "text": "Who ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I contact if I have questions about the nursing assistant (NA) competency examination?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518536555
+  }
+]

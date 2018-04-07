@@ -1,0 +1,36 @@
+{
+  "id": "14b42dff-da2d-4f09-95d8-e00ab0a43419",
+  "name": "cc.orientation.new-student.what-to-bring",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ae02460b-3798-43ef-9841-42ff7634ffd9",
+          "dataType": "@unit-time",
+          "name": "unit-time",
+          "value": "$unit-time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Please bring the following items with you to Registration Session:\n\n1. Your Century College Student ID and password, which can be found on your acceptance letter.\n\n2. Your ACCUPLACER Course Placement Testing results and/or your ACT scores. Your scores will determine what courses you register for. If you do not take the test before attending new student orientation, you will not be allowed to register for classes.\n\n    If you completed the ACCUPLACER Course Placement Test at a different institution, please connect with the Testing Center to make sure you\u0027ve completed the two subjects: Reading and Math. Most colleges test differently, so you may need to take a portion of the assessment at Century. If you took the test recently, prior to registration session, bring a copy of your scores with you!\nhttps://www.century.edu/admissions/testing-center\n    If you\u0027re transferring college credits to Century from another institution, please send your transcripts to the Transfer/DARS Office (West Campus W2240)and/or bring an official copy (sealed) with you to registration session .\n\n3. You will need a form of photo identification for check-in purposes.\n\n4. Transfer students: If you have not sent Century an official copy of your transcripts, please bring an unofficial copy for advising purposes.\n\nCheck-in begins 30-minutes prior to your Orientation Session. Students who arrive more than ten to fifteen minutes late may be asked to reschedule. The earlier you arrive, the better chance you\u0027ll be seen by an advisor for course selection and registration.\n\nFor example: If your orientation reservation is scheduled for 3pm, then check-in begins at 2:30pm and presentation kicks off exactly at 3pm."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518500457,
+  "fallbackIntent": false,
+  "events": []
+}

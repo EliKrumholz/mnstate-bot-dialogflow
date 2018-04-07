@@ -1,0 +1,33 @@
+{
+  "id": "ab73192d-d1a1-4712-a8d4-d4ffd089c612",
+  "parentId": "a6e15f36-3d78-4a2c-90df-969f3e936fc3",
+  "rootParentId": "a6e15f36-3d78-4a2c-90df-969f3e936fc3",
+  "name": "cc.transcript - yes-1",
+  "auto": true,
+  "contexts": [
+    "cctranscript-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "cctranscript.cctranscript-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124771,
+  "fallbackIntent": false,
+  "events": []
+}

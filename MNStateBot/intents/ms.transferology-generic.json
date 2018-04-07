@@ -1,0 +1,28 @@
+{
+  "id": "58cfadb8-883d-458c-ab2a-63e23333b430",
+  "name": "ms.transferology-generic",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Transferring your credits is a complicated subject. You can check the web page of the institution you are transferring to, or check the Transferology website here : https://www.transferology.com/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516570814,
+  "fallbackIntent": false,
+  "events": []
+}

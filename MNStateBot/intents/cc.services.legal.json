@@ -1,0 +1,28 @@
+{
+  "id": "7e00fb11-2ab2-457f-a0dd-7188e4493ed0",
+  "name": "cc.services.legal",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There are legal assistance services available in the community for various concerns that you may have while you are a student. Here are some that are free or low fee:\nhttp://century.custhelp.com/app/answers/detail/a_id/647"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518505699,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "7dcbbad8-c69d-40b5-b637-8c25c7026a5a",
+    "data": [
+      {
+        "text": "What is an academic suspension?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518334439
+  },
+  {
+    "id": "7c70157c-f07b-47dd-a84f-a980eb6acf10",
+    "data": [
+      {
+        "text": "What is an academic warning?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518334439
+  },
+  {
+    "id": "f3fdc681-445f-41e7-a23b-18840685e212",
+    "data": [
+      {
+        "text": "What is academic warning and suspension?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518334439
+  }
+]

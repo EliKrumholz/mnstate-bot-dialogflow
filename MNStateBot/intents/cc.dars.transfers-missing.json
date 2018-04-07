@@ -1,0 +1,28 @@
+{
+  "id": "7f217f27-1f22-4120-ae23-d533cccc9ddf",
+  "name": "cc.dars.transfers-missing",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Every effort is made to evaluate incoming official transcripts in a timely manner.  If this information is not in your Degree Audit Report, please first verify that your official transcript has been received by the DARS/Transfer Student Services Office at 651-779-3908 or Room 2240 on the West Campus. For more information: http://www.century.edu/support-services/planning/transfer-resources"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518252490,
+  "fallbackIntent": false,
+  "events": []
+}

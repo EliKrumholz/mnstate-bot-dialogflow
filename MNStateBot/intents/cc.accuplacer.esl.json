@@ -1,0 +1,36 @@
+{
+  "id": "6d701eb1-d59f-4280-a946-e5dc142fbba8",
+  "name": "cc.accuplacer.esl",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8fb64769-d420-4268-862f-08c6bcfa18d9",
+          "dataType": "@exam",
+          "name": "exam",
+          "value": "$exam",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Yes, we give this test for students who are bilingual, multilingual, or non-native speakers of English. We encourage all students to take this test if English is NOT your first language. Non-native English speakers are required to take this test.\n\nStudents who are non-native English speakers begin with the College Language Proficiency (ACCUPLACER Course Placement ESL) test, including sections on reading skills, language usage, sentence meaning, and listening. The results determine if you need English language courses (if you test out of English language coursework, you will move on to the ACCUPLACER Course Placement Test.)\n\nStudents taking the ACCUPLACER Course Placement ESL Test are required to meet with an Academic Advisor after testing, and will also complete a writing sample and verbal interview.\n\nInternational students should apply to Century College at least month prior to taking the ACCUPLACER Course Placement ESL Test. For further information, call Century College\u0027s Academic ESOL Advisor at 651-747-4087 or the ESOL Department at 651-747-4039."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518508032,
+  "fallbackIntent": false,
+  "events": []
+}

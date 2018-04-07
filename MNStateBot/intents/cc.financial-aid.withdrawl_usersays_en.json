@@ -1,0 +1,37 @@
+[
+  {
+    "id": "dd8ef613-647f-4bed-a1fd-1ccf0689df53",
+    "data": [
+      {
+        "text": "What happens to my financial aid if I withdraw from a class?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0c55b908-6692-4300-b5c2-695379b70e37",
+    "data": [
+      {
+        "text": "financial aid withdraw",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516675007
+  },
+  {
+    "id": "f6c24fc7-4d5a-4d52-ba71-683f9de5b2c3",
+    "data": [
+      {
+        "text": "What happens to my financial aid when I withdraw?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516675007
+  }
+]

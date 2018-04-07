@@ -1,0 +1,36 @@
+{
+  "id": "10a519c1-1e7c-4a9f-b57a-d08ca2291851",
+  "name": "cc.power-of-you.high-schools",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b537f86d-61fb-41a1-8972-8babe492ea6f",
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Currently, you must be a student of:\n\n    Irondale High School\n    North High School (North St. Paul)\n    Mounds View High School\n    White Bear Lake High School\n\nIf you will not graduate from one of these four partner high schools, you are not eligible to participate in Power of YOU program at Century College.\nhttp://www.century.edu/poy"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518500200,
+  "fallbackIntent": false,
+  "events": []
+}

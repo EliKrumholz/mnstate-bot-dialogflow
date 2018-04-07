@@ -1,0 +1,28 @@
+{
+  "id": "31570680-59a2-469f-bbf7-13117a47e04f",
+  "name": "cc.degree.graduation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Since there is no degree document handed to attendees at the ceremony, we at Century College view our graduation ceremony as a celebration of accomplishment.  Attendance is optional, however if you have earned your degree with distinction, you will need to attend the ceremony if you want to receive your honors cords.\nA notation of your award is usually posted on your transcript within 6-8 weeks after the grades are entered.  For more information on viewing your transcript online, click here: http://century.custhelp.com/cgi-bin/century.cfg/php/enduser/std_adp.php?p_faqid\u003d51\u0026p_sid\u003dpRkEpXFi\u0026p_accessibility\u003d0\u0026p_redirect\u003d\u0026p_pv\u003d\u0026p_cv\u003d\u0026p_prods\u003d0\u0026p_cats\u003d\u0026p_sp\u003dcF9zZWFyY2hfdGV4dD10cmFuc2NyaXB0JnBfc2VhcmNoX3R5cGU9YW5zd2Vycy5zZWFyY2hfbmwmcF9zb3J0X2J5PQ**\u0026p_topview\u003d1"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518250463,
+  "fallbackIntent": false,
+  "events": []
+}

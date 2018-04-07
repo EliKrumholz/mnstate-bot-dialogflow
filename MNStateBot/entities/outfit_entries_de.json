@@ -1,0 +1,162 @@
+[
+  {
+    "value": "coat",
+    "synonyms": [
+      "Mantel"
+    ]
+  },
+  {
+    "value": "umbrella",
+    "synonyms": [
+      "Regenschirm",
+      "Schirm"
+    ]
+  },
+  {
+    "value": "jacket",
+    "synonyms": [
+      "Jacke"
+    ]
+  },
+  {
+    "value": "sunglasses",
+    "synonyms": [
+      "Sonnenbrille"
+    ]
+  },
+  {
+    "value": "gum boots",
+    "synonyms": [
+      "Gummistiefel"
+    ]
+  },
+  {
+    "value": "gloves",
+    "synonyms": [
+      "Handschuhe",
+      "Handschuhen"
+    ]
+  },
+  {
+    "value": "jumper",
+    "synonyms": [
+      "Jumper",
+      "Pullover"
+    ]
+  },
+  {
+    "value": "rain coat",
+    "synonyms": [
+      "Regenmantel"
+    ]
+  },
+  {
+    "value": "rain jacket",
+    "synonyms": [
+      "Regenjacke"
+    ]
+  },
+  {
+    "value": "scarf",
+    "synonyms": [
+      "Schal"
+    ]
+  },
+  {
+    "value": "sunscreen",
+    "synonyms": [
+      "Sonnenschutz"
+    ]
+  },
+  {
+    "value": "wool cap",
+    "synonyms": [
+      "Wollmütze"
+    ]
+  },
+  {
+    "value": "wool socks",
+    "synonyms": [
+      "Wollsocken"
+    ]
+  },
+  {
+    "value": "t-shirt",
+    "synonyms": [
+      "t-shirt"
+    ]
+  },
+  {
+    "value": "tank top",
+    "synonyms": [
+      "Muskelshirt"
+    ]
+  },
+  {
+    "value": "sweatpants",
+    "synonyms": [
+      "Jogginghose"
+    ]
+  },
+  {
+    "value": "sweater",
+    "synonyms": [
+      "Pullover"
+    ]
+  },
+  {
+    "value": "shorts",
+    "synonyms": [
+      "Shorts"
+    ]
+  },
+  {
+    "value": "dress",
+    "synonyms": [
+      "Kleid",
+      "Kleidung"
+    ]
+  },
+  {
+    "value": "hat",
+    "synonyms": [
+      "hut"
+    ]
+  },
+  {
+    "value": "sandals",
+    "synonyms": [
+      "Sandalen"
+    ]
+  },
+  {
+    "value": "skirt",
+    "synonyms": [
+      "Rock"
+    ]
+  },
+  {
+    "value": "suit",
+    "synonyms": [
+      "Anzug"
+    ]
+  },
+  {
+    "value": "swimming suit",
+    "synonyms": [
+      "Badeanzug"
+    ]
+  },
+  {
+    "value": "tie",
+    "synonyms": [
+      "Krawatte"
+    ]
+  },
+  {
+    "value": "gloves",
+    "synonyms": [
+      "Handschuhe"
+    ]
+  }
+]

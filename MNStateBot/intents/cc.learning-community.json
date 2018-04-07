@@ -1,0 +1,28 @@
+{
+  "id": "24aab397-6e50-45de-9d18-51e9fb7d162a",
+  "name": "cc.learning-community",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Learning Communities/ Paired Courses: A learning community or paired courses support(s) students through courses that have the same students. The teachers of these sections work together to coordinate what you\u0027re learning. To register for a Learning Community, search under LCOM for most learning communities or READ 80 for learning communities or paired courses for students who must take RDNG 80. If you enroll in LCOM, you will be automatically registered for all the courses in a learning community; if you enroll in READ 80, you will be automatically registered for a learning community or paired courses involving RDNG 80 and STSC 1000: New Student Seminar."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516685662,
+  "fallbackIntent": false,
+  "events": []
+}

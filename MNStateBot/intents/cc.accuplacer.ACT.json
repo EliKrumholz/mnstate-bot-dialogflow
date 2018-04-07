@@ -1,0 +1,48 @@
+{
+  "id": "b8f1d434-8895-407f-ae92-bd8f85785e4d",
+  "parentId": "860a5e2a-05e4-4a5c-bbb5-264bf5413ba0",
+  "rootParentId": "860a5e2a-05e4-4a5c-bbb5-264bf5413ba0",
+  "name": "cc.accuplacer.ACT",
+  "auto": true,
+  "contexts": [
+    "ccaccuplacer-what-is-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ccaccuplacer-what-is.ccaccuplacer-what-is-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a88a8a79-5499-4bbf-8252-de05fbe45b88",
+          "dataType": "@exam",
+          "name": "exam",
+          "value": "$exam",
+          "isList": false
+        },
+        {
+          "id": "c658cd37-a76b-40b7-a73c-ef98cc4b3d56",
+          "dataType": "@exam",
+          "name": "exam1",
+          "value": "$exam1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Students can submit a copy of their ACT score report (with name and date on document) INSTEAD of taking the ACCUPLACER Course Placement Test, if students meet the following scores:\n\n    Reading: 21 or higher\n    Mathematics: 22 or higher\n\nA student may substitute a subject of the ACT for a corresponding subject of ACCUPLACER Course Placement Test, if only that subject area meets the ACT score requirement. The student must then take the remaining subjects via ACCUPLACER Course Placement Test."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

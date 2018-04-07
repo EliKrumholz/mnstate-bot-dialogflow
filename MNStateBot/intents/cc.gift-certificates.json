@@ -1,0 +1,28 @@
+{
+  "id": "8b3b4d26-8d0f-40d3-8304-2e99175f913e",
+  "name": "cc.gift-certificates",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Yes. Share the magic of lifelong learning! Purchase a gift certificate for a specific class or for a dollar amount that can be applied to a class of the recipient’s choice. Email us for information on how to purchase a gift certificate. cect@century.edu"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1519939231,
+  "fallbackIntent": false,
+  "events": []
+}

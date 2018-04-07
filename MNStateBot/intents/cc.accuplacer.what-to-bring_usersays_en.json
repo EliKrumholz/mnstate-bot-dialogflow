@@ -1,0 +1,67 @@
+[
+  {
+    "id": "ed87a977-d24c-4d41-82bf-31e5f8b31fd0",
+    "data": [
+      {
+        "text": "Should I bring anything to the ",
+        "userDefined": false
+      },
+      {
+        "text": "accuplacer",
+        "alias": "exam",
+        "meta": "@exam",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516680156
+  },
+  {
+    "id": "8773a008-7d8f-43dc-a8a0-52684f6b5404",
+    "data": [
+      {
+        "text": "What do I need for the accuplacer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516680156
+  },
+  {
+    "id": "306e8d77-7501-4b20-a4a5-e70e565d713b",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I bring to the ",
+        "userDefined": false
+      },
+      {
+        "text": "accuplacer",
+        "alias": "exam",
+        "meta": "@exam",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516680156
+  }
+]

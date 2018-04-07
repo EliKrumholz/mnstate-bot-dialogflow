@@ -1,0 +1,147 @@
+[
+  {
+    "value": "swimming",
+    "synonyms": [
+      "swimmen",
+      "schwimmen"
+    ]
+  },
+  {
+    "value": "jogging",
+    "synonyms": [
+      "joggen",
+      "jogging"
+    ]
+  },
+  {
+    "value": "walking",
+    "synonyms": [
+      "gehen",
+      "spazieren gehen",
+      "spazieren",
+      "wandern",
+      "zu fuß"
+    ]
+  },
+  {
+    "value": "skiing",
+    "synonyms": [
+      "skifahren",
+      "ski fahren",
+      "schi fahren",
+      "ski",
+      "schi"
+    ]
+  },
+  {
+    "value": "skating",
+    "synonyms": [
+      "schlittschuhlaufen",
+      "schlittschuh laufen"
+    ]
+  },
+  {
+    "value": "snowboarding",
+    "synonyms": [
+      "snowboarding",
+      "snowboarden"
+    ]
+  },
+  {
+    "value": "run",
+    "synonyms": [
+      "laufen",
+      "rennen",
+      "gerennt",
+      "gelaufen"
+    ]
+  },
+  {
+    "value": "parasailing",
+    "synonyms": [
+      "parasailing",
+      "parasegeln"
+    ]
+  },
+  {
+    "value": "climbing",
+    "synonyms": [
+      "klettern",
+      "bergsteigern"
+    ]
+  },
+  {
+    "value": "snowball fights",
+    "synonyms": [
+      "Schneeballschlacht",
+      "Schneeballschlachten"
+    ]
+  },
+  {
+    "value": "frisbee",
+    "synonyms": [
+      "frisbee"
+    ]
+  },
+  {
+    "value": "cycling",
+    "synonyms": [
+      "Radfahren",
+      "Fahrradfahren",
+      "Rad fahren",
+      "Fahrrad fahren",
+      "Fahrradwetter",
+      "Radtour"
+    ]
+  },
+  {
+    "value": "surfing",
+    "synonyms": [
+      "surfen",
+      "surfing"
+    ]
+  },
+  {
+    "value": "riding",
+    "synonyms": [
+      "reiten"
+    ]
+  },
+  {
+    "value": "fly a kite",
+    "synonyms": [
+      "Drachen steigen",
+      "Drachen fliegen",
+      "Drachen steigen lassen",
+      "Drachen fliegen lassen",
+      "drahen steigen"
+    ]
+  },
+  {
+    "value": "go sledding",
+    "synonyms": [
+      "rodeln"
+    ]
+  },
+  {
+    "value": "camping",
+    "synonyms": [
+      "camping",
+      "zelten",
+      "Campingwetter"
+    ]
+  },
+  {
+    "value": "workout",
+    "synonyms": [
+      "training",
+      "trainieren"
+    ]
+  },
+  {
+    "value": "renne",
+    "synonyms": [
+      "renne"
+    ]
+  }
+]

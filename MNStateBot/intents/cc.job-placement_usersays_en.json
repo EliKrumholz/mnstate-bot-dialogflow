@@ -1,0 +1,46 @@
+[
+  {
+    "id": "dd6b607b-1136-4d04-8c6b-4d7c153c57f1",
+    "data": [
+      {
+        "text": "Does ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": " have a job placement program?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518330887
+  },
+  {
+    "id": "46935bf5-496d-4f26-804f-f38c34eb588f",
+    "data": [
+      {
+        "text": "Is there a job placement program at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518330887
+  }
+]

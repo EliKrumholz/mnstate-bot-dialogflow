@@ -1,0 +1,42 @@
+{
+  "id": "a33f26f8-6aa6-4607-a474-3bb01fbeb067",
+  "name": "cc.visability",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0a54f224-d8e7-4ced-8f23-70751ce10ec3",
+          "required": false,
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "If you are going down the road, it is easy to see Century\u0027s campus.",
+            "There are unobstructed views of the campus buildings and parking lots from the street.",
+            "The campus is easy to see. There are large buildings on the east and west sides of the road.",
+            "Not only is it easy to see the buildings, you will have to pass under a bridge that connects the east and west campus."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1512153486,
+  "fallbackIntent": false,
+  "events": []
+}

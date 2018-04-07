@@ -1,0 +1,67 @@
+[
+  {
+    "id": "24b092bd-34ca-45fa-970e-76b40ada8e58",
+    "data": [
+      {
+        "text": "What is the maximum number of credits I can take?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518370286
+  },
+  {
+    "id": "7a02aaa1-9851-464d-9843-9b6c5e7bafd4",
+    "data": [
+      {
+        "text": "Can I take more than ",
+        "userDefined": false
+      },
+      {
+        "text": "18",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " credits?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518370286
+  },
+  {
+    "id": "7e70a341-04dc-4aa4-81a6-6a08a730d192",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I register for more than ",
+        "userDefined": false
+      },
+      {
+        "text": "18",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " credits?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518370286
+  }
+]

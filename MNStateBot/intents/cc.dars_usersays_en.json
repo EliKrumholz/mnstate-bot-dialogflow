@@ -1,0 +1,83 @@
+[
+  {
+    "id": "45cf26f2-434b-4fcd-8c93-6a754bdad33c",
+    "data": [
+      {
+        "text": "Where can I see my DARS?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518248723
+  },
+  {
+    "id": "47db69ac-517e-47cc-a643-9c9d22282fb6",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I get my degree audit report (DARS)?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518248723
+  },
+  {
+    "id": "2af28670-359a-4f29-a676-e17825550f57",
+    "data": [
+      {
+        "text": "Can I get a link to see my DARS?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518248723
+  },
+  {
+    "id": "cb001f89-1e2f-4dc2-b898-ae51548f522d",
+    "data": [
+      {
+        "text": "what is dars?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b7796820-2bb7-4cd6-a5c3-b11e0eae38e0",
+    "data": [
+      {
+        "text": "Can you show me my DARS?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518248723
+  },
+  {
+    "id": "603c9ada-cd57-49fe-a622-2e4eb1391663",
+    "data": [
+      {
+        "text": "Can I view my DARS online?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518249659
+  }
+]

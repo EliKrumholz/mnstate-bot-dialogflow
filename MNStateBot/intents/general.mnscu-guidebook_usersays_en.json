@@ -1,0 +1,44 @@
+[
+  {
+    "id": "64d7636e-8b5f-4295-bc07-f9d0ce0746ae",
+    "data": [
+      {
+        "text": "where can I get a copy of the ",
+        "userDefined": false
+      },
+      {
+        "text": "MNState",
+        "alias": "MNState",
+        "meta": "@MNState",
+        "userDefined": false
+      },
+      {
+        "text": " guidebook?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c5a518e9-438e-4834-9b86-1e8344b451e5",
+    "data": [
+      {
+        "text": "Where can I get a copy of the ",
+        "userDefined": false
+      },
+      {
+        "text": "MNSCU",
+        "alias": "MNState",
+        "meta": "@MNState",
+        "userDefined": false
+      },
+      {
+        "text": " guidebook?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

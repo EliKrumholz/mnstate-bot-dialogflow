@@ -1,0 +1,28 @@
+{
+  "id": "d5131697-442c-41bc-a949-98cfd1160405",
+  "name": "cc.login.store-update",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "myLogins is a feature that allows you to store login credentials in myCentury so you don\u0027t need to enter your username and password information every time you want to access a supported Century College service like D2L Brightspace, eServices, and others.\n\nTo access myLogins:\n\n    Log in to myCentury with your StarID credentials. https://my.century.edu/\n    Click on the Manage myLogins tile.\n    Select one of the Logins menu choices (e.g., StarID).\n    Click Store Login Info.\n    Enter your login/username and password. Click OK.\n\nImportant: Whenever you change your password, you will need to update the saved information."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518247783,
+  "fallbackIntent": false,
+  "events": []
+}

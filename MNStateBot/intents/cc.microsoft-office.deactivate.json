@@ -1,0 +1,43 @@
+{
+  "id": "55db02a6-0fb9-4940-83ea-71c6bb08966e",
+  "name": "cc.microsoft-office.deactivate",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "13f24ff6-1c1c-4a53-86c9-37a83a942bbd",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "cc985b3c-7802-4c9a-8463-b32c84dd48b0",
+          "dataType": "@sys.number",
+          "name": "number1",
+          "value": "$number1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "If you\u0027ve already installed the latest version of Office with Office 365 on five computers that you use and you want to install Office on a sixth computer, you can do that by first deactivating an installation on one of your current computers.\n\n    Log into your Century Office 365 and go to your account settings. Under the Subscriptions section, click on Manage installs.\n    Locate the computer you want to remove Office 2016 from and click on the Deactivate icon."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518369740,
+  "fallbackIntent": false,
+  "events": []
+}

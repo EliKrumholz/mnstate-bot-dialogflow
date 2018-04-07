@@ -1,0 +1,36 @@
+{
+  "id": "dd7d30ce-64db-4791-a5ab-1520edd439e2",
+  "name": "cc.starid.what-do",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "570d2e3b-54b1-4828-9ea0-de905b5f89cd",
+          "dataType": "@StarID",
+          "name": "StarID",
+          "value": "$StarID",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "At Century College, StarID gives you access to:\n\n    Email\n    Campus computers and printers\n    D2L Brightspace (formerly Desire2Learn)\n    MinnState eServices\n\nAs Minnesota State colleges and universities begin deploying StarID more broadly over the next few years, the ability to use your StarID will vary from institution to institution."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518337687,
+  "fallbackIntent": false,
+  "events": []
+}

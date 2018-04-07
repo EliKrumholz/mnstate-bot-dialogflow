@@ -1,0 +1,37 @@
+{
+  "id": "08d9e36e-3751-468d-8155-7da2562dcd7c",
+  "name": "cc.services.health",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0bbcfde5-1c6a-49d6-8df0-6b79955cfae9",
+          "required": false,
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There\u0027s a ton of information for this topic! Please go here to learn more: http://century.custhelp.com/app/answers/detail/a_id/602"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518505521,
+  "fallbackIntent": false,
+  "events": []
+}

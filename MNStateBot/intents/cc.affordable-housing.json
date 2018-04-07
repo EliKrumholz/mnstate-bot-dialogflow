@@ -1,0 +1,28 @@
+{
+  "id": "f59a4849-669e-463f-b10e-7c2952d84364",
+  "name": "cc.affordable-housing",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There are a ton of great resources! Follow this link: http://century.custhelp.com/app/answers/detail/a_id/641"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518248286,
+  "fallbackIntent": false,
+  "events": []
+}

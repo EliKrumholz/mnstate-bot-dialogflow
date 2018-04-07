@@ -1,0 +1,31 @@
+{
+  "id": "615d2fe4-5e54-486f-8ba8-0422df3ada25",
+  "name": "cc.mycentury.login",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "myCentury\u0027s internal site address is my.century.edu. Log in to myCentury with your StarID and StarID password.\n\nYou can also log in to myCentury from Century\u0027s website by clicking on Login \u003e myCentury",
+            "Watch Century\u0027s Student Video to learn more about myCentury at (copy/paste this) link: https://mediaspace.minnstate.edu/media/Student+Video+-+5+-+myCentury.mp4/0_vo0amhi5"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518498414,
+  "fallbackIntent": false,
+  "events": []
+}

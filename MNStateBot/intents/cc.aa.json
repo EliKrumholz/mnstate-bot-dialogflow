@@ -1,0 +1,36 @@
+{
+  "id": "8cd78808-d25b-4f6f-87a1-d0efecd541c2",
+  "name": "cc.aa",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e30514a2-94ce-4597-85ef-2a7ed755c5ca",
+          "dataType": "@degrees",
+          "name": "degrees",
+          "value": "$degrees",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "View the degree here: https://www.century.edu/programs/associate-arts-aa"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518252181,
+  "fallbackIntent": false,
+  "events": []
+}

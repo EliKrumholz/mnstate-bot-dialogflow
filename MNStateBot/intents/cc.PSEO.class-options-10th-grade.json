@@ -1,0 +1,37 @@
+{
+  "id": "47b90e31-86ea-4bb3-b124-f74f399b9bad",
+  "name": "cc.PSEO.class-options-10th-grade",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "94f01b62-5775-46e5-88ad-0b143099f4d3",
+          "required": false,
+          "dataType": "@PSEO",
+          "name": "PSEO",
+          "value": "$PSEO",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Please refer to the approved courses for 10th grade PSEO document, for a list of career and technical course options.\n\nhttps://www.century.edu/sites/default/files/Admissions_PSEO_10courses.pdf"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516681433,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "a498234d-1e36-451e-b8b0-ae979bf6e3ae",
+  "name": "cc.students.activities",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d9ead9c5-4a46-4136-bcff-5624cb7621b9",
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There are a wide variety of student clubs, organizations, and activities, including intramural sports and outdoor recreation. View more information through Campus Life.\nhttp://www.century.edu/campus-life"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518539532,
+  "fallbackIntent": false,
+  "events": []
+}

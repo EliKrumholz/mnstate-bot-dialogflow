@@ -1,0 +1,35 @@
+[
+  {
+    "id": "f2f0712a-14ee-40bb-8722-744045ef52db",
+    "data": [
+      {
+        "text": "I\u0027d like to take Nursing assistant course.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1518535069
+  },
+  {
+    "id": "ef2b8482-c329-4dd3-ad60-896d5af7ff30",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I register for a nursing assistant course?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518335959
+  }
+]

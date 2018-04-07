@@ -1,0 +1,149 @@
+[
+  {
+    "id": "46837628-43fe-46e9-ac1a-f7e22a6f4368",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I need to do to get Office?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518117766
+  },
+  {
+    "id": "c0d67c15-dd25-4fb9-80df-bfa165947c8f",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I need to do to get Microsoft Office?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518117766
+  },
+  {
+    "id": "bd50a6a0-fc43-4acd-b4c5-352507969b97",
+    "data": [
+      {
+        "text": "Can I get Microsoft Office for free?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518117766
+  },
+  {
+    "id": "eff7eb53-27f0-47fc-9c74-51b9291d9dc5",
+    "data": [
+      {
+        "text": "Can I get Office for free?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518117766
+  },
+  {
+    "id": "65305179-e59a-45c1-8fed-b403f31f0d94",
+    "data": [
+      {
+        "text": "Do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I get Microsoft Office for free?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518117766
+  },
+  {
+    "id": "a1f4033a-8282-4c65-8cad-b3fe2eb0ef14",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I get Office?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518117766
+  },
+  {
+    "id": "dd2e9fb1-e995-4a85-b98b-c57bd2cfbac3",
+    "data": [
+      {
+        "text": "Can I get Microsoft Office for free?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518117766
+  },
+  {
+    "id": "be034cd5-fbe3-444c-8151-45d1dd706ee4",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I download Office ",
+        "userDefined": false
+      },
+      {
+        "text": "2016",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " for free?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518117766
+  }
+]

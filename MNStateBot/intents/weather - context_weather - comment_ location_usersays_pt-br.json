@@ -1,0 +1,160 @@
+[
+  {
+    "id": "8d3e8176-ca9b-4701-a5e6-fb6c4dfccab9",
+    "data": [
+      {
+        "text": "pode verificar ",
+        "userDefined": false
+      },
+      {
+        "text": "Seattle",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "0a1ac5bd-ca60-4375-aea0-993ac044c0eb",
+    "data": [
+      {
+        "text": "e quanto a ",
+        "userDefined": false
+      },
+      {
+        "text": "São Francisco",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a26714ee-f34d-4ec0-8f06-b737a1230792",
+    "data": [
+      {
+        "text": "você pode verificar ",
+        "userDefined": false
+      },
+      {
+        "text": "Seattle",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "814e3390-1fd3-40da-a6f9-8bde6779ef3c",
+    "data": [
+      {
+        "text": "e quanto a ",
+        "userDefined": false
+      },
+      {
+        "text": "Oakland",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "084261ed-8747-4067-92ae-3419178727fb",
+    "data": [
+      {
+        "text": "agora em ",
+        "userDefined": false
+      },
+      {
+        "text": "Aspen",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0fb9c2ee-4de7-4d17-9b85-69d08f0d08cd",
+    "data": [
+      {
+        "text": "e quanto a ",
+        "userDefined": false
+      },
+      {
+        "text": "Aspen",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97fe39fd-e22c-4b8c-998c-24c1efd30cd5",
+    "data": [
+      {
+        "text": "Moscou",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a0729437-a784-4d11-8a42-883d9cfdb909",
+    "data": [
+      {
+        "text": "e em ",
+        "userDefined": false
+      },
+      {
+        "text": "Londres",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0dc81c79-0143-453a-b812-9a6aedf4526b",
+    "data": [
+      {
+        "text": "e quanto a ",
+        "userDefined": false
+      },
+      {
+        "text": "Paris",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "id": "fd4f876e-d9b0-477b-8a3d-0962fe3f2e4e",
+  "name": "cc.advising.academic-counseling",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bf3f0203-c333-49d8-88a3-fce5a6ac7f34",
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Academic Counseling: This includes assisting you with your education planning as well as course selection towards your education goals (i.e. graduation, applying for admission into a program, transferring credits in or out of Century College, applying for scholarships and more), counseling regarding academic and financial aid warning and suspension, as well as connecting you with resources on campus to help you succeed. https://www.century.edu/support-services/advising-counseling"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518249259,
+  "fallbackIntent": false,
+  "events": []
+}

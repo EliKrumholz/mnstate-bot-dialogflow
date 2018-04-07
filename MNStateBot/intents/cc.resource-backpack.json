@@ -1,0 +1,31 @@
+{
+  "id": "9e5760d7-ec3b-4212-a398-3ecab9dbacfb",
+  "name": "cc.resource-backpack",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "There are a lot of different resources available to students for help, such as; Academics, child care, clothing, food, health services, housing, legal assistance, mental health resources, transportation, utilities. You can find more specific help by following a link on this page: http://century.custhelp.com/app/answers/detail/a_id/665",
+            "At century we have a Resource and Support Center to help you become a successful and healthy student. They can help to better answer your questions. You can also find more information by following this link: http://century.custhelp.com/app/answers/detail/a_id/665"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516558436,
+  "fallbackIntent": false,
+  "events": []
+}

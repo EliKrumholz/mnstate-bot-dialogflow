@@ -1,0 +1,49 @@
+{
+  "id": "56161387-3f1c-44d7-9342-b8b3803aaadb",
+  "name": "cc.started",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "01cbce3e-c5f9-4db1-8c0b-00f1220b7aed",
+          "required": false,
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        },
+        {
+          "id": "416971b6-7379-4fbc-838b-8d2460e14f7b",
+          "required": false,
+          "dataType": "@degrees",
+          "name": "degrees",
+          "value": "$degrees",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Century College started in 1967.",
+            "Century was founded in 1967.",
+            "Century College is 50 years old, starting in 1967."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1511823786,
+  "fallbackIntent": false,
+  "events": []
+}

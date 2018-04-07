@@ -1,0 +1,29 @@
+{
+  "id": "1831da34-c9c9-4642-98c0-dec66dc9fda1",
+  "name": "bot.name",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bot.name",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "My name is MS.Bot"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509908287115,
+  "fallbackIntent": false,
+  "events": []
+}

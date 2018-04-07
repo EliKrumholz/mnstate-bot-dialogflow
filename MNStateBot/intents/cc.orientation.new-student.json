@@ -1,0 +1,28 @@
+{
+  "id": "f4e3b943-5166-4e32-8c8c-dd26ddfeb643",
+  "name": "cc.orientation.new-student",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "All students new to Century College are required to do an orientation, whether on-campus or online. Transfer students have the option of doing an Online Orientation, but refer to your Admission profile to see if you are eligible to do so: http://www.century.edu/admissions\n\nIf you are an international student, you are required to attend the International Student Orientation as well before you can register for classes. Your acceptance letter from Century College will have your orientation date specified!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518250201,
+  "fallbackIntent": false,
+  "events": []
+}

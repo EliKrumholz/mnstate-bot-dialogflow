@@ -1,0 +1,28 @@
+{
+  "id": "094e17d7-d5b7-40b3-aebd-d1dd634b067e",
+  "name": "cc.youhs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Currently, you must be a student of:\n\nIrondale High School\nNorth High School (North St. Paul)\nMounds View High School\nWhite Bear Lake High School"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516681767,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "bb701fdc-04e9-4ccb-ba2b-33d67136a28b",
+  "name": "cc.power-of-you.timeline",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "In order to be eligible for the Power of YOU program, you must graduate or have been a student the same year as your fall enrollment. (so, if you graduate spring 2018, you must start at Century College in the fall 2018)."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518539231,
+  "fallbackIntent": false,
+  "events": []
+}

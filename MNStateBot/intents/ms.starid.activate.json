@@ -1,0 +1,37 @@
+{
+  "id": "c182024b-3ab8-4dd1-a5bd-7ab14d22fddf",
+  "name": "ms.starid.activate",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "dccbfa7e-743e-4d7a-814e-311963f90b3b",
+          "required": false,
+          "dataType": "@StarID",
+          "name": "StarID",
+          "value": "$StarID",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "To activate your StarID, visit Minnesota State StarID Self Service. At https://starid.minnstate.edu/."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518531726,
+  "fallbackIntent": false,
+  "events": []
+}

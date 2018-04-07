@@ -1,0 +1,36 @@
+{
+  "id": "2b23a24f-808c-451f-931d-f11aab156829",
+  "name": "cc.more-info",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "907e009b-ff7d-4183-8e5a-95fb3c6e5229",
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can call 651-773-1700 to speak to the Admissions Office or complete the online Request for Information form.\nAdmissions: https://www.century.edu/admissions\nForm: https://century.askadmissions.net/emtinterestpage.aspx?ip\u003dprospect"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518534689,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "202af337-6c23-47f3-b6d8-6c9bd1791c0b",
+  "name": "ms.accuplacer.pseo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "pseo.accuplacer",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f2b6cf01-41c7-4d88-af30-f58b58391cfb",
+          "required": true,
+          "dataType": "@college",
+          "name": "college",
+          "value": "Century College",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can find information about Century\u0027s ACCUPLACER scores here: https://www.century.edu/sites/default/files/Assessment_FAQs%20for%20Placement%20Testing.pdf"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510695689,
+  "fallbackIntent": false,
+  "events": []
+}

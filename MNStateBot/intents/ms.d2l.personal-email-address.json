@@ -1,0 +1,28 @@
+{
+  "id": "b2d85029-bed4-4d81-9a1b-b520ac026bd5",
+  "name": "ms.d2l.personal-email-address",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "In order to change your email address listing in D2L Brightspace, you will need to update your email address in eServices, under Account Management.\nhttps://eservices.minnstate.edu/esession/authentication.do?campusId\u003d304\u0026postAuthUrl\u003dhttp%3A%2F%2Feservices.minnstate.edu%2Fstudent-portal%2Fsecure%2Fdashboard.do%3Bjsessionid%3D908A9451B39774D13789944D835DBD76%3Fcampusid%3D304\n\nThe Records Office database will update Desire2Learn within 24 hours once you have updated the Records Dept.\n\nAn incorrect, (i.e. personal email address), listing in D2L Brightspace most likely happens simply because your student email address did not exist when you originally registered for school at Century College. At that time you probably provided an alternate email address to our Records Dept. as a point of contact. In turn, this email address then ends up associated with everything else you use as a student at Century College (i.e. Desire2Learn, etc.) until it is changed."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518532122,
+  "fallbackIntent": false,
+  "events": []
+}

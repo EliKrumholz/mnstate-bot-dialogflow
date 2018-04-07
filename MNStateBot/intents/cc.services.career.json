@@ -1,0 +1,28 @@
+{
+  "id": "ee3ce746-2d80-4126-a92b-2f4ff8eac7d7",
+  "name": "cc.services.career",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Career Services offers assistance with resume and cover letter development, interviewing skills, job search strategies and more.\nCheck them out here: https://www.century.edu/support-services/career-planning/career-services"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518536144,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,31 @@
+[
+  {
+    "value": "SAT",
+    "synonyms": [
+      "SAT",
+      "Scholastic Assessment Test",
+      "Scholastic Aptitude Test"
+    ]
+  },
+  {
+    "value": "ACT",
+    "synonyms": [
+      "ACT",
+      "American College Testing"
+    ]
+  },
+  {
+    "value": "Accuplacer",
+    "synonyms": [
+      "Accuplacer",
+      "ACCUPLACER"
+    ]
+  },
+  {
+    "value": "GRE",
+    "synonyms": [
+      "GRE",
+      "Graduate Record Examinations"
+    ]
+  }
+]

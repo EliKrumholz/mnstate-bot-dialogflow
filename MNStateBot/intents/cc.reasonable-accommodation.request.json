@@ -1,0 +1,28 @@
+{
+  "id": "f7830b5e-a359-4c07-8d1c-1b7d7835a98c",
+  "name": "cc.reasonable-accommodation.request",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "To receive a reasonable accommodation you, the student, must first request the accommodation and provide documentation of the disability. The Access Center/Disability Services is the designated office to certify eligibility for disability services, determine accommodations, and maintain documentation separate from other college records. In general, Century College will not act on its own to provide an accommodation to a student unless or until one is requested.\nFind more information here: http://www.century.edu/support-services/assistive-services-century-college/disability-services"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518370696,
+  "fallbackIntent": false,
+  "events": []
+}

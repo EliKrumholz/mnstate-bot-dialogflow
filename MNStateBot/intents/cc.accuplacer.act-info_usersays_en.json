@@ -1,0 +1,102 @@
+[
+  {
+    "id": "356f0e93-3363-446d-aecb-2d3b4d71b389",
+    "data": [
+      {
+        "text": "Do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I need to take the ",
+        "userDefined": false
+      },
+      {
+        "text": "accuplacer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " if I have taken the ",
+        "userDefined": false
+      },
+      {
+        "text": "act",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516681012
+  },
+  {
+    "id": "bb735b79-ad71-481a-914a-af379b232f63",
+    "data": [
+      {
+        "text": "Do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I need to take the ",
+        "userDefined": false
+      },
+      {
+        "text": "ACCUPLACER",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Course Placement Test if I have already taken the ",
+        "userDefined": false
+      },
+      {
+        "text": "ACT",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " test?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516681012
+  },
+  {
+    "id": "771eaca0-12c5-49fe-9049-3b7d91fb404d",
+    "data": [
+      {
+        "text": "If I have taken the ",
+        "userDefined": false
+      },
+      {
+        "text": "ACT",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " will I have to take the ",
+        "userDefined": false
+      },
+      {
+        "text": "Accuplacer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516681012
+  }
+]

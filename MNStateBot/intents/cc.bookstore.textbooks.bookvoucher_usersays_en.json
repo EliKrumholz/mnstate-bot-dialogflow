@@ -1,0 +1,23 @@
+[
+  {
+    "id": "0eb56812-df7a-483e-8097-949011b776fb",
+    "data": [
+      {
+        "text": "I have a book voucher, how ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I use it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516570288
+  }
+]

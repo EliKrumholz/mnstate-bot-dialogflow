@@ -1,0 +1,50 @@
+[
+  {
+    "id": "24a1fef9-106d-4646-b2c9-33af0df76924",
+    "data": [
+      {
+        "text": "Can I get legal help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516684158
+  },
+  {
+    "id": "2a3edb52-130b-43f2-8298-5214b06ccbd1",
+    "data": [
+      {
+        "text": "What legal help can I get as a student?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516684158
+  },
+  {
+    "id": "bbb946f5-ae0c-4502-a6b8-b3e29a162730",
+    "data": [
+      {
+        "text": "Is there legal help available for students?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516684158
+  },
+  {
+    "id": "0aa1e4eb-5208-432c-bec4-07e2f87cf37e",
+    "data": [
+      {
+        "text": "Are there legal assistance services available to students?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1516684158
+  }
+]

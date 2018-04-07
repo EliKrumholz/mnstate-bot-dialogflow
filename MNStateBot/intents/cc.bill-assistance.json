@@ -1,0 +1,28 @@
+{
+  "id": "a0f3dd76-4853-4f31-a171-ce79ecf9a57a",
+  "name": "cc.bill-assistance",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There\u0027s a lot to this one! I\u0027m going to leave this here for you: http://century.custhelp.com/app/answers/detail/a_id/571"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518251250,
+  "fallbackIntent": false,
+  "events": []
+}

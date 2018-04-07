@@ -1,0 +1,60 @@
+[
+  {
+    "id": "680903f2-1ac4-40b7-b513-5327f6844c86",
+    "data": [
+      {
+        "text": "What should I bring to welcome ",
+        "userDefined": false
+      },
+      {
+        "text": "day",
+        "alias": "unit-time",
+        "meta": "@unit-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518500457
+  },
+  {
+    "id": "6c053311-63ff-4810-82b6-a77827175170",
+    "data": [
+      {
+        "text": "What should I bring to the registration session?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518500457
+  },
+  {
+    "id": "ceb7acda-da63-4a4e-8d12-367e27127bdb",
+    "data": [
+      {
+        "text": "What should I bring to new student orientation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518500457
+  },
+  {
+    "id": "9d183e04-354d-4e52-90f0-76dd67470774",
+    "data": [
+      {
+        "text": "What should I bring with me to New Student Orientation: Registration Session \u0026 Welcome Day?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518500457
+  }
+]

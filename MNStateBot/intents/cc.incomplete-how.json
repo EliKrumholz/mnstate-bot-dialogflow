@@ -1,0 +1,28 @@
+{
+  "id": "abc0dc02-67d0-486e-aba9-8f347987b13c",
+  "name": "cc.incomplete-how",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "An Incomplete is a complicated subject, please refer to this link to help you better answer this question: http://century.custhelp.com/app/answers/detail/a_id/92"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516569907,
+  "fallbackIntent": false,
+  "events": []
+}

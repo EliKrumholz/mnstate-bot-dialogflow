@@ -1,0 +1,128 @@
+[
+  {
+    "id": "e3c48b2f-05d7-4dd6-ac6d-5d6a13d52bba",
+    "data": [
+      {
+        "text": "what is the deal with parking at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e0e2519-3bea-447f-b8a4-d3456ee999cf",
+    "data": [
+      {
+        "text": "what is the deal with parking at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ebaaeff-bfd5-4f55-a260-ee3c2e242bca",
+    "data": [
+      {
+        "text": "What does it cost to park at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512152847
+  },
+  {
+    "id": "1a142951-4bb0-49cf-a777-732a4926cbc3",
+    "data": [
+      {
+        "text": "Is there free parking on campus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512152847
+  },
+  {
+    "id": "ea7c613b-ef69-401d-8574-40bef801b22b",
+    "data": [
+      {
+        "text": "Does ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": " have a parking lot or  a ramp?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512152847
+  },
+  {
+    "id": "90f7166d-f9bc-41e0-b59d-04aaddaa0f42",
+    "data": [
+      {
+        "text": "Does ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": " have parking near the classes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512152847
+  },
+  {
+    "id": "91b3a36f-0e1a-48da-9624-84153a6e6c32",
+    "data": [
+      {
+        "text": "Is there a parking ramp on the Century campus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512152847
+  }
+]

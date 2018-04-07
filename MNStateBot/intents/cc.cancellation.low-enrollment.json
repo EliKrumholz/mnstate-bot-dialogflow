@@ -1,0 +1,28 @@
+{
+  "id": "cbd26ce4-386f-4eed-940e-d694c8b2c408",
+  "name": "cc.cancellation.low-enrollment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "If we have to cancel a class due to low enrollment, we will notify you as soon as possible before the class is scheduled to begin. You will receive a full refund of your tuition or transfer to another course of your choice, space permitting."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1519938170,
+  "fallbackIntent": false,
+  "events": []
+}

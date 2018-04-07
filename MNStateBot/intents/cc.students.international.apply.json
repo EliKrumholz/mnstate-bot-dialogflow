@@ -1,0 +1,28 @@
+{
+  "id": "88bdca60-d683-4033-b29c-7dcd5c35a472",
+  "name": "cc.students.international.apply",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There is a special process to apply for admission if you are an international student.  For more details on this process, click here: http://www.century.edu/admissions/international-student"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518508464,
+  "fallbackIntent": false,
+  "events": []
+}

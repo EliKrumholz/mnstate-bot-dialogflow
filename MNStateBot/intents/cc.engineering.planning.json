@@ -1,0 +1,28 @@
+{
+  "id": "b1dec0c6-6ee4-49ce-812d-2de9817ffb01",
+  "name": "cc.engineering.planning",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "To view the online planning guide for engineering, check out the Engineering program page: http://www.century.edu/programs/engineering"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518534408,
+  "fallbackIntent": false,
+  "events": []
+}

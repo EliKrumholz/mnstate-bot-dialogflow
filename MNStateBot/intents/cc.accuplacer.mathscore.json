@@ -1,0 +1,28 @@
+{
+  "id": "24235b5a-078b-47a1-bf99-2d6a590d473c",
+  "name": "cc.accuplacer.mathscore",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "It is important that you review prior to taking the math ACCUPLACER Course Placement Test, so that it accurately measures the skills you have learned to date. This is because mathematics is like learning a different language - it requires review and practice in order to maintain your skills."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518533130,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,198 @@
+[
+  {
+    "id": "1d42689f-989f-4da0-b8a4-75d723c17bb5",
+    "data": [
+      {
+        "text": "regnet",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": false
+      },
+      {
+        "text": " es dort",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e2ca052-d372-477b-ad0f-6e4f7a479cec",
+    "data": [
+      {
+        "text": "muss ich mit ",
+        "userDefined": false
+      },
+      {
+        "text": "Regen",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": false
+      },
+      {
+        "text": " rechnen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f0f6b14-20be-45be-adb9-1a3c6e269c6a",
+    "data": [
+      {
+        "text": "wird dort die ",
+        "userDefined": false
+      },
+      {
+        "text": "Sonne",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": false
+      },
+      {
+        "text": " scheinen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eefd8c45-87ab-4b4d-9d56-de1cd9bebc18",
+    "data": [
+      {
+        "text": "gibt es dort ",
+        "userDefined": false
+      },
+      {
+        "text": "Sonnenschein",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b7f4f0a0-ea3b-4156-9486-1e9044060346",
+    "data": [
+      {
+        "text": "wird es dort ",
+        "userDefined": false
+      },
+      {
+        "text": "regnen",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bb7720e1-ed18-4586-84c7-05c47ab7a340",
+    "data": [
+      {
+        "text": "wird es dort auch ",
+        "userDefined": false
+      },
+      {
+        "text": "schneien",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "401535d3-1126-4a39-a642-899d13c76e87",
+    "data": [
+      {
+        "text": "wird es dort ",
+        "userDefined": false
+      },
+      {
+        "text": "Regen",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": false
+      },
+      {
+        "text": " geben",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3bb122a5-9dd2-4bb5-9222-6ba9390f2301",
+    "data": [
+      {
+        "text": "wie sieht es mit ",
+        "userDefined": false
+      },
+      {
+        "text": "Regen",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      },
+      {
+        "text": " aus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "99fc0a1a-ad91-47ea-bdb5-18e38140fc76",
+    "data": [
+      {
+        "text": "wird es dort ",
+        "userDefined": false
+      },
+      {
+        "text": "sonnig",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7134f4b9-998a-4213-8751-b868c0c3b5c3",
+    "data": [
+      {
+        "text": "und ",
+        "userDefined": false
+      },
+      {
+        "text": "Schnee",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

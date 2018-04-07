@@ -1,0 +1,60 @@
+[
+  {
+    "id": "eb913d6c-4a97-461a-8582-635331366415",
+    "data": [
+      {
+        "text": "Show me information about ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518534689
+  },
+  {
+    "id": "549ab1f5-a411-4ab8-95c9-a03da6df39cf",
+    "data": [
+      {
+        "text": "I\u0027d like to request information about ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518534689
+  },
+  {
+    "id": "07de111c-5e27-4766-95c6-a74ffb3bd654",
+    "data": [
+      {
+        "text": "How can I get more information about ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518534689
+  }
+]

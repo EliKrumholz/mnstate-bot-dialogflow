@@ -1,0 +1,38 @@
+[
+  {
+    "id": "a6f6b9b5-6b03-44c2-a8cd-9ab05e9005aa",
+    "data": [
+      {
+        "text": "I don\u0027t see my academic petition in my DARS.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518332856
+  },
+  {
+    "id": "b4893794-2643-422a-9106-b42328e846a8",
+    "data": [
+      {
+        "text": "Why is my approved Academic Petition not recorded in DARS?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518332856
+  },
+  {
+    "id": "e95380fe-9674-46ce-a054-73ef046f831c",
+    "data": [
+      {
+        "text": "My academic petition isn\u0027t in my DARS.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518332856
+  }
+]

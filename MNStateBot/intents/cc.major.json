@@ -1,0 +1,28 @@
+{
+  "id": "6ff42aba-c696-4b36-af55-b4dc5170feec",
+  "name": "cc.major",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "A major is an area of focus in a Bachelor Degree.  It may or may not be directly related to a specific career occupation.  To find out more about what you can do with specific types of majors, see the link below:\n    http://whatcanidowiththismajor.com/major/\n\nWe also recommend that you meet with a Century College counselor to further discuss your educational plan.  If you want to explore career options more, consider one of the following:\n    Meet with a Century College Counselor for Career Counseling. \n    Use the self-paced GPS CareerPlan online\n    Take CRRS 1010 Career and Life Planning Class:\nThis course guides students through the lifelong career exploration and decision-making process, using various career planning strategies and resources. It includes an examination of individual strengths, personality types, interests, values, and skills. Student will explore the world of work, examine educational options, and establish specific goals. The course presents processes for determining what gives meaning to students\u0027 lives and integrating the work role with other life roles. Prerequisite: Assessment score placement in RDNG 0090 or above, or completion of RDNG 0080 with a grade of \"C\" or higher. Restriction: Cannot be taken for credit if credit has been received for CRRS 1005."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518538756,
+  "fallbackIntent": false,
+  "events": []
+}

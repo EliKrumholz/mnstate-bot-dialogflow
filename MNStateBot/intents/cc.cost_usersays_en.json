@@ -1,0 +1,98 @@
+[
+  {
+    "id": "af138a9c-c763-4ff7-bf54-86bdb2dcd236",
+    "data": [
+      {
+        "text": "How much does ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": " cost?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1511826437
+  },
+  {
+    "id": "2600fc9b-d225-48b6-9ffc-574b75d9f036",
+    "data": [
+      {
+        "text": "What does it cost to go to ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1511826437
+  },
+  {
+    "id": "40431669-7627-487d-8209-95cdb63f3da0",
+    "data": [
+      {
+        "text": "What is the tuition at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1511826437
+  },
+  {
+    "id": "c10db883-4220-471c-b1ee-1414bb8a52f6",
+    "data": [
+      {
+        "text": "What are typical tuition and fees for a year?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1511826437
+  },
+  {
+    "id": "4e696b9d-7357-428a-8ebb-d72a2f8bad91",
+    "data": [
+      {
+        "text": "century college",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": " tuiton",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

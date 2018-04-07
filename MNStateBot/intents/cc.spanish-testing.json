@@ -1,0 +1,36 @@
+{
+  "id": "090dc356-94b4-4bd3-a638-9c466c47b930",
+  "name": "cc.spanish-testing",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "be2fca25-9606-43ab-9b5b-bcbd7045ffe7",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "We do not have an assessment test for Spanish. If your three years of Spanish was within the last few years, you more than likely would be ready for Spanish 2 (SPAN 1012). You can start at that point and move forward. Credit is not granted to course work you skipped over (e.g. SPAN 1011). Since high school curriculum varies from school to school, it is wise for a you to consult with a Spanish faculty member on the appropriate level in relation to your skills if possible. Using the college directory select \"Spanish\" and then search to look up their contact information.\nhttp://www.century.edu/home/directory"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518333553,
+  "fallbackIntent": false,
+  "events": []
+}

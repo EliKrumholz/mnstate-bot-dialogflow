@@ -1,0 +1,55 @@
+[
+  {
+    "id": "0a01451d-23b2-4bce-8ff0-b7e3c3dc457a",
+    "data": [
+      {
+        "text": "Can you help me with Adobe Connect?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518497383
+  },
+  {
+    "id": "069331a9-e238-41aa-a27b-1036187d8c2f",
+    "data": [
+      {
+        "text": "I\u0027m having trouble with Adobe Connect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518497383
+  },
+  {
+    "id": "eeae1e44-199f-41d6-b598-df7b41627a38",
+    "data": [
+      {
+        "text": "Do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I need to download anything for Adobe Connect?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518497383
+  },
+  {
+    "id": "bd0c3e04-d43f-41b8-8719-92282327394c",
+    "data": [
+      {
+        "text": "What is Adobe Connect?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518497383
+  }
+]

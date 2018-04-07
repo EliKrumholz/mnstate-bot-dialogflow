@@ -1,0 +1,28 @@
+{
+  "id": "c3179e81-71fb-4037-bb6e-0cbd12e3079f",
+  "name": "cc.accuplacer.act-info",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can use your ACT. You will need to send a copy of your ACT to the Testing Center to see if you need placement. For more specific information follow this link: http://century.custhelp.com/app/answers/detail/a_id/569"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518533199,
+  "fallbackIntent": false,
+  "events": []
+}

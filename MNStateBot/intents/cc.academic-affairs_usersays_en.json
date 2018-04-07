@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1837fa64-69d6-470c-998b-81c4ea77e0f1",
+    "data": [
+      {
+        "text": "I need to get in contact with academic affairs.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518534762
+  },
+  {
+    "id": "ca7ccb1a-8087-4d7b-8e6f-4df6ac479508",
+    "data": [
+      {
+        "text": "Academic affairs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518534754
+  },
+  {
+    "id": "2c2f1940-972d-4510-8d16-c38ccece829e",
+    "data": [
+      {
+        "text": "Where is Academic Affairs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518534754
+  }
+]

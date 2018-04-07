@@ -1,0 +1,36 @@
+{
+  "id": "9fe917bd-4e44-49e5-a502-25bc34d747ee",
+  "name": "cc.students.crimal-record",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6cb8fe73-f685-48af-b2a1-d27d9628ebd3",
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Here are some resources you may find helpful: http://century.custhelp.com/app/answers/detail/a_id/646"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518502879,
+  "fallbackIntent": false,
+  "events": []
+}

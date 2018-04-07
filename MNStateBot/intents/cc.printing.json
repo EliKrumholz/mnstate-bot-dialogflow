@@ -1,0 +1,37 @@
+{
+  "id": "09fb7026-a5b9-4cb3-847d-500b088c871a",
+  "name": "cc.printing",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1bbe5a0b-eeaa-4eb4-b675-90056d8190e2",
+          "required": false,
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Yes, there are printers in the Computer Centers for students to use.\n\nEach student will have 500 pages added to their account at the beginning of the term. Each page they print costs:\n\n    Black \u0026 white: single sheet, $ .05; double sided, $ .10\n    Color pages: single sheet,  $ .25; double sided, $ .50\n\n\nEach time you print, a window will pop-up to show your balance and quota. You can also see your balance on the myCentury homepage.\n\nYou can add money to your account at kiosks in the Computer Centers on either campus, or in the library.\n\nBased on data from the past four years, the VAST majority of students print less than 500 pages each term. Students should NOT add value until they need to do so. At the beginning of each term, students that are enrolled in credit base courses will receive 500 pages to their account. Once the term is over, account print balances will be cleared. Cash value they have added will NOT carry-forward from term-to-term at this time, nor will refunds be available.\n\nFor Computer Center locations and hours: http://century.custhelp.com/app/answers/detail/a_id/420"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518533781,
+  "fallbackIntent": false,
+  "events": []
+}

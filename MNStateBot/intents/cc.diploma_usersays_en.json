@@ -1,0 +1,38 @@
+[
+  {
+    "id": "c764df8b-6ec2-4054-ad0e-57879b7f5525",
+    "data": [
+      {
+        "text": "When can I expect my diploma?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518249600
+  },
+  {
+    "id": "7b2aa82f-1b32-45be-a1ff-1135600e622d",
+    "data": [
+      {
+        "text": "How soon will I get my diploma?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518249600
+  },
+  {
+    "id": "3c5ce3b5-bd64-4afa-911f-21d3ebf33ac3",
+    "data": [
+      {
+        "text": "When will I receive my diploma?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518249600
+  }
+]

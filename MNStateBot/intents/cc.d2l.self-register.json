@@ -1,0 +1,37 @@
+{
+  "id": "475c60d7-2507-42e3-9680-a82dc7eb7f73",
+  "name": "cc.d2l.self-register",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1b9426d6-bb63-48e3-b450-5cf9550a9eeb",
+          "required": false,
+          "dataType": "@D2L",
+          "name": "D2L",
+          "value": "$D2L",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There are several \"self-registration\" courses available in D2L Brightspace (e.g. Writing Boot Camp).\n\nAnyone with access to Century\u0027s online learning environment, D2L Brightspace, can self-register (self-enroll) into these courses if they need to.\n\nSimply follow these steps:\n\n    Log into D2L Brightspace.\n    At the main \"Welcome Page\", click on Self-Registration in the navbar at the top of the page.\n    From the list that shows, click on the self-registration course you need to access.\n    Click the Register button.\n    Click the Submit button.\n    Click the Finish  button.\n    Click the Done button.\n\n\nOnce you click the \"Done\" button, you will be returned to your main D2L Brightspace \"Welcome Page\". Under \"My Courses\" you will now have a semester titled \"Self-Registration Courses\". Click the course\u0027s hyperlink to access the course."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516685440,
+  "fallbackIntent": false,
+  "events": []
+}

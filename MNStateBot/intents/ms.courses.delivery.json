@@ -1,0 +1,36 @@
+{
+  "id": "8e77d5d9-f765-415c-b990-d484e5952911",
+  "name": "ms.courses.delivery",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2d0ba3b4-7958-450f-aa6a-c8765cf5e9bc",
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Delivery: This is how the course is offered. Options include \u0027classroom\u0027, \u0027online\u0027, and \u0027blended/hybrid\u0027.\n\n    Classroom: This course section meets on campus on the days and times listed.\n\n    Online: An online course section does not meet on campus. The course materials are presented over the internet, using the web-based software D2L Brightspace (formerly Desire2Learn). The instructors may use Brightspace to give assignments, answer questions, lead discussions, etc. Online learning is not ideal for everyone. Is it right for you? Take the SmartMeasure Assessment to find out! Use the following when you log-in the first time:\n\n    http://century.smartermeasure.com/\n    Username: centurystudent\n    Password: century\n\n    Hybrid Classroom/Online: These course sections are partially online and are also called Blended Online and Campus-Based. A significant portion of the course is delivered using the internet. The course does have scheduled times that it meets on campus as well. The course schedule will list the days/times the course is on campus."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518503520,
+  "fallbackIntent": false,
+  "events": []
+}

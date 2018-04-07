@@ -1,0 +1,35 @@
+[
+  {
+    "id": "14cab0cc-c0d1-44c2-8128-5f72b2fab3e5",
+    "data": [
+      {
+        "text": "Does ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": " have career counselors?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6d7c0a90-c596-49cf-9702-b6c044cc3faa",
+    "data": [
+      {
+        "text": "Do you have career counselors?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510696016
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "id": "9d126082-98a0-4972-97b1-fd18e654c214",
+  "name": "cc.accuplacer.appeal",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d0da6d5b-e73c-40f9-8adf-7df48309ae0d",
+          "dataType": "@exam",
+          "name": "exam",
+          "value": "$exam",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "After testing twice within a twelve (12) month period, if the student wishes to appeal for a specific placement, you must fill out the Placement Appeal form available in the testing center (W2470) and counseling office (W2400) and take it to the department faculty representative to make an appointment for the next step in the appeal process. The appeal decision is determined by the reading, English and mathematics departments respectively."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518499258,
+  "fallbackIntent": false,
+  "events": []
+}

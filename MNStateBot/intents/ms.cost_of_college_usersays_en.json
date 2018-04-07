@@ -1,0 +1,50 @@
+[
+  {
+    "id": "3f50a4ad-5e0e-404f-8c53-97cb8e360a8e",
+    "data": [
+      {
+        "text": "How can I calculate my college costs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515684253
+  },
+  {
+    "id": "d75316d5-3250-4589-9d41-bd0cd20acfc2",
+    "data": [
+      {
+        "text": "Is there a way to calculate college costs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515684253
+  },
+  {
+    "id": "8b71d921-b5fd-45b2-953b-5e91d15cde7b",
+    "data": [
+      {
+        "text": "How can I calculate how much will college cost?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515684253
+  },
+  {
+    "id": "3bfd7acb-4c7c-47d0-ae56-4611bbec29b4",
+    "data": [
+      {
+        "text": "How can I figure out how much college will cost?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515684253
+  }
+]

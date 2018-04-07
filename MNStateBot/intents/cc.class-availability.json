@@ -1,0 +1,45 @@
+{
+  "id": "454935cc-ca8d-4d0f-a807-635b592d844e",
+  "name": "cc.class-availability",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "13c53430-5462-430f-96d5-68ebe5ef5355",
+          "required": false,
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        },
+        {
+          "id": "e9d28581-3c84-45d4-9937-fcde803c8bb9",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Century College offers classes in the morning, afternoon, evenings, online and on Saturdays.\nFor more information, click: https://eservices.minnstate.edu/esession/authentication.do?campusId\u003d304"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518251110,
+  "fallbackIntent": false,
+  "events": []
+}

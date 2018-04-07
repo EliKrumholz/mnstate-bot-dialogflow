@@ -1,0 +1,36 @@
+{
+  "id": "4676c7b9-a1e3-492d-810b-4dcd7fcbb94c",
+  "name": "cc.no-one",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I am just a computer but I am sorry about this! :-(   We might be closed or busy. Give us a little more time, or you can call us at: 651-773-1700 or\n800-228-1978.  Maybe you could stop by? The Century Admissions Office is located at our West Campus, W2303",
+            "That isn\u0027t good!  Us computers are 24/7, but perhaps the peeps are out or are busy. I will suggest you give them a little more time, or you can call them at: 651-773-1700 or\n800-228-1978.  Maybe you could stop by? The Century Admissions Office is located at our West Campus, W2303"
+          ]
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {}
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514406263,
+  "fallbackIntent": false,
+  "events": []
+}

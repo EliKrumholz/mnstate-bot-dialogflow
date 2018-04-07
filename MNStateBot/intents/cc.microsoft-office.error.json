@@ -1,0 +1,37 @@
+{
+  "id": "9b4fcca5-fea3-44fd-9d1a-a86a2a08b7b0",
+  "name": "cc.microsoft-office.error",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d16fd398-c07b-4b48-b8d0-cbc45963a753",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "How to fix an installation error will depend on different factors, but since this is a cloud version of Microsoft, Century Information Technology will not be able to assist you for these types of errors:\n\n    Something went wrong…\n    http://support.microsoft.com/kb/2827031\n    For other installation issues\n    http://support.microsoft.com/kb/2822317\n\nFor more information on free and reduced software for Century students, watch Century\u0027s Students - Free and Reduced Software video.\nhttps://mediaspace.minnstate.edu/media/Students+-+6+-+Free+and+Reduced+SW.mp4/0_vagvp7ug"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518501877,
+  "fallbackIntent": false,
+  "events": []
+}

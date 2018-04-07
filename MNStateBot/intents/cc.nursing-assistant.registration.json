@@ -1,0 +1,28 @@
+{
+  "id": "4e14bc3c-7229-414c-a2a0-c25bebff84a3",
+  "name": "cc.nursing-assistant.registration",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "For the hour-based option, call 651-779-3341 or go to: \nhttp://century.augusoft.net/index.cfm?https://mnscu.rschooltoday.com/public/getcategory/program_id/4\n\nFor the college-credit based option, go to HSCI 1001:\nhttps://eservices.minnstate.edu/registration/search/basic.html?campusid\u003d304"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518535069,
+  "fallbackIntent": false,
+  "events": []
+}

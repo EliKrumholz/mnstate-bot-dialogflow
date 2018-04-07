@@ -1,0 +1,28 @@
+{
+  "id": "e19f85d8-2038-4b35-b84d-6351a80985bd",
+  "name": "cc.transcript-unofficial",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can do this yourself. Here are the directions: 1. Log in to eServices with your StarID and Password. Be sure to click the box after Display Name for your name to appear on the unofficial transcripts. 2.Select Grades and Transcripts from the menu on the left-hand side of the screen. 3. Select Academic Record. 4. Choose how you want your unofficial transcript/academic record sorted (chronological is the most common). 5. Select Get Academic Record and print. \n\nIf you are not able to access your unoffical transcript online, you can contact the Records Office at  651.779.3299 or records@century.edu"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514407796,
+  "fallbackIntent": false,
+  "events": []
+}

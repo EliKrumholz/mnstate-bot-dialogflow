@@ -1,0 +1,29 @@
+{
+  "id": "459d7336-7069-44b0-b17d-42e2ec0bc18c",
+  "name": "cc.pseo.classes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "PSEO students typically take general education courses. Please refer to https://www.century.edu/support-services/transfer-resources/minnesota-transfer-curriculum-mntc for a list of eligible general education courses offered at Century College."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515205580,
+  "fallbackIntent": false,
+  "events": []
+}

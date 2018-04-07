@@ -1,0 +1,28 @@
+{
+  "id": "9b54fc6d-847e-4385-876c-473e2d1bee88",
+  "name": "cc.grade.d",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Towards Graduation:\n\nIn most cases, a grade of \"D\" will apply towards graduation.  You must have a cumulative GPA (grade point average) of 2.0 in your MnTC/general education course, in your program courses, and overall.\n\nThere are certain circumstances where a grade of \"C\" is required such as for English 1021 for an Associate in Arts Degree or for requirements in certain programs such as nursing or radiologic technology.  View your degree audit report (DARS - http://century.custhelp.com/app/answers/detail/a_id/216) to see if a class that you have completed falls in this category. Talk with your assigned counselor or advisor if you have additional questions. https://www.century.edu/support-services/advising-counseling\n\nTowards Transfer:\n\nPolicies on this vary.  It is best to check with institution where you plan to transfer. You may find this information in the college catalog or on a transfer guide.  Century College will accept credit with a grade of \"D\", however, you may need to take the course again if a grade of \"C\" or higher is required."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518504232,
+  "fallbackIntent": false,
+  "events": []
+}

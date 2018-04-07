@@ -1,0 +1,28 @@
+{
+  "id": "d5bca6bd-fb37-46b4-9679-a83563d8f7e8",
+  "name": "cc.orientation.new-student.guests",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There is a two part process for New Student Orientation: Registration Session and Welcome Day. Due to room capacity limitations, family members and friends are not allowed to sit with students during the Registration Session. However, interested parents and family members are encouraged and welcome to attend Welcome Day. A session will be offered to help parents learn important policies, dates and information that will help their student be successful their first semester at Century."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518498066,
+  "fallbackIntent": false,
+  "events": []
+}

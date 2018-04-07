@@ -1,0 +1,40 @@
+{
+  "id": "219d4447-4f6e-4c4d-8db7-f5776659d8c9",
+  "name": "cc.president",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1e7caf97-50e4-452c-9aa0-157ef1df5349",
+          "required": false,
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "The Century College President is Angelia Millender. She was appointed President July 1, 2017",
+            "Angelia Millender"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1511375950,
+  "fallbackIntent": false,
+  "events": []
+}

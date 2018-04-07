@@ -1,0 +1,28 @@
+{
+  "id": "744e468e-2e0e-43d0-a2b0-35d546692fd4",
+  "name": "cc.power-of-you.financial-aid",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Federal and State grants are first applied to your tuition and mandatory fees. The Power of YOU program will cover any remaining tuition and fee expenses."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518532310,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "f94f6281-9279-4664-afd4-c4dc272fc20c",
+  "name": "cc.emergency-housing",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Century Counselors are available to assist you search for housing as well as to offer you support in other areas of your life that may be affected by a housing crisis; call 651-779-3285 for assistance.\nhttps://www.century.edu/support-services/student-wellness/personal-counseling\n\nIf you\u0027re still looking for more information, here\u0027s a good resource for help:\nhttp://century.custhelp.com/app/answers/detail/a_id/596"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516680419,
+  "fallbackIntent": false,
+  "events": []
+}

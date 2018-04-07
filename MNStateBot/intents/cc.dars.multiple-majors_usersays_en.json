@@ -1,0 +1,48 @@
+[
+  {
+    "id": "5487812e-dc8c-49bc-a3bd-eff283d77b4e",
+    "data": [
+      {
+        "text": "Can I see my DARS for a different major?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518334125
+  },
+  {
+    "id": "7e45f89c-f564-4a24-b37e-8828a5ac3e97",
+    "data": [
+      {
+        "text": "What if I want to see my DARS for a degree I\u0027m not enrolled in.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518334125
+  },
+  {
+    "id": "168550e5-6f70-40a5-9bc1-5064c94137d3",
+    "data": [
+      {
+        "text": "I\u0027m thinking about changing my major or I am working on 2 majors at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "unit-time",
+        "meta": "@unit-time",
+        "userDefined": false
+      },
+      {
+        "text": ". Can I get a DARS audit for a different major or program without changing my enrollment information?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518334125
+  }
+]

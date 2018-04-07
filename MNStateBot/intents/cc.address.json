@@ -1,0 +1,42 @@
+{
+  "id": "5a48822f-de4a-4672-b7c2-783e2d9d41af",
+  "name": "cc.address",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a84494b9-d1ef-40b8-aed6-29b5a3ba3ed3",
+          "required": false,
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "3300 Century Ave N, White Bear Lake, MN 55110",
+            "Century College is located at: 3300 Century Ave N, White Bear Lake, MN 55110",
+            "You can find Century at: 3300 Century Ave N, White Bear Lake, MN 55110",
+            "You can mail and find Century at 3300 Century Ave N, White Bear Lake, MN 55110"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1511825260,
+  "fallbackIntent": false,
+  "events": []
+}

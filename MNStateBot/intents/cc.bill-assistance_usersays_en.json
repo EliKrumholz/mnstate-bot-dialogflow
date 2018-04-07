@@ -1,0 +1,56 @@
+[
+  {
+    "id": "e1a72949-afb8-4cbb-bf1b-09b3af9711f0",
+    "data": [
+      {
+        "text": "Is there  assistance to pay for ",
+        "userDefined": false
+      },
+      {
+        "text": "bills",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518251250
+  },
+  {
+    "id": "ea137753-bacb-4d86-baee-5637f61f8d3c",
+    "data": [
+      {
+        "text": "I need help paying for my bills.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518251250
+  },
+  {
+    "id": "f4ccdd6c-69e8-4080-99ef-1baee651941e",
+    "data": [
+      {
+        "text": "Where can I find assistance  to pay my energy and utility ",
+        "userDefined": false
+      },
+      {
+        "text": "bills",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518251250
+  }
+]

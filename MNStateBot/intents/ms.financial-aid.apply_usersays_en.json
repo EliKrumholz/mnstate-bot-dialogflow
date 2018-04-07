@@ -1,0 +1,47 @@
+[
+  {
+    "id": "2dea8611-c1df-43bd-9b7b-c98a07dbb950",
+    "data": [
+      {
+        "text": "What are the steps I need to go through to get money and financial aid?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515099848
+  },
+  {
+    "id": "f20913ba-03d7-4743-bb48-d812749226d1",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I need to to to apply for financial aid?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515099848
+  },
+  {
+    "id": "853b1cf9-12d3-4e59-a081-c23d2eef7b91",
+    "data": [
+      {
+        "text": "How do I apply for financial aid?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515099848
+  }
+]

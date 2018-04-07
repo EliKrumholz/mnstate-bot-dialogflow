@@ -1,0 +1,31 @@
+{
+  "id": "85af438a-fdbb-41c2-ac6b-934faa78dfba",
+  "name": "ms.cost_of_college",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "It\u0027s complicated, so to save you some time, here is a link that has four resources for you to use: https://mnscuservices.custhelp.com/app/answers/detail/a_id/2787",
+            "I can\u0027t give you a straight-up answer, but consider going to this page, as it has four resources for you https://mnscuservices.custhelp.com/app/answers/detail/a_id/2787"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515684253,
+  "fallbackIntent": false,
+  "events": []
+}

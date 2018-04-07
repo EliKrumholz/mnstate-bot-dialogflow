@@ -1,0 +1,41 @@
+[
+  {
+    "id": "47c87d3e-1b71-42b5-b629-df869e8a2e80",
+    "data": [
+      {
+        "text": "Are there athletics programs at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century college",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518503016
+  },
+  {
+    "id": "7d09f191-30a0-4129-abb1-a66fe23d47f9",
+    "data": [
+      {
+        "text": "Do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you have student athletics?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518503016
+  }
+]

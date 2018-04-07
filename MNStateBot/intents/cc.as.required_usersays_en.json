@@ -1,0 +1,31 @@
+[
+  {
+    "id": "98a03c7c-2c49-4778-b4ba-265d576300b2",
+    "data": [
+      {
+        "text": "Do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I need to get the Associate in Science in Engineering degree before transferring?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1518369361
+  },
+  {
+    "id": "27d4a441-0576-4d34-bac3-95ea9d70ce40",
+    "data": [
+      {
+        "text": "Do I need to get an Associates degree before transferring?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518369361
+  }
+]

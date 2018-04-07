@@ -1,0 +1,38 @@
+[
+  {
+    "id": "b2dc1d90-b968-4d46-be11-caf3f34d8130",
+    "data": [
+      {
+        "text": "I need to find my off-campus courses.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518535524
+  },
+  {
+    "id": "0bdab65c-1da2-4666-a2fb-9a2fb019edcc",
+    "data": [
+      {
+        "text": "I\u0027m taking a course off campus, can you help me find it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518535445
+  },
+  {
+    "id": "1003ecf9-c9c3-43c0-a0cb-bfaff2991454",
+    "data": [
+      {
+        "text": "Where is my off-campus course located?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518535445
+  }
+]

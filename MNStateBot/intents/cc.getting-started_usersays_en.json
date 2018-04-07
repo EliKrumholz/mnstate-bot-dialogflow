@@ -1,0 +1,48 @@
+[
+  {
+    "id": "7eac43eb-d66b-41d1-a94e-ea4e5db18a0c",
+    "data": [
+      {
+        "text": "I need some help getting started with going to college.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518251555
+  },
+  {
+    "id": "ac59030f-91f6-47f1-9948-df15c34120b8",
+    "data": [
+      {
+        "text": "Is there someone at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": " who can help me get started?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518251555
+  },
+  {
+    "id": "2edc0156-f603-4df6-87a4-a4d1e964a3ab",
+    "data": [
+      {
+        "text": "Can I meet with someone to help me get started?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518251555
+  }
+]

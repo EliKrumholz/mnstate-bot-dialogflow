@@ -1,0 +1,67 @@
+[
+  {
+    "id": "779f3369-d29a-4129-9fbf-0ff15f990ec4",
+    "data": [
+      {
+        "text": "How often is ",
+        "userDefined": false
+      },
+      {
+        "text": "D2L",
+        "alias": "D2L",
+        "meta": "@D2L",
+        "userDefined": true
+      },
+      {
+        "text": " updated?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c16ef477-15ef-404d-92da-15572a3c9d66",
+    "data": [
+      {
+        "text": "When is ",
+        "userDefined": false
+      },
+      {
+        "text": "D2L",
+        "alias": "D2L",
+        "meta": "@D2L",
+        "userDefined": true
+      },
+      {
+        "text": " updated?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510495546
+  },
+  {
+    "id": "b2fefb50-ddc2-44bb-8adf-5b9f6774ab79",
+    "data": [
+      {
+        "text": "When are ",
+        "userDefined": false
+      },
+      {
+        "text": "D2L",
+        "alias": "D2L",
+        "meta": "@D2L",
+        "userDefined": true
+      },
+      {
+        "text": " updates run?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510495546
+  }
+]

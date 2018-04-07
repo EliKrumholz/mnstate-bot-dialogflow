@@ -1,0 +1,26 @@
+[
+  {
+    "id": "a544baee-04cc-4b68-bdf5-4906129fe823",
+    "data": [
+      {
+        "text": "Eightball prediction",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522768357
+  },
+  {
+    "id": "1ed4be1b-9938-442f-b8c4-fda10ad8e16d",
+    "data": [
+      {
+        "text": "Zoltar prediction",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522768357
+  }
+]

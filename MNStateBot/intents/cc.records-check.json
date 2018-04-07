@@ -1,0 +1,28 @@
+{
+  "id": "c49e2d4a-3e61-4f3f-872e-b752831265de",
+  "name": "cc.records-check",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Log in to the eServices registration website with your StarID and Password. Select Grades and Transcripts from the menu on the left-hand side of the screen. If you need an official transcript see your school\u0027s guidelines. https://eservices.minnstate.edu/eservices/login.html?campusid\u003d304"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518248337,
+  "fallbackIntent": false,
+  "events": []
+}

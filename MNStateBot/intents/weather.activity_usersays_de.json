@@ -1,0 +1,473 @@
+[
+  {
+    "id": "fdeae943-98c9-4dc6-9add-6e002952f620",
+    "data": [
+      {
+        "text": "ist das Wetter so gut dass man draußen ",
+        "userDefined": false
+      },
+      {
+        "text": "Frisbee",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " spielen kann",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "de302322-cfd1-4dc3-bf88-ce0048a8832f",
+    "data": [
+      {
+        "text": "kann man im Moment gut ",
+        "userDefined": false
+      },
+      {
+        "text": "wandern",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " gehen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "170a9244-75c7-485a-af8f-a89b8fce2f1e",
+    "data": [
+      {
+        "text": "gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "diesen Sommer",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " schönes ",
+        "userDefined": false
+      },
+      {
+        "text": "Campingwetter",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e8fe7d8-dfcb-48d1-9ef3-17ed6b64d6b9",
+    "data": [
+      {
+        "text": "ist es warm genug um in ",
+        "userDefined": false
+      },
+      {
+        "text": "Zürich",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "joggen",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " zu gehen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7154a27e-c691-46b3-a4d6-361574c8a08a",
+    "data": [
+      {
+        "text": "kann ich ",
+        "userDefined": false
+      },
+      {
+        "text": "heute",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Bern",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "schwimmen",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " gehen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97252089-7663-4891-af10-8649df0dcca4",
+    "data": [
+      {
+        "text": "kann ich bei diesem Wetter draußen ",
+        "userDefined": false
+      },
+      {
+        "text": "schwimmen",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c539e5ab-027b-4eb7-b9d6-c9a12688292d",
+    "data": [
+      {
+        "text": "kann ",
+        "userDefined": false
+      },
+      {
+        "text": "ich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "schwimmen",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": false
+      },
+      {
+        "text": " gehen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8101ad5b-6bc8-4467-b5c7-803dd896c65c",
+    "data": [
+      {
+        "text": "kann ",
+        "userDefined": false
+      },
+      {
+        "text": "ich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "joggen",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": false
+      },
+      {
+        "text": " gehen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac0a771a-2344-45d3-aab6-dd043fd21c57",
+    "data": [
+      {
+        "text": "kann ",
+        "userDefined": false
+      },
+      {
+        "text": "ich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "heute",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "schwimmen",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": false
+      },
+      {
+        "text": " gehen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bef7ee3d-5a76-4352-b7cc-fa82ba6363c0",
+    "data": [
+      {
+        "text": "ist es ",
+        "userDefined": false
+      },
+      {
+        "text": "warm",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " genug um ",
+        "userDefined": false
+      },
+      {
+        "text": "schwimmen",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": false
+      },
+      {
+        "text": " zu gehen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a6c67a4c-9975-4825-86b4-8c1819a70f17",
+    "data": [
+      {
+        "text": "kann ",
+        "userDefined": false
+      },
+      {
+        "text": "ich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Berlin",
+        "alias": "address",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "schwimmen",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": false
+      },
+      {
+        "text": " gehen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5cfe88d-69ed-42be-9e5c-5a6c40574dbc",
+    "data": [
+      {
+        "text": "wird es ",
+        "userDefined": false
+      },
+      {
+        "text": "morgen",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Schnee",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " geben um zu ",
+        "userDefined": false
+      },
+      {
+        "text": "rodeln",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "716dfa43-fa63-4e3f-87f3-b164a6ef8a05",
+    "data": [
+      {
+        "text": "ist das ",
+        "userDefined": false
+      },
+      {
+        "text": "Wetter",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gut um ",
+        "userDefined": false
+      },
+      {
+        "text": "Drahen steigen",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": true
+      },
+      {
+        "text": " zu lassen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29496452-e383-4560-b29d-07e7dda2f01c",
+    "data": [
+      {
+        "text": "ist es ",
+        "userDefined": false
+      },
+      {
+        "text": "heiß",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " genug um zu ",
+        "userDefined": false
+      },
+      {
+        "text": "schwimmen",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cad53a73-fc0b-4d69-8856-2aa56b711521",
+    "data": [
+      {
+        "text": "kann ",
+        "userDefined": false
+      },
+      {
+        "text": "ich",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "dieses Wochenende",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "reiten",
+        "alias": "activity",
+        "meta": "@activity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

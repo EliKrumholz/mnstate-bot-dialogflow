@@ -1,0 +1,45 @@
+[
+  {
+    "id": "aac45b6c-d13d-4f44-b3fc-6b60be2e6604",
+    "data": [
+      {
+        "text": "Help me connect my iPhone to ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027s wifi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518507480
+  },
+  {
+    "id": "68933d4b-70b4-499e-bba1-593a8e6cc64d",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I get wifi on my iPhone?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518507480
+  }
+]

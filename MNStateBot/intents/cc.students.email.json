@@ -1,0 +1,28 @@
+{
+  "id": "71394a0e-f00e-4150-8ea9-7bc731b86c69",
+  "name": "cc.students.email",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Your email address is your StarID@my.century.edu\n\nExample: abcd0123@my.century.edu"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518508409,
+  "fallbackIntent": false,
+  "events": []
+}

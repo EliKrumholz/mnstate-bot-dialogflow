@@ -1,0 +1,28 @@
+{
+  "id": "207e17e1-a129-4078-b5e5-253e7558e51b",
+  "name": "cc.email-forward",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "While Century does enable forwarding of messages from your Century College email account to other accounts, YOU ARE STILL FULLY RESPONSIBLE FOR ALL MESSAGES SENT TO YOUR CENTURY COLLEGE ACCOUNT.\n\nIf a message fails to forward properly or has other technical problems, you must still check your Century College mailbox to be certain not to miss important messages and announcements.\n\nTo forward email from your Century College account to your personal email account:\n\n    Log in to your email account: https://my.century.edu/\n    In the upper right corner, click the Settings icon in Outlook Web.\n    From  Your app settings, click Mail.\n    On the left side of your screen, select Forwarding from the Accounts section.\n    Click on the radio button next to Start forwarding and enter the email address you want your Century emails to be forwarded to.\n    Click the Save icon."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516682431,
+  "fallbackIntent": false,
+  "events": []
+}

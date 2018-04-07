@@ -1,0 +1,62 @@
+[
+  {
+    "id": "d8ae8827-26a8-4276-aec4-1836c4c26c70",
+    "data": [
+      {
+        "text": "Can you help me find a scholarship?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515685351
+  },
+  {
+    "id": "8585445b-f8e5-4856-84e3-d2da74998401",
+    "data": [
+      {
+        "text": "I need a scholarship.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515685351
+  },
+  {
+    "id": "90db7739-8479-4426-a19d-edc2b9c38ab7",
+    "data": [
+      {
+        "text": "Is there a place I can poke around and look for scholarships?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515685351
+  },
+  {
+    "id": "2537cee5-7e6b-4257-8890-88c64f2d1fe5",
+    "data": [
+      {
+        "text": "I need a place to look for scholarships.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515685351
+  },
+  {
+    "id": "66ed935f-89d2-4fa7-9c27-5bf051d1c2bd",
+    "data": [
+      {
+        "text": "Where can I find some information on scholarship?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515685351
+  }
+]

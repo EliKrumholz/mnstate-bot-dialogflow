@@ -1,0 +1,57 @@
+[
+  {
+    "id": "6b82023a-cdac-4e98-b4e4-e1fd53256106",
+    "data": [
+      {
+        "text": "I need to scan something, where would I ",
+        "userDefined": false
+      },
+      {
+        "text": "be",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " able to do that?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518536888
+  },
+  {
+    "id": "05ebf6c1-3a66-4a3a-8b2b-e2f04a86428e",
+    "data": [
+      {
+        "text": "Where can I find a scanner at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518536888
+  },
+  {
+    "id": "38c21ab9-07cd-4980-8978-24b13886fef2",
+    "data": [
+      {
+        "text": "Are there any scanners on campus for students to use?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518536888
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "5a369cd1-c433-4ec9-92d3-e0470e29006f",
+    "data": [
+      {
+        "text": "How many students are at ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1511826144
+  },
+  {
+    "id": "823bcc69-5054-433f-a4a6-2b37e729a4c0",
+    "data": [
+      {
+        "text": "What is the total number of students at Century?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1511826144
+  },
+  {
+    "id": "94ea0fcc-bd29-4e05-ae21-cec2f578d176",
+    "data": [
+      {
+        "text": "How many students go to ",
+        "userDefined": false
+      },
+      {
+        "text": "Century",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1511826144
+  },
+  {
+    "id": "6b4d014c-0026-4764-b9fb-28fda79a53e2",
+    "data": [
+      {
+        "text": "What is Century\u0027s enrollment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1511826144
+  },
+  {
+    "id": "0dc142ad-056b-4abd-ab03-9cdc109ed270",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "big",
+        "alias": "degrees",
+        "meta": "@degrees",
+        "userDefined": false
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "Century College",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1511826144
+  }
+]

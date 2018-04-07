@@ -1,0 +1,42 @@
+{
+  "id": "3f82d4bd-c902-4eab-bc38-428feaf1f7f5",
+  "name": "zoltar.prediction",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Outlook is cloudy",
+            "It depends",
+            "It is certain",
+            "As I see it, yes",
+            "Reply hazy try again",
+            "Don\u0027t count on it",
+            "Most likely",
+            "Ask again later",
+            "Nope",
+            "Yep",
+            "Oooooh, that is a good question",
+            "I don\u0027t think so",
+            "It is better that I don\u0027t tell you."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522768357,
+  "fallbackIntent": false,
+  "events": []
+}

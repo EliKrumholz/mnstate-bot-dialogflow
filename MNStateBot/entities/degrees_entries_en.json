@@ -1,0 +1,697 @@
+[
+  {
+    "value": "Associate of Arts",
+    "synonyms": [
+      "Associate of Arts",
+      "AA",
+      "A.A."
+    ]
+  },
+  {
+    "value": "Bachelor of Arts",
+    "synonyms": [
+      "Bachelor of Arts",
+      "BA",
+      "B.A.",
+      "AB",
+      "A.B.",
+      "B. Arts"
+    ]
+  },
+  {
+    "value": "Bachelor of Science And Arts",
+    "synonyms": [
+      "Bachelor of Science And Arts",
+      "BSA"
+    ]
+  },
+  {
+    "value": "Bachelor of Accountancy",
+    "synonyms": [
+      "Bachelor of Accountancy",
+      "BAcy",
+      "B.Acy."
+    ]
+  },
+  {
+    "value": "Bachelor of Accounting",
+    "synonyms": [
+      "Bachelor of Accounting",
+      "BAcc",
+      "B.Acc."
+    ]
+  },
+  {
+    "value": "Bachelor of Animal and Veterinary Bioscience",
+    "synonyms": [
+      "Bachelor of Animal and Veterinary Bioscience",
+      "B.An.Vet.Bio.Sc."
+    ]
+  },
+  {
+    "value": "Bachelor of Applied Science",
+    "synonyms": [
+      "Bachelor of Applied Science",
+      "B.App.Sc.",
+      "B.A.Sc."
+    ]
+  },
+  {
+    "value": "Bachelor of Architecture",
+    "synonyms": [
+      "Bachelor of Architecture",
+      "BArch",
+      "B.Arch."
+    ]
+  },
+  {
+    "value": "Bachelor of Business Administration",
+    "synonyms": [
+      "Bachelor of Business Administration",
+      "B.B.A.",
+      "BBA"
+    ]
+  },
+  {
+    "value": "Bachelor of Civil Engineering",
+    "synonyms": [
+      "Bachelor of Civil Engineering",
+      "BCE",
+      "B.C.E."
+    ]
+  },
+  {
+    "value": "Bachelor of Commerce",
+    "synonyms": [
+      "Bachelor of Commerce",
+      "BComm",
+      "B.Comm.",
+      "BCom",
+      "B.Com."
+    ]
+  },
+  {
+    "value": "Bachelor of Communications",
+    "synonyms": [
+      "Bachelor of Communications",
+      "B.Comm."
+    ]
+  },
+  {
+    "value": "Bachelor of Dental Medicine",
+    "synonyms": [
+      "Bachelor of Dental Medicine",
+      "BDM",
+      "B.D.M."
+    ]
+  },
+  {
+    "value": "Bachelor of Dental Science",
+    "synonyms": [
+      "Bachelor of Dental Science",
+      "BDSc",
+      "B.D.Sc."
+    ]
+  },
+  {
+    "value": "Bachelor of Dental Surgery",
+    "synonyms": [
+      "Bachelor of Dental Surgery",
+      "BDS",
+      "B.D.S.",
+      "BChD",
+      "B.Ch.D."
+    ]
+  },
+  {
+    "value": "Bachelor of Dentistry",
+    "synonyms": [
+      "Bachelor of Dentistry",
+      "BDent",
+      "B.Dent."
+    ]
+  },
+  {
+    "value": "Bachelor of Design",
+    "synonyms": [
+      "Bachelor of Design",
+      "BDes",
+      "B.Des."
+    ]
+  },
+  {
+    "value": "Bachelor of Design Computing",
+    "synonyms": [
+      "Bachelor of Design Computing",
+      "B.Des.Comp."
+    ]
+  },
+  {
+    "value": "Bachelor of Design in Architecture",
+    "synonyms": [
+      "Bachelor of Design in Architecture",
+      "B.Des.Arch."
+    ]
+  },
+  {
+    "value": "Bachelor of Education",
+    "synonyms": [
+      "Bachelor of Education",
+      "BEd",
+      "B.Ed."
+    ]
+  },
+  {
+    "value": "Bachelor of Engineering",
+    "synonyms": [
+      "Bachelor of Engineering",
+      "BEng",
+      "B.Eng.",
+      "BE",
+      "B.E."
+    ]
+  },
+  {
+    "value": "Bachelor of Electronic Commerce",
+    "synonyms": [
+      "Bachelor of Electronic Commerce",
+      "B.E-COM.",
+      "BEC"
+    ]
+  },
+  {
+    "value": "Bachelor of Electrical Engineering",
+    "synonyms": [
+      "Bachelor of Electrical Engineering",
+      "BEE",
+      "B.E.E."
+    ]
+  },
+  {
+    "value": "Bachelor of Fine Arts",
+    "synonyms": [
+      "Bachelor of Fine Arts",
+      "BFA",
+      "B.F.A."
+    ]
+  },
+  {
+    "value": "Bachelor of Health Sciences",
+    "synonyms": [
+      "Bachelor of Health Sciences",
+      "B.Hlth.Sci"
+    ]
+  },
+  {
+    "value": "Bachelor of Information Technology",
+    "synonyms": [
+      "Bachelor of Information Technology",
+      "BIT",
+      "B.I.T."
+    ]
+  },
+  {
+    "value": "Bachelor of International and Global Studies",
+    "synonyms": [
+      "Bachelor of International and Global Studies",
+      "BIGS",
+      "B.I.G.S."
+    ]
+  },
+  {
+    "value": "Bachelor of Law",
+    "synonyms": [
+      "Bachelor of Law",
+      "LLB",
+      "LL.B."
+    ]
+  },
+  {
+    "value": "Bachelor of Liberal Arts and Sciences",
+    "synonyms": [
+      "Bachelor of Liberal Arts and Sciences",
+      "BLAS",
+      "B.L.A.S."
+    ]
+  },
+  {
+    "value": "Bachelor of Library Science",
+    "synonyms": [
+      "Bachelor of Library Science",
+      "BLib",
+      "B.Lib.",
+      "BLS",
+      "B.L.S."
+    ]
+  },
+  {
+    "value": "Bachelor of Literature",
+    "synonyms": [
+      "Bachelor of Literature",
+      "BLit",
+      "B.Lit."
+    ]
+  },
+  {
+    "value": "Bachelor of Mathematics",
+    "synonyms": [
+      "Bachelor of Mathematics",
+      "BMath",
+      "B.Math."
+    ]
+  },
+  {
+    "value": "Bachelor of Mechanical Engineering",
+    "synonyms": [
+      "Bachelor of Mechanical Engineering",
+      "BME",
+      "B.M.E."
+    ]
+  },
+  {
+    "value": "Bachelor of Medical Science",
+    "synonyms": [
+      "Bachelor of Medical Science",
+      "B.Med.Sc."
+    ]
+  },
+  {
+    "value": "Bachelor of Music Studies",
+    "synonyms": [
+      "Bachelor of Music Studies",
+      "B.Mus.Studies"
+    ]
+  },
+  {
+    "value": "Bachelor of Nursing",
+    "synonyms": [
+      "Bachelor of Nursing",
+      "BN",
+      "B.N."
+    ]
+  },
+  {
+    "value": "Bachelor of Pharmacy",
+    "synonyms": [
+      "Bachelor of Pharmacy",
+      "B.Pharm."
+    ]
+  },
+  {
+    "value": "Bachelor of Political, Economic and Social Sciences",
+    "synonyms": [
+      "Bachelor of Political, Economic and Social Sciences",
+      "B.P.E.S.S."
+    ]
+  },
+  {
+    "value": "Bachelor of Resource Economics",
+    "synonyms": [
+      "Bachelor of Resource Economics",
+      "B.Res.Ec."
+    ]
+  },
+  {
+    "value": "Bachelor of Science",
+    "synonyms": [
+      "Bachelor of Science",
+      "BS",
+      "B.S.",
+      "BSc",
+      "B.Sc."
+    ]
+  },
+  {
+    "value": "Bachelor of Science in Nursing",
+    "synonyms": [
+      "Bachelor of Science in Nursing",
+      "BSN",
+      "B.S.N."
+    ]
+  },
+  {
+    "value": "Bachelor of Socio-Legal Studies",
+    "synonyms": [
+      "Bachelor of Socio-Legal Studies",
+      "BSLS",
+      "B.S.L.S."
+    ]
+  },
+  {
+    "value": "Bachelor of Surgery",
+    "synonyms": [
+      "Bachelor of Surgery",
+      "MBBS",
+      "M.B.B.S.",
+      "MBChB",
+      "M.B.Ch.B.",
+      "MBBCh",
+      "M.B.B.Ch.",
+      "BMBS",
+      "B.M.B.S."
+    ]
+  },
+  {
+    "value": "Bachelor of Veterinary Science",
+    "synonyms": [
+      "Bachelor of Veterinary Science",
+      "B.V.Sc."
+    ]
+  },
+  {
+    "value": "Bachelor of Visual Arts",
+    "synonyms": [
+      "Bachelor of Visual Arts",
+      "BVA",
+      "B.V.A."
+    ]
+  },
+  {
+    "value": "Master of Arts",
+    "synonyms": [
+      "Master of Arts",
+      "MA",
+      "M.A.",
+      "A.M."
+    ]
+  },
+  {
+    "value": "Master of Business Administration",
+    "synonyms": [
+      "Master of Business Administration",
+      "MBA",
+      "M.B.A."
+    ]
+  },
+  {
+    "value": "Master of Commerce",
+    "synonyms": [
+      "Master of Commerce",
+      "MCom",
+      "M.Com."
+    ]
+  },
+  {
+    "value": "Master of Divinity",
+    "synonyms": [
+      "Master of Divinity",
+      "MDiv",
+      "M.Div."
+    ]
+  },
+  {
+    "value": "Master of Education",
+    "synonyms": [
+      "Master of Education",
+      "M.Ed."
+    ]
+  },
+  {
+    "value": "Master of Fine Arts",
+    "synonyms": [
+      "Master of Fine Arts",
+      "MFA",
+      "M.F.A."
+    ]
+  },
+  {
+    "value": "Master of International Affairs",
+    "synonyms": [
+      "Master of International Affairs",
+      "MIA",
+      "M.I.A."
+    ]
+  },
+  {
+    "value": "Master of International Studies",
+    "synonyms": [
+      "Master of International Studies",
+      "MIS",
+      "M.I.S."
+    ]
+  },
+  {
+    "value": "Master of Laws",
+    "synonyms": [
+      "Master of Laws",
+      "LLM",
+      "LL.M."
+    ]
+  },
+  {
+    "value": "Master of Library Science",
+    "synonyms": [
+      "Master of Library Science",
+      "MLS",
+      "M.L.S."
+    ]
+  },
+  {
+    "value": "Master of Liberal Arts",
+    "synonyms": [
+      "Master of Liberal Arts",
+      "MLA",
+      "M.L.A."
+    ]
+  },
+  {
+    "value": "Master of Professional Studies",
+    "synonyms": [
+      "Master of Professional Studies",
+      "MPS",
+      "M.P.S."
+    ]
+  },
+  {
+    "value": "Master of Public Administration",
+    "synonyms": [
+      "Master of Public Administration",
+      "MPA",
+      "M.P.A."
+    ]
+  },
+  {
+    "value": "Master of Public Health",
+    "synonyms": [
+      "Master of Public Health",
+      "MPH",
+      "M.P.H."
+    ]
+  },
+  {
+    "value": "Master of Science",
+    "synonyms": [
+      "Master of Science",
+      "MS",
+      "M.S.",
+      "MSc",
+      "M.Sc."
+    ]
+  },
+  {
+    "value": "Master of Social Work",
+    "synonyms": [
+      "Master of Social Work",
+      "MSW",
+      "M.S.W."
+    ]
+  },
+  {
+    "value": "Master of Strategic Foresight",
+    "synonyms": [
+      "Master of Strategic Foresight",
+      "MSF",
+      "M.S.F."
+    ]
+  },
+  {
+    "value": "Master of Theology",
+    "synonyms": [
+      "Master of Theology",
+      "ThM",
+      "Th.M."
+    ]
+  },
+  {
+    "value": "Doctor of Audiology",
+    "synonyms": [
+      "Doctor of Audiology",
+      "AuD",
+      "Au.D."
+    ]
+  },
+  {
+    "value": "Doctor of Chiropractic",
+    "synonyms": [
+      "Doctor of Chiropractic",
+      "DC",
+      "D.C."
+    ]
+  },
+  {
+    "value": "Doctor of Dental Surgery",
+    "synonyms": [
+      "Doctor of Dental Surgery",
+      "DDS",
+      "D.D.S."
+    ]
+  },
+  {
+    "value": "Doctor of Divinity",
+    "synonyms": [
+      "Doctor of Divinity",
+      "DD",
+      "D.D."
+    ]
+  },
+  {
+    "value": "Doctor of Education",
+    "synonyms": [
+      "Doctor of Education",
+      "EdD",
+      "Ed.D."
+    ]
+  },
+  {
+    "value": "Doctor of Jurisprudence",
+    "synonyms": [
+      "JD",
+      "J.D.",
+      "Doctor of Jurisprudence"
+    ]
+  },
+  {
+    "value": "Doctor of Medical Dentistry",
+    "synonyms": [
+      "Doctor of Medical Dentistry",
+      "DMD",
+      "D.M.D."
+    ]
+  },
+  {
+    "value": "Doctor of Medicine",
+    "synonyms": [
+      "Doctor of Medicine",
+      "MD",
+      "M.D."
+    ]
+  },
+  {
+    "value": "Doctor of Ministry",
+    "synonyms": [
+      "Doctor of Ministry",
+      "DMin"
+    ]
+  },
+  {
+    "value": "Doctor of Naturopathy",
+    "synonyms": [
+      "Doctor of Naturopathy",
+      "ND",
+      "N.D."
+    ]
+  },
+  {
+    "value": "Doctor of Nursing Practice",
+    "synonyms": [
+      "Doctor of Nursing Practice",
+      "DNP",
+      "D.N.P."
+    ]
+  },
+  {
+    "value": "Doctor of Optometry",
+    "synonyms": [
+      "Doctor of Optometry",
+      "OD",
+      "O.D."
+    ]
+  },
+  {
+    "value": "Doctor of Osteopathy",
+    "synonyms": [
+      "Doctor of Osteopathy",
+      "DO",
+      "D.O."
+    ]
+  },
+  {
+    "value": "Doctor of Pharmacy",
+    "synonyms": [
+      "Doctor of Pharmacy",
+      "PharmD",
+      "Pharm.D."
+    ]
+  },
+  {
+    "value": "Doctor of Philosophy",
+    "synonyms": [
+      "Doctor of Philosophy",
+      "PhD",
+      "Ph.D.",
+      "DPhil",
+      "D.Phil.",
+      "DPh",
+      "D.Ph."
+    ]
+  },
+  {
+    "value": "Doctor of Physical Therapy",
+    "synonyms": [
+      "Doctor of Physical Therapy",
+      "DPT",
+      "D.P.T."
+    ]
+  },
+  {
+    "value": "Doctor of Practical Theology",
+    "synonyms": [
+      "Doctor of Practical Theology",
+      "DPT",
+      "D.P.T."
+    ]
+  },
+  {
+    "value": "Doctor of Psychology",
+    "synonyms": [
+      "Doctor of Psychology",
+      "PsyD",
+      "Psy.D."
+    ]
+  },
+  {
+    "value": "Doctor of Public Health",
+    "synonyms": [
+      "Doctor of Public Health",
+      "DrPH"
+    ]
+  },
+  {
+    "value": "Doctor of Science",
+    "synonyms": [
+      "Doctor of Science",
+      "DSc",
+      "D.Sc.",
+      "ScD",
+      "Sc.D."
+    ]
+  },
+  {
+    "value": "Doctor of Theology",
+    "synonyms": [
+      "Doctor of Theology",
+      "D.Th.",
+      "Th.D.",
+      "ThD",
+      "DTh"
+    ]
+  },
+  {
+    "value": "Doctor of Veterinary Medicine",
+    "synonyms": [
+      "Doctor of Veterinary Medicine",
+      "DVM",
+      "D.V.M."
+    ]
+  }
+]

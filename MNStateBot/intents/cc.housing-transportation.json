@@ -1,0 +1,28 @@
+{
+  "id": "5b6ffd19-873c-43a8-9dfb-424eb20b1ccb",
+  "name": "cc.housing-transportation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "A Housing and Transportation Bulletin Board is located just outside of the Resource and Support Center (W1490) on west campus. Some examples may include room for rent or ride share."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516680440,
+  "fallbackIntent": false,
+  "events": []
+}

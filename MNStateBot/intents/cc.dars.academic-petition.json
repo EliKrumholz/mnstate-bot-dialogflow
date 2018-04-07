@@ -1,0 +1,28 @@
+{
+  "id": "d9ddef1d-9794-4390-a1c9-8435eaf8115b",
+  "name": "cc.dars.academic-petition",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Allow a minimum of 3 weeks from approval date for Academic Petitions to appear in Degree Audit Report.  Academic Petitions approved prior to Spring 2004 will not be recorded in DARS but are always part of your permanent file.  All of your records/documentation will be used in counseling sessions and graduation evaluation review. \n\nNote: In most cases, if your petition refers to a transfer course that is not reported in DARS, your academic petition cannot be reported in DARS."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518332856,
+  "fallbackIntent": false,
+  "events": []
+}
